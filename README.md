@@ -1,6 +1,6 @@
 # 클킷 사용자 가이드
 
-![강사는 강의만 하세요](.gitbook/assets/main-guide-banner.png)
+![](.gitbook/assets/main-guide-banner.png)
 
 > 강사는 강의만 하세요.  
 > 사이트 제작부터 판매, 정산, 수강생 관리까지 클킷이 함께합니다.
@@ -20,7 +20,7 @@
 
 클킷에서 첫 판매까지 필요한 과정은 아래 순서로 진행됩니다.
 
-![첫 판매까지 진행 순서](.gitbook/assets/first-sale-flow-rail.png)
+![](.gitbook/assets/first-sale-flow-rail.png)
 
 각 단계는 처음부터 완벽하게 준비하지 않아도 괜찮습니다. 먼저 판매 가능한 최소 흐름을 완성한 뒤, 강좌 설명과 사이트 디자인을 조금씩 다듬어도 됩니다.
 
@@ -30,8 +30,8 @@
 
 |  |  |  |
 | --- | --- | --- |
-| [![처음 판매 시작](.gitbook/assets/guide-card-first-sale.png)](./처음-판매까지-따라하기.md) | [![강좌 만들기](.gitbook/assets/guide-card-course.png)](./강좌-생성-가이드.md) | [![커리큘럼 영상 등록](.gitbook/assets/guide-card-curriculum.png)](./커리큘럼-영상-업로드-가이드.md) |
-| [![수강 상품 만들기](.gitbook/assets/guide-card-product.png)](./수강-상품-생성-가이드.md) | [![결제 정산 준비](.gitbook/assets/guide-card-settlement.png)](./결제-정산-준비하기.md) | [![운영 관리](.gitbook/assets/guide-card-operation.png)](./주문과-수강생-관리-가이드.md) |
+| [![](.gitbook/assets/guide-card-first-sale.png)](./처음-판매까지-따라하기.md) | [![](.gitbook/assets/guide-card-course.png)](./강좌-생성-가이드.md) | [![](.gitbook/assets/guide-card-curriculum.png)](./커리큘럼-영상-업로드-가이드.md) |
+| [![](.gitbook/assets/guide-card-product.png)](./수강-상품-생성-가이드.md) | [![](.gitbook/assets/guide-card-settlement.png)](./결제-정산-준비하기.md) | [![](.gitbook/assets/guide-card-operation.png)](./주문과-수강생-관리-가이드.md) |
 
 {% hint style="info" %}
 강좌, 상품, 수강권의 관계가 헷갈린다면 [강좌와 상품 만들기](./강좌와-상품-만들기.md)를 먼저 확인해 주세요.
