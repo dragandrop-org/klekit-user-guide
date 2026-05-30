@@ -1,6 +1,6 @@
 # 클킷 사용자 가이드
 
-![](.gitbook/assets/main-guide-banner.png)
+<figure><img src=".gitbook/assets/main-guide-banner.png" alt="클킷 사용자 가이드 배너"></figure>
 
 > 강사는 강의만 하세요.  
 > 사이트 제작부터 판매, 정산, 수강생 관리까지 클킷이 함께합니다.
@@ -20,7 +20,7 @@
 
 클킷에서 첫 판매까지 필요한 과정은 아래 순서로 진행됩니다.
 
-![](.gitbook/assets/first-sale-flow-rail.png)
+<figure><img src=".gitbook/assets/first-sale-flow-rail.png" alt="첫 판매까지 진행 순서"></figure>
 
 각 단계는 처음부터 완벽하게 준비하지 않아도 괜찮습니다. 먼저 판매 가능한 최소 흐름을 완성한 뒤, 강좌 설명과 사이트 디자인을 조금씩 다듬어도 됩니다.
 
