@@ -48,6 +48,8 @@
 
 사이트 이름과 주소를 입력해 첫 강의 사이트를 만듭니다.
 
+<figure><img src="../.gitbook/assets/screenshots/2-2-1.png" alt="강좌 사이트 개설 화면"><figcaption><p>사이트 이름과 주소를 입력해 첫 강의 사이트를 만듭니다.</p></figcaption></figure>
+
 예시:
 
 | 항목     | 예시            |
@@ -67,6 +69,8 @@
 
 관리자 화면에서 사이트의 기본 운영 정보를 입력합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/2-3-1.png" alt="테넌트 관리자 대시보드"><figcaption><p>대시보드에서 사이트 운영에 필요한 기본 설정을 확인합니다.</p></figcaption></figure>
+
 처음에는 아래 항목을 우선 입력합니다.
 
 | 우선 입력 항목     | 용도                  |
@@ -85,6 +89,8 @@
 ## 4. 강좌 만들기
 
 판매할 첫 강좌를 만듭니다.
+
+<figure><img src="../.gitbook/assets/screenshots/2-4-1.png" alt="강좌 생성 기본 정보 설정 화면"><figcaption><p>강좌 제목, 요약, 썸네일 등 수강생이 먼저 보는 정보를 입력합니다.</p></figcaption></figure>
 
 입력할 정보:
 
@@ -133,12 +139,16 @@
 
 수강생이 실제로 구매할 상품을 만듭니다. 강좌만 만들면 판매가 시작되지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/2-5-1.png" alt="수강 상품 종류 선택 화면"><figcaption><p>단일 강좌 상품 또는 패키지 상품 중 판매 방식에 맞는 상품 유형을 선택합니다.</p></figcaption></figure>
+
 | 상품 유형    | 언제 사용하나요                          |
 | -------- | --------------------------------- |
 | 단일 강좌 상품 | 강좌 1개를 판매할 때 사용합니다. 처음 판매에 추천합니다. |
 | 패키지 상품   | 여러 강좌를 묶어 판매할 때 사용합니다.            |
 
 입력할 정보:
+
+<figure><img src="../.gitbook/assets/screenshots/2-5-2.png" alt="단일 수강 상품 생성 화면"><figcaption><p>상품명, 연결 강좌, 수강 기간, 소개 내용을 입력해 구매 가능한 상품을 만듭니다.</p></figcaption></figure>
 
 | 입력 정보 | 용도              |
 | ----- | --------------- |
@@ -156,6 +166,8 @@
 
 강의 판매 금액을 정산받기 위한 정보를 입력합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/2-6-1.png" alt="정산 정보 관리 화면"><figcaption><p>정산 계좌, 사업자 정보, 통신판매업 정보 등 판매 정산에 필요한 정보를 등록합니다.</p></figcaption></figure>
+
 필요할 수 있는 정보:
 
 | 정보           | 용도           |
@@ -171,6 +183,10 @@
 ## 8. 사이트 화면 확인하기
 
 수강생이 보게 될 사이트 화면을 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/2-7-1.png" alt="수강생 사이트 메인 화면"><figcaption><p>수강생이 처음 보는 메인 화면에서 강좌와 사이트 분위기를 확인합니다.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/2-7-2.png" alt="수강생 사이트 강좌 목록 화면"><figcaption><p>강좌 목록에서 상품 카드, 가격, 구매 동선이 자연스럽게 보이는지 확인합니다.</p></figcaption></figure>
 
 완료 후 확인:
 
@@ -212,6 +228,8 @@
 ## 11. 첫 주문과 수강생 확인하기
 
 수강생이 결제하면 관리자 화면에서 주문과 수강생 상태를 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/2-8-1.png" alt="주문 상세 내역 화면"><figcaption><p>첫 주문이 들어오면 주문자, 상품, 결제 금액, 결제 상태를 확인합니다.</p></figcaption></figure>
 
 완료 후 확인:
 
