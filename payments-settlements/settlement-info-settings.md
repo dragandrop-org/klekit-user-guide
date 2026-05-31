@@ -18,6 +18,8 @@
 
 <figure><img src="../.gitbook/assets/settlement-setup-flow-rail.png" alt="정산 정보 설정 흐름"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/6-3-2.png" alt="정산 정보 등록 현황 화면"><figcaption><p>정산 정보 관리 화면에서 필수 항목의 입력 상태와 인증 상태를 확인합니다.</p></figcaption></figure>
+
 ## 필요한 정보
 
 | 정보          | 설명                           |
@@ -48,6 +50,8 @@
 
 판매 금액을 지급받을 계좌 정보를 입력합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/6-2-1.png" alt="정산 계좌 정보 입력 화면"><figcaption><p>예금주, 생년월일, 은행, 계좌번호와 통장 사본을 입력합니다.</p></figcaption></figure>
+
 확인할 것:
 
 | 확인 항목 | 기준             |
@@ -63,6 +67,8 @@
 ## 3. 사업자 정보 입력하기
 
 사업자로 운영하는 경우 사업자 정보를 입력합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/6-3-1.png" alt="사업자 통신판매업 정보 입력 화면"><figcaption><p>사업자등록번호와 상호명, 대표자 정보, 사업장 주소를 입력합니다.</p></figcaption></figure>
 
 확인할 것:
 

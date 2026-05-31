@@ -17,6 +17,8 @@
 
 주문 내역에서는 수강생의 결제 정보를 확인할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/7-2-1.png" alt="관리자 주문 상세 내역 화면"><figcaption><p>주문 상세에서는 주문자 정보, 상품 정보, 결제 수단, 결제 상태와 금액을 확인합니다.</p></figcaption></figure>
+
 | 확인 항목 | 의미                       |
 | ----- | ------------------------ |
 | 주문자   | 결제를 진행한 수강생              |
@@ -29,6 +31,10 @@
 ## 수강생 확인하기
 
 수강생 목록에서는 강좌를 수강 중인 사용자를 확인할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/9-1-1.png" alt="수강생 결제 목록 화면"><figcaption><p>수강생 목록에서 결제일, 결제 수단, 환불 여부와 주문 상세 이동 경로를 확인합니다.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/9-2-1.png" alt="회원 상세 정보 화면"><figcaption><p>회원 상세에서는 수강 내역, 결제 내역, 메모를 한 화면에서 관리합니다.</p></figcaption></figure>
 
 | 확인 항목    | 의미                         |
 | -------- | -------------------------- |

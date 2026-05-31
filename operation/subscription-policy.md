@@ -42,6 +42,8 @@
 
 구독 만료 상태가 되어도 기존 사이트와 콘텐츠가 바로 삭제되는 것은 아닙니다.
 
+<figure><img src="../.gitbook/assets/screenshots/11-2-1.png" alt="구독 만료 안내 화면"><figcaption><p>구독이 만료되면 제한되는 기능과 현재 상태를 확인하고, 필요하면 구독을 재개할 수 있습니다.</p></figcaption></figure>
+
 기존에 만든 데이터:
 
 | 데이터 | 처리 |
@@ -67,6 +69,8 @@
 다만 신규 판매나 일부 운영 기능은 제한될 수 있습니다.
 
 ## 플랜 선택
+
+<figure><img src="../.gitbook/assets/screenshots/11-1-1.png" alt="현재 구독과 플랜 변경 화면"><figcaption><p>현재 구독 화면에서 사용 중인 플랜, 구독 상태, 결제 방식, 플랜 변경 옵션을 확인합니다.</p></figcaption></figure>
 
 현재 STARTER와 PRO 플랜을 제공하며, 대규모 운영을 위한 BUSINESS 플랜은 준비 중입니다.
 
