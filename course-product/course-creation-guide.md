@@ -53,7 +53,9 @@
 
 썸네일은 강좌 목록과 상품 화면에서 수강생의 첫인상을 결정합니다.
 
-<figure><img src="../.gitbook/assets/screenshots/3-2-2.png" alt="강좌 썸네일 등록 화면"><figcaption><p>썸네일을 등록하면 강좌 목록과 상품 화면에서 대표 이미지로 사용됩니다.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots/3-2-1.png" alt="강좌 목록 생성 확인 화면"><figcaption><p>썸네일을 등록하면 강좌 목록과 상품 화면에서 대표 이미지로 사용됩니다.</p></figcaption></figure>
+
+
 
 확인할 것:
 
@@ -108,7 +110,7 @@
 | 커리큘럼  | 다음 단계에서 섹션과 강의를 등록할 수 있습니다.      |
 | 판매 연결 | 수강 상품에 강좌를 연결해야 수강생이 구매할 수 있습니다. |
 
-<figure><img src="../.gitbook/assets/screenshots/3-2-1.png" alt="강좌 목록 생성 확인 화면"><figcaption><p>강좌 생성 후 관리자 강좌 목록에서 생성된 강좌와 편집 상태를 확인합니다.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots/3-2-2.png" alt="강좌 썸네일 등록 화면"><figcaption></figcaption></figure>
 
 ## 다음 단계
 
