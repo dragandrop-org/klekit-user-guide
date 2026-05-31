@@ -37,6 +37,8 @@
 
 처음에는 섹션을 너무 많이 만들 필요가 없습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/4-1-1.png" alt="섹션 및 수업 관리 화면"><figcaption><p>섹션을 만들고 그 안에 수업을 추가해 수강생이 따라갈 학습 순서를 구성합니다.</p></figcaption></figure>
+
 추천 구조:
 
 | 추천 섹션  | 역할              |
@@ -63,6 +65,8 @@
 
 각 강의에 영상을 업로드합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/4-2-1.png" alt="수업 편집 영상 업로드 화면"><figcaption><p>수업 편집 화면에서 영상을 새로 업로드하거나 기존 업로드 파일을 연결할 수 있습니다.</p></figcaption></figure>
+
 확인할 것:
 
 | 확인 항목  | 기준                       |
@@ -75,6 +79,8 @@
 ## 4. 미리보기 강의 설정하기
 
 미리보기 강의는 수강생이 구매 전 강좌 분위기를 확인할 수 있도록 공개하는 강의입니다.
+
+<figure><img src="../.gitbook/assets/screenshots/4-3-1.png" alt="미리보기 강의 설정 화면"><figcaption><p>눈 아이콘으로 구매 전 공개할 미리보기 강의를 설정합니다.</p></figcaption></figure>
 
 추천:
 
