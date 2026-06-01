@@ -28,10 +28,10 @@
 
 찾으시는 내용이 있나요? 클릭하시면 관련 문서로 이동합니다.
 
-|                                                                                                                                                                       |                                                                                                  |                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| ![https://app.gitbook.com/o/ewEqCFNyeqDtSOf2fyM2/s/BhN826Dvv8jvB8YU6YnK/\~/edit/\~/changes/10/getting-started/first-sales-guide](.gitbook/assets/처음판매시작.png) | [![](.gitbook/assets/강좌만들기.png)](course-product/course-creation-guide.md)                | [![](<.gitbook/assets/커리큘럼 영상등록.png>)](course-product/curriculum-and-video-upload.md) |
-| [![](.gitbook/assets/수강상품만들기.png)](course-product/product-creation-guide.md)                                                                              | [![](<.gitbook/assets/결제 정산 준비.png>)](payments-settlements/payment-settlement-prep.md) | [![](<.gitbook/assets/운영 관리.png>)](operation/orders-students-management.md)                  |
+|                                                                                          |                                                                                                  |                                                                                                     |
+|------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [![](.gitbook/assets/처음판매시작.png)](getting-started/first-sales-guide.md)     | [![](.gitbook/assets/강좌만들기.png)](course-product/course-creation-guide.md)                | [![](<.gitbook/assets/커리큘럼 영상등록.png>)](course-product/curriculum-and-video-upload.md) |
+| [![](.gitbook/assets/수강상품만들기.png)](course-product/product-creation-guide.md) | [![](<.gitbook/assets/결제 정산 준비.png>)](payments-settlements/payment-settlement-prep.md) | [![](<.gitbook/assets/운영 관리.png>)](operation/orders-students-management.md)                  |
 
 {% hint style="info" %}
 강좌, 상품, 수강권의 관계가 헷갈린다면 [강좌와 상품 만들기](course-product/create-courses-and-products.md)를 먼저 확인해 주세요.
