@@ -23,7 +23,7 @@
 
 <figure><img src="../.gitbook/assets/payment-settlement-flow-rail.png" alt="결제 정산 준비 흐름"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/screenshots/7-1-1.png" alt="수강생 결제 내역 화면"><figcaption><p>수강생은 결제 내역에서 주문번호, 구매 상품, 결제 금액과 결제 상태를 확인할 수 있습니다.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/7-1-1.png" alt="수강생 결제 내역 화면"><figcaption><p>수강생은 결제 내역에서 주문번호, 구매 상품, 결제 금액과 결제 상태를 확인할 수 있습니다.</p></figcaption></figure>
 
 ## 별도 PG 계약이 필요한가요?
 
@@ -43,7 +43,7 @@
 
 입력이 필요한 항목은 관리자 설정 화면에서 안내됩니다.
 
-<figure><img src="../.gitbook/assets/screenshots/6-3-2.png" alt="정산 정보 입력 상태 화면"><figcaption><p>관리자 화면에서 정산 계좌, 사업자 정보, 통신판매업 정보의 입력 상태를 확인합니다.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6-3-2.png" alt="정산 정보 입력 상태 화면"><figcaption><p>관리자 화면에서 정산 계좌, 사업자 정보, 통신판매업 정보의 입력 상태를 확인합니다.</p></figcaption></figure>
 
 자세한 입력 방법은 [정산 정보 설정 가이드](settlement-info-settings.md)를 확인해 주세요.
 

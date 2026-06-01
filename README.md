@@ -30,7 +30,7 @@
 
 |                                                                                         |                                                                                                   |                                                                                                 |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [![](.gitbook/assets/guide-card-first-sale.png)](getting-started/first-sales-guide.md)  | [![](.gitbook/assets/guide-card-course.png)](course-product/course-creation-guide.md)             | [![](.gitbook/assets/guide-card-curriculum.png)](course-product/curriculum-and-video-upload.md) |
+| ![](<.gitbook/assets/클킷 가이드_처음 판매 시작.png>)                              | [![](.gitbook/assets/guide-card-course.png)](course-product/course-creation-guide.md)             | [![](.gitbook/assets/guide-card-curriculum.png)](course-product/curriculum-and-video-upload.md) |
 | [![](.gitbook/assets/guide-card-product.png)](course-product/product-creation-guide.md) | [![](.gitbook/assets/guide-card-settlement.png)](payments-settlements/payment-settlement-prep.md) | [![](.gitbook/assets/guide-card-operation.png)](operation/orders-students-management.md)        |
 
 {% hint style="info" %}
