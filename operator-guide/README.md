@@ -4,13 +4,13 @@
 
 강좌·교재·디지털 자료를 준비하고 판매부터 수강생 관리까지 이어지는 업무를 안내합니다. 처음 시작한다면 판매 준비 순서부터, 반복 업무가 있다면 해당 안내로 바로 이동하세요.
 
-## 처음 시작하기
+## 처음 시작하기 <a href="#getting-started" id="getting-started"></a>
 
 1. [계정과 사이트 만들기](getting-started/account-and-site-create.md)
 2. [판매 준비 체크리스트](getting-started/sales-readiness-checklist.md)
 3. 판매할 유형에 맞춰 [첫 강좌 판매하기](getting-started/first-course-sale.md) · [첫 교재 판매하기](getting-started/first-textbook-sale.md) · [첫 디지털 자료 판매하기](getting-started/first-digital-resource-sale.md)를 확인합니다.
 
-## 업무별 바로가기
+## 업무별 바로가기 <a href="#quick-links" id="quick-links"></a>
 
 | 하려는 일 | 안내 |
 | --- | --- |
@@ -25,19 +25,19 @@
 | 계좌·정산 확인 | [정산 계좌 등록·변경하기](sellers-and-settlements/settlement-bank-account.md) · [정산 금액·지급 상태 확인하기](sellers-and-settlements/settlement-amount-and-payout-status.md) |
 | 클킷 플랜·사용량 확인 | [플랜·무료체험과 구독 시작하기](subscription-and-usage/plan-trial-and-subscription-start.md) · [사용량 확인·추가 팩 관리하기](subscription-and-usage/usage-and-additional-packs.md) |
 
-## 작업이 막혔을 때
+## 작업이 막혔을 때 <a href="#troubleshooting" id="troubleshooting"></a>
 
 [판매·결제](troubleshooting/product-sales-and-payment.md) · [영상·자료·수강권](troubleshooting/video-resource-and-access.md) · [출고·송장·배송지](troubleshooting/dispatch-tracking-and-address.md) · [취소·반품·교환](troubleshooting/cancellation-return-and-exchange.md) · [판매자·계좌·정산](troubleshooting/seller-bank-and-settlement.md) · [사이트·구독·사용량](troubleshooting/site-subscription-and-usage.md)
 
 결과가 불명확하면 같은 주문·파일·신청의 현재 상태부터 확인합니다. 재결제·중복 업로드·재지급·재승인으로 원래 결과를 확인하지 않습니다.
 
-## 실행 전 꼭 확인하기
+## 실행 전 꼭 확인하기 <a href="#before-you-act" id="before-you-act"></a>
 
 - [페이지·메뉴 구성하기](site-and-communication/pages-and-menus.md): 커스텀 페이지의 편집 대상이 안전하게 구분되는지 확인하기 전 빌더 편집·저장·게시를 중단합니다.
 - [운영자 지정·역할 관리하기](members-and-operations/operator-assignment-and-roles.md): 기존 담당 강좌가 6개 이상이거나 전체 목록을 확인하지 못했다면 역할·담당 강좌 변경을 실행하지 않습니다.
 - [사이트 중지·삭제하기](members-and-operations/site-stop-and-delete.md): 운영 중지와 구독 종료는 별개입니다. 삭제 절차의 안전성이 확인되기 전 비밀번호 입력·최종 삭제를 보류합니다.
 - 취소·환불·구독·정산은 예상 금액·화면 안내와 실제 적용 결과를 구분합니다.
 
-## 수강생 안내
+## 수강생 안내 <a href="#learner-guide" id="learner-guide"></a>
 
 가입·구매·수강·질문·주문 확인 절차는 별도의 **클킷 수강생 가이드**에서 안내합니다.
