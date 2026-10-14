@@ -4,6 +4,8 @@
 
 [강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
 
+![클킷 수강생 가이드 - 수강부터 자료·질문 확인까지](.gitbook/assets/branding/learner-guide-banner-v1.png)
+
 학원 사이트에서 강의를 구매하고 수강하거나 자료·공지·답변을 확인할 때 이용합니다. 가입과 구매부터 시작하거나 지금 필요한 안내를 찾아보세요.
 
 ## 처음 이용한다면 <a href="#getting-started" id="getting-started"></a>
