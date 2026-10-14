@@ -62,6 +62,8 @@
 
 ## 3. 결제 상태 확인하기 <a href="#step-3" id="step-3"></a>
 
+![주문·배송 개념 일러스트](../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png)
+
 상단 상태와 결제 정보의 상태·일시를 함께 확인합니다. 실제 응답에 따라 표시되는 항목을 확인하며, 아래 모든 상태가 독립 탭으로 제공되는 것은 아닙니다.
 
 | 표시 | 확인할 것 | 주의할 점 |

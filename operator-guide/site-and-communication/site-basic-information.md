@@ -61,6 +61,8 @@ SEO 설정은 소유자 여부와 이용 플랜에 따라 저장이 제한될 �
 
 ## 3. 검색·공유 정보 설정하기 <a href="#step-3" id="step-3"></a>
 
+![사이트·소통 개념 일러스트](../.gitbook/assets/branding/site-and-communication-illustration-v1.png)
+
 **SEO (검색최적화)**를 엽니다. 다음 세 탭은 하나의 저장 화면입니다.
 
 | 탭 | 입력·확인할 내용 | 작성 예시·주의 |

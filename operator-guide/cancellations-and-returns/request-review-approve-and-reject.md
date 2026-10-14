@@ -78,6 +78,8 @@
 
 ## 3. 심사·반품·교환 중 필요한 업무 구분하기 <a href="#step-3" id="step-3"></a>
 
+![취소·반품·교환 개념 일러스트](../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png)
+
 | 신청 상황 | 이어서 할 업무 | 완료로 오해하지 않을 것 |
 | --- | --- | --- |
 | 취소 조건·금액을 확인할 수 있음 | 최신 승인 전 확인 결과와 현재 처리 가능 여부 확인 | 자동 처리 경로·예상액 표시가 환불 완료는 아님 |

@@ -52,6 +52,8 @@
 
 ## 3. 사이트 이름·주소 확인하고 생성하기 <a href="#step-3" id="step-3"></a>
 
+![시작하기 개념 일러스트](../.gitbook/assets/branding/getting-started-illustration-v1.png)
+
 **강좌 사이트 개설**에서 다음을 입력합니다.
 
 | 항목 | 입력 기준 |

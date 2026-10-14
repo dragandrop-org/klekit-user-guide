@@ -68,6 +68,8 @@
 
 ## 3. 포함 교재와 별도 옵션 확인하기 <a href="#step-3" id="step-3"></a>
 
+![상품·구매 개념 일러스트](../.gitbook/assets/branding/products-and-purchase-illustration-v1.png)
+
 | 보이는 정보 | 확인 방법 |
 | --- | --- |
 | 상품구성에 교재가 있음 | 해당 교재의 이름·수량과 상품 설명의 포함 조건을 확인합니다 |
