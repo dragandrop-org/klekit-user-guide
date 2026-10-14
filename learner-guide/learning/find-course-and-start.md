@@ -58,9 +58,9 @@
 
 > **화면 예시 준비 중** · 빈 목록과 조회 실패를 구분합니다.
 
-![강의 수강과 학습을 표현한 책·영상·필기도구 일러스트](../.gitbook/assets/branding/learning-illustration-v1.png)
-
 ## 3. 강좌 카드 확인하고 강의실 열기 <a href="#step-3" id="step-3"></a>
+
+![강의 수강 개념 일러스트](../.gitbook/assets/branding/learning-illustration-v1.png)
 
 1. 강좌 카드의 **강좌명·이용 기간/종료일·학습 현황** 중 표시된 항목을 읽습니다.
 2. 강좌 소개를 확인하려면 **강좌 제목**을 누릅니다. 이 동작은 강의실 진입과 다릅니다.

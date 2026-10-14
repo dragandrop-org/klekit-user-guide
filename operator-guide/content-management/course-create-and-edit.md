@@ -47,9 +47,9 @@
 | 화면 미리보기 | 관리자에게 보이는 내용 점검용입니다. 판매·수강 권한 확인을 대신하지 않습니다 |
 | 최종 완료 | 일반 생성·수정 흐름에서 커리큘럼 점검 후 발행을 요청하는 동작입니다 |
 
-![강좌 콘텐츠 구성을 표현한 폴더·영상·교재 일러스트](../.gitbook/assets/branding/content-management-illustration-v1.png)
-
 ## 3. 커리큘럼 구성하고 발행하기 <a href="#step-3" id="step-3"></a>
+
+![콘텐츠 관리 개념 일러스트](../.gitbook/assets/branding/content-management-illustration-v1.png)
 
 1. [커리큘럼 구성하기](curriculum.md)에 따라 섹션과 수업을 만듭니다.
 2. 필요한 영상을 연결하고 제목·순서·공개 범위를 확인합니다.
