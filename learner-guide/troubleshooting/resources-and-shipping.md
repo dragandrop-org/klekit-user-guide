@@ -6,6 +6,8 @@
 
 ## 먼저 어떤 자료인지 확인하기 <a href="#section-1" id="section-1"></a>
 
+![강의 첨부자료·별도 디지털 자료·공지 첨부파일·실물 교재의 확인 위치를 나눈 개념도입니다. 같은 파일명이라도 제공 위치가 다를 수 있습니다.](../.gitbook/assets/concepts/resource-types-v1.png)
+
 | 자료 종류 | 확인할 위치 | 참고 안내 |
 | --- | --- | --- |
 | 강의에 붙은 첨부자료 | 해당 강좌의 강의실 → 수업별 자료 | [강의 첨부 자료 받기](../resources/lecture-materials.md) |

@@ -17,6 +17,8 @@
 
 ## 메뉴 위치 <a href="#menu-location" id="menu-location"></a>
 
+![강좌 안에 섹션, 섹션 안에 수업을 구성하는 포함 구조 예시입니다. 섹션·수업 수는 고정이 아닙니다.](../.gitbook/assets/concepts/curriculum-structure-v1.png)
+
 강좌 생성·수정 화면의 **영상 업로드 및 섹션 구성**으로 들어갑니다. **섹션 및 수업 관리**에서 커리큘럼을 구성합니다.
 
 | 구분 | 의미 | 예시 |

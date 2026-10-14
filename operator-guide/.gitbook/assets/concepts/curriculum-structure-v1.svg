@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">강좌와 섹션과 수업의 포함 구조</title>
+  <desc id="desc">한 강좌 안에 섹션을 구성하고 각 섹션 안에 수업을 구성합니다. 예시의 섹션과 수업 수는 고정 개수가 아닙니다.</desc>
+  <defs><linearGradient id="blue" x2="1" y2="1"><stop stop-color="#416FFF"/><stop offset="1" stop-color="#244CCC"/></linearGradient></defs>
+  <rect width="720" height="720" fill="#F5F8FE"/>
+  <path d="M32 28H92" stroke="#416FFF" stroke-width="7"/>
+  <g font-family="Apple SD Gothic Neo, AppleGothic, sans-serif" letter-spacing="0" text-anchor="middle">
+    <text x="360" y="83" font-size="38" font-weight="700" fill="#172A52">강좌 → 섹션 → 수업</text>
+    <text x="360" y="124" font-size="28" fill="#52647E">학습 콘텐츠를 묶는 포함 구조입니다</text>
+    <path d="M360 270V312M188 312H532M188 312V354M532 312V354M188 462V516M532 462V516" fill="none" stroke="#A8BEDF" stroke-width="4"/>
+    <rect x="32" y="162" width="656" height="108" rx="8" fill="url(#blue)"/>
+    <text x="360" y="207" font-size="33" font-weight="700" fill="#FFFFFF">강좌</text>
+    <text x="360" y="246" font-size="29" fill="#FFFFFF">중등수학 개념 완성</text>
+    <g fill="#EAF0FF" stroke="#B7C9F8" stroke-width="2">
+      <rect x="32" y="354" width="312" height="108" rx="8"/><rect x="376" y="354" width="312" height="108" rx="8"/>
+    </g>
+    <g font-size="32" font-weight="700" fill="#244CCC"><text x="188" y="399">섹션</text><text x="532" y="399">섹션</text></g>
+    <g font-size="29" fill="#172A52"><text x="188" y="438">일차방정식</text><text x="532" y="438">연립방정식</text></g>
+    <g fill="#E2F6EF" stroke="#B5DFD1" stroke-width="2">
+      <rect x="32" y="516" width="312" height="108" rx="8"/><rect x="376" y="516" width="312" height="108" rx="8"/>
+    </g>
+    <g font-size="32" font-weight="700" fill="#116A56"><text x="188" y="561">수업</text><text x="532" y="561">수업</text></g>
+    <g font-size="29" fill="#172A52"><text x="188" y="600">기본 개념</text><text x="532" y="600">문제 풀이</text></g>
+    <text x="360" y="686" font-size="27" fill="#52647E">구조 예시이며 섹션·수업 수는 고정이 아닙니다</text>
+  </g>
+</svg>

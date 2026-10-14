@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="940" viewBox="0 0 720 940" role="img" aria-labelledby="title desc">
+  <title id="title">자료 네 종류와 확인 위치</title>
+  <desc id="desc">강의 첨부자료는 해당 강좌 강의실의 수업별 자료, 별도 디지털 자료는 내 학습의 내 자료, 공지 첨부파일은 해당 공지 상세의 첨부파일, 실물 교재는 원 주문과 학원이 안내한 배송 정보에서 확인합니다. 교재 구매가 파일 제공을 뜻하지 않습니다.</desc>
+  <rect width="720" height="940" fill="#F5F8FE"/>
+  <path d="M32 28H92" stroke="#416FFF" stroke-width="7"/>
+  <g font-family="Apple SD Gothic Neo, AppleGothic, sans-serif" letter-spacing="0">
+    <text x="32" y="83" font-size="38" font-weight="700" fill="#172A52">자료는 이름보다 종류부터</text>
+    <text x="32" y="124" font-size="28" fill="#52647E">종류에 따라 확인할 위치가 다릅니다</text>
+    <g fill="#FFFFFF" stroke="#D9E3F5" stroke-width="2">
+      <rect x="32" y="162" width="656" height="148" rx="8"/><rect x="32" y="330" width="656" height="148" rx="8"/>
+      <rect x="32" y="498" width="656" height="148" rx="8"/>
+    </g>
+    <rect x="32" y="666" width="656" height="148" rx="8" fill="#E2F6EF" stroke="#B5DFD1" stroke-width="2"/>
+    <g fill="#416FFF"><rect x="32" y="186" width="6" height="98"/><rect x="32" y="354" width="6" height="98"/><rect x="32" y="522" width="6" height="98"/></g>
+    <rect x="32" y="690" width="6" height="98" fill="#14866C"/>
+    <g font-size="33" font-weight="700" fill="#244CCC">
+      <text x="64" y="206">강의 첨부자료</text><text x="64" y="374">별도 디지털 자료</text><text x="64" y="542">공지 첨부파일</text><text x="64" y="710" fill="#116A56">실물 교재</text>
+    </g>
+    <g font-size="29" fill="#172A52">
+      <text x="64" y="249">해당 강좌의 강의실</text><text x="64" y="286">→ 수업별 자료</text>
+      <text x="64" y="417">내 학습 → 내 자료</text><text x="64" y="585">해당 공지 상세 → 첨부파일</text>
+      <text x="64" y="753">원 주문 + 학원이 안내한 배송 정보</text>
+    </g>
+    <g font-size="27" fill="#52647E"><text x="64" y="454">별도로 구매하거나 지급받은 자료</text><text x="64" y="622">공지에 붙은 파일</text><text x="64" y="790">파일이 아닌 배송 대상</text></g>
+    <text x="360" y="869" text-anchor="middle" font-size="28" fill="#52647E">같은 파일명이라도 제공 위치는 다릅니다</text>
+    <text x="360" y="911" text-anchor="middle" font-size="28" font-weight="700" fill="#244CCC">교재 구매가 파일 제공을 뜻하지 않습니다</text>
+  </g>
+</svg>

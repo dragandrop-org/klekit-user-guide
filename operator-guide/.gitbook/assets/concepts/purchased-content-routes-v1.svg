@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="860" viewBox="0 0 720 860" role="img" aria-labelledby="title desc">
+  <title id="title">구매 후 구성별 확인 경로</title>
+  <desc id="desc">같은 학원 사이트와 본인 계정에서 구매했다면 원 주문 구성을 확인합니다. 강좌는 마이페이지 내 학습 수강중 강좌, 별도 디지털 자료는 마이페이지 내 학습 내 자료, 실물 교재는 원 주문과 학원이 안내한 배송 정보에서 확인합니다. 강의 첨부자료는 해당 수업에서 별도로 확인합니다. 결제 완료는 제공이나 발송 완료가 아닙니다.</desc>
+  <defs><linearGradient id="blue" x2="1" y2="1"><stop stop-color="#416FFF"/><stop offset="1" stop-color="#244CCC"/></linearGradient></defs>
+  <rect width="720" height="860" fill="#F5F8FE"/>
+  <path d="M32 28H92" stroke="#416FFF" stroke-width="7"/>
+  <g font-family="Apple SD Gothic Neo, AppleGothic, sans-serif" letter-spacing="0">
+    <text x="32" y="83" font-size="38" font-weight="700" fill="#172A52">구매 후, 구성별로 확인</text>
+    <text x="32" y="124" font-size="28" fill="#52647E">구매자 계정에서 확인할 경로입니다</text>
+    <rect x="32" y="156" width="656" height="106" rx="8" fill="url(#blue)"/>
+    <text x="360" y="200" text-anchor="middle" font-size="31" font-weight="700" fill="#FFFFFF">같은 학원 사이트·본인 계정 확인</text>
+    <text x="360" y="239" text-anchor="middle" font-size="28" fill="#FFFFFF">구매했다면 원 주문의 포함 구성 확인</text>
+    <g fill="#FFFFFF" stroke="#D9E3F5" stroke-width="2">
+      <rect x="32" y="302" width="656" height="118" rx="8"/><rect x="32" y="442" width="656" height="118" rx="8"/>
+      <rect x="32" y="582" width="656" height="118" rx="8"/>
+    </g>
+    <g fill="#EAF0FF"><path d="M40 302H222V420H40Q32 420 32 412V310Q32 302 40 302"/><path d="M40 442H222V560H40Q32 560 32 552V450Q32 442 40 442"/></g>
+    <path d="M40 582H222V700H40Q32 700 32 692V590Q32 582 40 582" fill="#E2F6EF"/>
+    <g font-size="31" font-weight="700" fill="#244CCC" text-anchor="middle">
+      <text x="127" y="373">강좌</text><text x="127" y="493">별도</text><text x="127" y="533">디지털 자료</text>
+      <text x="127" y="653" fill="#116A56">실물 교재</text>
+    </g>
+    <g fill="none" stroke="#A8BEDF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M239 361H261M253 353L261 361L253 369"/><path d="M239 501H261M253 493L261 501L253 509"/>
+      <path d="M239 641H261M253 633L261 641L253 649"/>
+    </g>
+    <g font-size="29" fill="#52647E"><text x="282" y="347">마이페이지 → 내 학습</text><text x="282" y="487">마이페이지 → 내 학습</text><text x="282" y="627">원 주문 + 학원이 안내한</text></g>
+    <g font-size="32" font-weight="700" fill="#172A52"><text x="282" y="389">수강중 강좌</text><text x="282" y="529">내 자료</text><text x="282" y="669">교재 배송 정보</text></g>
+    <text x="360" y="758" text-anchor="middle" font-size="30" font-weight="700" fill="#244CCC">결제 완료 ≠ 제공·발송 완료</text>
+    <text x="360" y="808" text-anchor="middle" font-size="27" fill="#52647E">강의 첨부자료는 해당 수업에서 별도 확인</text>
+  </g>
+</svg>
