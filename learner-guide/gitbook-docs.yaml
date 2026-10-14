@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: "클킷 수강생 가이드"
+  structure:
+    - type: space
+      key: learner-guide
+      title: "클킷 수강생 가이드"
+      path: guide
+      default: true
+      content:
+        directory: ./
+        language: ko
