@@ -1,6 +1,7 @@
 # Summary
 
 - [클킷 강사·운영자 가이드](README.md)
+- [수강생 가이드로 이동](https://klekit.gitbook.io/learner-guide/)
 
 ## 시작하기 <a href="#getting-started" id="getting-started"></a>
 

@@ -1,6 +1,7 @@
 # Summary
 
 - [클킷 수강생 가이드](README.md)
+- [강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
 
 ## 계정·로그인 <a href="#account" id="account"></a>
 
