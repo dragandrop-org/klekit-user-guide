@@ -43,7 +43,7 @@ PC에서는 페이지를 바꿔도 중요 공지가 다시 상단에 보일 수 
 
 ## 3. 검색하고 다른 공지 찾기 <a href="#step-3" id="step-3"></a>
 
-![공지·질문·문의 개념 일러스트](../.gitbook/assets/branding/site-and-communication-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="공지·질문·문의 개념 일러스트"><figcaption></figcaption></figure>
 
 1. **제목, 내용으로 검색** 입력란에 찾을 단어를 입력합니다. 예를 들어 학원이 안내한 반 이름이나 일정 제목을 사용합니다.
 2. `Enter(엔터)`를 눌러 검색을 적용합니다. 입력만 바꾸거나 왼쪽 돋보기 모양을 누르는 것만으로 검색이 적용됐다고 판단하지 않습니다.

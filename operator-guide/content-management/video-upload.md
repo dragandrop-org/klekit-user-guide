@@ -74,7 +74,7 @@
 
 ## 4. 변환과 재생 확인하기 <a href="#step-4" id="step-4"></a>
 
-![촬영한 영상과 수업 연결을 표현한 개념 일러스트](../.gitbook/assets/branding/video-upload-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/video-upload-illustration-v1.png" alt="촬영한 영상과 수업 연결을 표현한 개념 일러스트"><figcaption></figcaption></figure>
 
 | 확인 단계 | 확인할 것 |
 | --- | --- |

@@ -68,7 +68,7 @@
 
 ## 3. 포함 교재와 별도 옵션 확인하기 <a href="#step-3" id="step-3"></a>
 
-![상품·구매 개념 일러스트](../.gitbook/assets/branding/products-and-purchase-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·구매 개념 일러스트"><figcaption></figcaption></figure>
 
 | 보이는 정보 | 확인 방법 |
 | --- | --- |

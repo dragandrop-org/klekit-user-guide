@@ -56,7 +56,7 @@
 
 ## 3. 체험 기간과 제한 확인하기 <a href="#step-3" id="step-3"></a>
 
-![구독·사용량 개념 일러스트](../.gitbook/assets/branding/subscription-usage-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 개념 일러스트"><figcaption></figcaption></figure>
 
 체험 확인 창에서 다음 내용을 확인합니다.
 

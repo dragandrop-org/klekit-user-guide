@@ -8,6 +8,8 @@
 
 **업무 순서:** 배송 대상 확인 → 교재·수량·수령 정보 대조 → 출고 가능 여부 확인 → 송장 등록·저장 결과 확인 → 실제 인계 확인·발송 처리 → 상태·송장·이력 재확인
 
+<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인 기준 |

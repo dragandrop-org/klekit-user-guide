@@ -54,7 +54,7 @@
 
 ## 3. 추가 정보와 휴대폰 인증 완료하기 <a href="#step-3" id="step-3"></a>
 
-![계정·로그인 개념 일러스트](../.gitbook/assets/branding/account-and-permissions-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="계정·로그인 개념 일러스트"><figcaption></figcaption></figure>
 
 1. 인증한 **이메일**이 맞는지 확인하고 **이름**을 입력합니다. 이 단계의 이메일은 읽기 전용입니다.
 2. **가입 유형**이 표시되면 학원 안내에 맞는 유형을 선택합니다. 학생은 **학생**, 허용된 학부모 가입은 **학부모**를 선택합니다.

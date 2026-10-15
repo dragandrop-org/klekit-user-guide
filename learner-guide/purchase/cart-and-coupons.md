@@ -6,6 +6,8 @@
 
 **완료 기준:** 구매할 상품만 선택하고, 사용할 쿠폰의 조건과 실제 적용 할인액을 확인합니다. 장바구니 금액과 최종 주문 금액을 구분하며, 구성이나 할인이 불명확하면 주문서 작성을 진행하지 않습니다. 이미 진행 중인 주문이 있다면 새 주문보다 기존 주문 확인을 우선합니다.
 
+<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인할 내용 |

@@ -78,7 +78,7 @@
 
 ## 3. 심사·반품·교환 중 필요한 업무 구분하기 <a href="#step-3" id="step-3"></a>
 
-![취소·반품·교환 개념 일러스트](../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 개념 일러스트"><figcaption></figcaption></figure>
 
 | 신청 상황 | 이어서 할 업무 | 완료로 오해하지 않을 것 |
 | --- | --- | --- |

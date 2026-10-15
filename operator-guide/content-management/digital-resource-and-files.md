@@ -8,6 +8,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 
 **작업 순서:** 파일 준비 → 디지털 자료 선택 → 정보 입력·파일 업로드 → 저장 → 현재 파일 확인 → 필요한 상품 연결·구매자 결과 확인
 
+<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인 기준 |

@@ -56,7 +56,7 @@
 
 ## 3. 답글 작성하고 이미지 확인하기 <a href="#step-3" id="step-3"></a>
 
-![학습 질문과 풀이 답변을 표현한 개념 일러스트](../.gitbook/assets/branding/learning-qna-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/learning-qna-illustration-v1.png" alt="학습 질문과 풀이 답변을 표현한 개념 일러스트"><figcaption></figcaption></figure>
 
 1. 상세 아래 **답글 작성** 입력란에 답변을 입력합니다. 질문의 어느 부분에 답하는지 알 수 있게 작성하고 기존 답글과 중복되는지 확인합니다.
 2. 풀이 이미지가 필요하면 편집기의 이미지 삽입 기능을 사용합니다. 업로드가 끝나 실제 이미지가 본문에 나타나는지 확인합니다.

@@ -50,7 +50,7 @@
 
 ## 3. 상세에서 주문번호와 상품 확인하기 <a href="#step-3" id="step-3"></a>
 
-![주문·배송 개념 일러스트](../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 개념 일러스트"><figcaption></figcaption></figure>
 
 1. 상단 **주문번호**를 확인합니다. 주문명이나 상품명과 주문번호는 다릅니다. 같은 상품의 다른 주문과 혼동하지 않습니다.
 2. 상품 카드의 이름·썸네일·표시된 가격을 확인합니다. 썸네일이 없거나 달라 보여도 주문이 없어진 것으로 판단하지 않습니다.

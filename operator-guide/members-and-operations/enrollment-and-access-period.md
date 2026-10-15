@@ -8,6 +8,8 @@
 
 회원 검색·식별과 조회 권한은 [회원 정보·이용 내역 확인하기](member-information-and-history.md)를 먼저 확인합니다. 구매한 주문의 지급 문제는 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md), 거래 상태는 [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md), 취소·환불은 [신청 확인·승인·거절](../cancellations-and-returns/request-review-approve-and-reject.md)에서 다룹니다.
 
+<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인 기준 |

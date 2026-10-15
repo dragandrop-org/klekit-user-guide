@@ -76,7 +76,7 @@
 
 ## 카카오·구글 로그인이 안 될 때 <a href="#section-6" id="section-6"></a>
 
-![문제 해결 개념 일러스트](../.gitbook/assets/branding/troubleshooting-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 개념 일러스트"><figcaption></figcaption></figure>
 
 | 증상 | 확인할 것 | 다음 행동 |
 | --- | --- | --- |

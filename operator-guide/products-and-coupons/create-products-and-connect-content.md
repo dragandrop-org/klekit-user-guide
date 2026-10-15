@@ -60,7 +60,7 @@
 
 ## 3. 상품 정보와 판매 조건 입력하기 <a href="#step-3" id="step-3"></a>
 
-![상품·쿠폰 개념 일러스트](../.gitbook/assets/branding/products-and-purchase-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 개념 일러스트"><figcaption></figcaption></figure>
 
 **기본 정보**의 **제목 입력**에 상품명을 입력하고 이미지·소개를 설정합니다. 콘텐츠 제목을 가져왔더라도 실제 판매 구성에 맞는지 확인하세요. 패키지라면 포함 강좌·교재·자료가 소개에 드러나도록 작성합니다.
 

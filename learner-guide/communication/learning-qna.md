@@ -50,7 +50,7 @@ PC 강의실에서는 Q&A 도구로 패널을 열고, 모바일에서는 하단 
 
 ## 3. 강좌와 강의를 선택하고 질문 쓰기 <a href="#step-3" id="step-3"></a>
 
-![학습 질문과 풀이 답변을 표현한 개념 일러스트](../.gitbook/assets/branding/learning-qna-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/learning-qna-illustration-v1.png" alt="학습 질문과 풀이 답변을 표현한 개념 일러스트"><figcaption></figcaption></figure>
 
 1. **작성하기**를 누릅니다.
 2. 내 학습에서 작성한다면 **강좌 선택** 후 **강의 선택**에서 질문할 수업을 고릅니다. 선택 가능한 강의가 없으면 계정·강좌를 확인하고 학원에 문의합니다.

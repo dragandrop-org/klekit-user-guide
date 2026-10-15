@@ -8,6 +8,8 @@
 
 처음 유료로 시작하거나 체험을 확인하려면 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md)를 봅니다. 사용량/팩은 [사용량 확인·추가 팩 관리하기](usage-and-additional-packs.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다.
 
+<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인할 내용 |

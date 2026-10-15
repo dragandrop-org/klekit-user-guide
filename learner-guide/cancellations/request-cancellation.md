@@ -53,7 +53,7 @@
 
 ## 3. 최신 예상액과 신청 가능 여부 구분하기 <a href="#step-3" id="step-3"></a>
 
-![취소·반품·교환 개념 일러스트](../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 개념 일러스트"><figcaption></figcaption></figure>
 
 원 주문 상세에서 허용된 **취소 신청**을 선택하면 **구성품 취소 신청** 창에서 대상·신청 수량·사유를 확인할 수 있습니다. **조건 확인**의 서버 결과와 **신청하기**의 실제 제출은 별도입니다. 최신 가능 여부/예상액·미확정/0원·조건 변경을 대조하고, 원 신청 결과가 불명확하면 새 제출을 반복하지 않습니다. 실제 배포/권한·접수/환불 결과는 검수 대기입니다.
 

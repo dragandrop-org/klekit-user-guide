@@ -64,7 +64,7 @@
 
 ## 3. 금액·쿠폰·구매 조건이 다를 때 <a href="#step-3" id="step-3"></a>
 
-![문제 해결 개념 일러스트](../.gitbook/assets/branding/troubleshooting-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 개념 일러스트"><figcaption></figcaption></figure>
 
 먼저 **아직 구매를 시작하지 않은 상품 확인**인지, **이미 생성된 주문의 금액 확인**인지 나눕니다. 현재 상품 가격을 바꿔 과거 주문의 결제 금액을 맞추지 않습니다.
 

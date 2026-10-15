@@ -8,6 +8,8 @@
 
 플랜·체험은 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md), 플랜 변경·Free 전환 예약은 [플랜 변경·구독 종료 예약하기](plan-change-and-subscription-end-schedule.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다. 여기서 다루는 팩은 클킷 서비스 사용량이며 학생의 강좌 상품·수강권·주문 환불과 별개입니다.
 
+<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인할 내용 |

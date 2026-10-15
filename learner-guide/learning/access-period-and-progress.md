@@ -6,6 +6,8 @@
 
 **완료 기준:** 원하는 강좌의 종료일·완료 수업 수·목차 표시를 찾고, 목록 필터·현재 이용 권한·재생 위치·학습 완료를 구분합니다. 진도율 100%나 완료 표시는 무제한 이용·수강 기간 연장·환불 가능 여부를 뜻하지 않습니다.
 
+<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
+
 ## 시작 전 확인 <a href="#before-you-start" id="before-you-start"></a>
 
 | 확인할 것 | 내용 |

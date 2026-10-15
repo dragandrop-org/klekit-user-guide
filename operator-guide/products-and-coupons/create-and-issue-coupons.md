@@ -6,6 +6,8 @@
 
 **작업 순서:** 발급 방식 선택 → 조건 입력 → 생성·발급 결과 확인 → 내역 확인 → 필요 시 중지·추가 발급
 
+<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인 기준 |

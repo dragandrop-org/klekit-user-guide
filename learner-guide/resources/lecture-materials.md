@@ -53,7 +53,7 @@
 
 ## 3. 필요한 자료 요청하기 <a href="#step-3" id="step-3"></a>
 
-![학습 자료 개념 일러스트](../.gitbook/assets/branding/learning-materials-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/learning-materials-illustration-v1.png" alt="학습 자료 개념 일러스트"><figcaption></figcaption></figure>
 
 1. 받을 수업 제목을 확인한 뒤 해당 행의 **자료**를 한 번 누릅니다.
 2. 버튼에 처리 중 표시가 나타나면 기다립니다. 연속으로 누르거나 다른 수업의 자료를 함께 눌러 결과를 시험하지 않습니다.

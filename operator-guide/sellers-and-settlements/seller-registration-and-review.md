@@ -49,7 +49,7 @@
 
 ## 3. 정산 활성화 신청하기 <a href="#step-3" id="step-3"></a>
 
-![판매자·정산 개념 일러스트](../.gitbook/assets/branding/seller-settlement-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/seller-settlement-illustration-v1.png" alt="판매자·정산 개념 일러스트"><figcaption></figcaption></figure>
 
 계좌가 인증되어 있고 아직 신청하지 않았다면 **정산 활성화 신청하기**를 눌러 제출 전 확인으로 이동합니다.
 

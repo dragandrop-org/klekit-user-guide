@@ -6,6 +6,8 @@
 
 **완료 기준:** 필요한 자료를 찾아 저장된 파일의 내용을 확인합니다. 화면의 **받음** 표시나 새 창 열림만으로 파일 저장 완료를 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
+
 ## 시작 전 확인 <a href="#before-you-start" id="before-you-start"></a>
 
 | 확인할 것 | 내용 |

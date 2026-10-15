@@ -49,7 +49,7 @@
 
 ## 3. 커리큘럼 구성하고 발행하기 <a href="#step-3" id="step-3"></a>
 
-![콘텐츠 관리 개념 일러스트](../.gitbook/assets/branding/content-management-illustration-v1.png)
+<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 개념 일러스트"><figcaption></figcaption></figure>
 
 1. [커리큘럼 구성하기](curriculum.md)에 따라 섹션과 수업을 만듭니다.
 2. 필요한 영상을 연결하고 제목·순서·공개 범위를 확인합니다.

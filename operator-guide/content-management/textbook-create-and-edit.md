@@ -8,6 +8,8 @@
 
 **작업 순서:** 교재 선택 → 기본 정보·표지 입력 → 교재 정보·정가·최초 재고 입력 → 저장 → 상세에서 결과 확인
 
+<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
+
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
 | 준비할 것 | 확인 기준 |
