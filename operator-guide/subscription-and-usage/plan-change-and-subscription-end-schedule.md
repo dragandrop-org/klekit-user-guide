@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 대표 이미지"><figcaption></figcaption></figure>
+
 **구독 관리 → 플랜 관리**에서 클킷 서비스 플랜을 변경하거나 유료 플랜 종료를 예약합니다. **상향 변경, 하향/Free 전환 예약, 예약 취소**는 서로 다른 작업입니다.
 
 **완료 기준:** 변경 전후 플랜·이번/다음 금액과 적용 시점, 관리자·기능·한도 영향을 확인하고 요청했다면 실제 적용 또는 예약 결과까지 구분합니다. 견적을 열거나 완료 알림을 본 것만으로 처리 완료라고 판단하지 않습니다.
 
 처음 유료로 시작하거나 체험을 확인하려면 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md)를 봅니다. 사용량/팩은 [사용량 확인·추가 팩 관리하기](usage-and-additional-packs.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다.
-
-<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -65,6 +65,8 @@
 > **화면 예시 준비 중** · 이번 청구액과 다음 플랜 금액을 나눠 읽습니다. 다음 결제일이 모든 변경의 적용 시각은 아닙니다.
 
 ## 3. 기능·제공량과 팩 영향 확인하기 <a href="#step-3" id="step-3"></a>
+
+<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
 
 **새로 사용할 수 있는 기능** 또는 **더 이상 사용할 수 없는 기능**, **제공량 변경**의 현재/변경 후 값을 확인합니다.
 

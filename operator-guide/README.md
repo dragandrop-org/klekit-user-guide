@@ -2,9 +2,9 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-[수강생 가이드로 이동](https://klekit.gitbook.io/learner-guide/)
-
 <figure><img src=".gitbook/assets/branding/operator-guide-banner-v1.png" alt="클킷 강사·운영자 가이드 - 콘텐츠 준비부터 판매·운영까지"><figcaption></figcaption></figure>
+
+[수강생 가이드로 이동](https://klekit.gitbook.io/learner-guide/)
 
 강좌·교재·디지털 자료를 준비하고 판매부터 수강생 관리까지 이어지는 업무를 안내합니다. 처음 시작한다면 판매 준비 순서부터, 반복 업무가 있다면 해당 안내로 바로 이동하세요.
 

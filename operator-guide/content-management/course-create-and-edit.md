@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+
 강좌 제목·소개·썸네일을 등록하고, 수정한 내용을 수강생에게 보여줄 준비를 합니다. 강좌는 학습 콘텐츠이고, 가격·할인·판매 상태는 상품에서 관리합니다.
 
 **완료 기준:** 강좌 목록에서 등록한 강좌를 찾을 수 있고, 필요한 수정이 저장되어 있으며 발행 결과까지 확인했습니다.
@@ -48,8 +50,6 @@
 | 최종 완료 | 일반 생성·수정 흐름에서 커리큘럼 점검 후 발행을 요청하는 동작입니다 |
 
 ## 3. 커리큘럼 구성하고 발행하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 개념 일러스트"><figcaption></figcaption></figure>
 
 1. [커리큘럼 구성하기](curriculum.md)에 따라 섹션과 수업을 만듭니다.
 2. 필요한 영상을 연결하고 제목·순서·공개 범위를 확인합니다.

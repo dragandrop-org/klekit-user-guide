@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 대표 이미지"><figcaption></figcaption></figure>
+
 접수된 신청의 대상과 사유를 확인하고, 담당자가 승인하거나 거절한 뒤 최신 처리 결과를 확인할 때 사용합니다. 구성품별 취소 조건, 교재 회수·검수·재배송의 상세 절차는 별도 가이드에서 다룹니다.
 
 **심사 내용을 저장하는 것과 환불을 승인하는 것은 다릅니다. 승인 응답이나 성공 알림만으로 환불 완료를 안내하지 않습니다.** 교환 완료도 환불 완료와 구분합니다.
@@ -77,8 +79,6 @@
 > **화면 예시 준비 중** · 같은 주문의 다른 신청과 구분하고 대상·사유·현재 결과를 확인합니다.
 
 ## 3. 심사·반품·교환 중 필요한 업무 구분하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 개념 일러스트"><figcaption></figcaption></figure>
 
 | 신청 상황 | 이어서 할 업무 | 완료로 오해하지 않을 것 |
 | --- | --- | --- |

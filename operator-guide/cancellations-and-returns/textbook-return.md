@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 대표 이미지"><figcaption></figcaption></figure>
+
 발송된 교재의 반품 신청을 확인하고, 실제 회수·검수 결과에 따라 환불과 재입고를 처리할 때 사용합니다. 출고 전 취소는 [구성품별 취소·환불](component-cancellation-and-refund.md), 동일 교재 재배송은 [교재 교환 처리하기](textbook-exchange.md)로 구분합니다.
 
 **회수 승인·입고·검수 합격 기록만으로 환불되거나 재고가 늘어나지는 않습니다. 검수 후 최신 금액을 확인하고 별도 승인한 뒤, 금융 확정과 배송·재고 후속 결과까지 확인합니다.**

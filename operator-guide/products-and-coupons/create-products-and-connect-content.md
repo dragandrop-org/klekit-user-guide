@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 대표 이미지"><figcaption></figcaption></figure>
+
 등록한 강좌·교재·디지털 자료를 학생이 구매할 **판매 상품**으로 구성합니다. 콘텐츠는 수업·교재 정보·자료 파일을 관리하고, 상품은 포함할 콘텐츠와 판매 조건을 관리합니다.
 
 **작업 순서:** 콘텐츠 준비 → 상품 유형 선택 → 콘텐츠 연결 → 상품 정보·판매 조건 입력 → 최종 완료 → 미판매 보관 또는 판매 시작
@@ -59,8 +61,6 @@
 > **동작 예시 준비 중** · 콘텐츠를 선택한 뒤 상품 입력 화면에서 포함 항목을 다시 확인합니다.
 
 ## 3. 상품 정보와 판매 조건 입력하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 개념 일러스트"><figcaption></figcaption></figure>
 
 **기본 정보**의 **제목 입력**에 상품명을 입력하고 이미지·소개를 설정합니다. 콘텐츠 제목을 가져왔더라도 실제 판매 구성에 맞는지 확인하세요. 패키지라면 포함 강좌·교재·자료가 소개에 드러나도록 작성합니다.
 

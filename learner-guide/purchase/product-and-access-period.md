@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·구매 대표 이미지"><figcaption></figcaption></figure>
+
 구매 전 **어떤 강좌·교재·디지털 자료가 포함되는지**, **표시 가격과 추가 비용**, **강좌 이용 기간**을 확인합니다. 상품 이름이나 이미지 하나만 보고 교재 포함·무제한 이용을 판단하지 않습니다.
 
 **완료 기준:** 구매할 상품과 포함 콘텐츠를 구분하고, 교재가 포함 구성인지 별도 옵션인지 확인합니다. 상품 표시 가격과 주문 최종 금액, 수강기한 일수와 본인에게 지급될 시작·종료일도 구분합니다. 조건이 불명확하면 구매 전에 학원에 문의합니다.
@@ -67,8 +69,6 @@
 > **화면 예시 준비 중** · 구성 항목 수와 교재 수량·강의 개수는 다릅니다.
 
 ## 3. 포함 교재와 별도 옵션 확인하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·구매 개념 일러스트"><figcaption></figcaption></figure>
 
 | 보이는 정보 | 확인 방법 |
 | --- | --- |

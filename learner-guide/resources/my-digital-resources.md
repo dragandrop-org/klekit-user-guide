@@ -2,11 +2,11 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/learning-materials-illustration-v1.png" alt="학습 자료 대표 이미지"><figcaption></figcaption></figure>
+
 구매하거나 지급받은 디지털 자료는 **마이페이지 → 내 학습 → 내 자료**에서 확인합니다. 자료명·파일명·지급일을 대조하고 다운로드 안내를 확인한 뒤, 실제 기기에 저장된 파일을 열어 봅니다.
 
 **완료 기준:** 필요한 자료를 찾아 저장된 파일의 내용을 확인합니다. 화면의 **받음** 표시나 새 창 열림만으로 파일 저장 완료를 판단하지 않습니다.
-
-<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
 
 ## 시작 전 확인 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -62,6 +62,8 @@
 > **화면 예시 준비 중** · 발급 이력과 현재 이용 가능 여부를 구분합니다.
 
 ## 4. 다운로드 안내를 읽고 요청하기 <a href="#step-4" id="step-4"></a>
+
+<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
 
 1. 상세의 **자료 다운로드** 또는 목록의 **다운로드** 중 한 곳을 누릅니다. 이 단계에서는 확인창이 열립니다.
 2. **자료를 다운로드하시겠어요?** 창에서 취소 제한과 주소 유효 시간 안내를 읽습니다.

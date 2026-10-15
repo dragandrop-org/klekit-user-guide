@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+
 교재가 포함된 주문의 배송 대상과 수량·수령 정보를 확인하고, 실제 택배사·송장번호와 발송 결과를 기록합니다. 강좌·디지털 자료의 지급은 [구매 후 콘텐츠 지급 확인하기](content-fulfillment-check.md)에서 따로 확인합니다.
 
 **송장 저장과 발송 완료는 다릅니다.** **송장 저장**은 송장 정보만 저장하고 **저장 후 발송 완료**는 저장 후 별도 발송 처리를 이어갑니다. 두 결과를 각각 확인하며 실제 택배 인계와도 구분합니다.
 
 **업무 순서:** 배송 대상 확인 → 교재·수량·수령 정보 대조 → 출고 가능 여부 확인 → 송장 등록·저장 결과 확인 → 실제 인계 확인·발송 처리 → 상태·송장·이력 재확인
-
-<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -49,6 +49,8 @@
 > **화면 예시 준비 중** · 주문번호와 배송 상태를 대조해 출고 대상을 확인합니다.
 
 ## 2. 교재·수량·수령 정보 대조하기 <a href="#step-2" id="step-2"></a>
+
+<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
 
 | 확인할 것 | 대조 기준 |
 | --- | --- |

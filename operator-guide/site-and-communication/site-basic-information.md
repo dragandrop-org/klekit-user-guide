@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="사이트·소통 대표 이미지"><figcaption></figcaption></figure>
+
 사이트 이름·로고·파비콘을 설정하고 검색·공유 정보와 약관을 확인합니다. 기본 정보, SEO, 약관은 서로 다른 메뉴에서 관리합니다. 사이트 생성과 페이지·메뉴 편집은 이 문서의 범위가 아닙니다.
 
 **완료 기준:** 변경한 설정이 다시 열었을 때 유지되고, 방문자 화면에서 의도한 결과를 확인했습니다. 약관을 변경했다면 승인된 내용·버전과 기존 회원 동의에 미치는 영향까지 별도로 확인했습니다.
@@ -60,8 +62,6 @@ SEO 설정은 소유자 여부와 이용 플랜에 따라 저장이 제한될 �
 > **동작 예시 준비 중** · 저장 후 다시 열어 이름·로고·파비콘을 각각 확인합니다.
 
 ## 3. 검색·공유 정보 설정하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="사이트·소통 개념 일러스트"><figcaption></figcaption></figure>
 
 `SEO (검색최적화)`를 엽니다. 다음 세 탭은 하나의 저장 화면입니다.
 

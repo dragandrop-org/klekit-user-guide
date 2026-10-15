@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 대표 이미지"><figcaption></figcaption></figure>
+
 **학원 사이트와 기존 계정을 먼저 확인하고, 막힌 단계에 맞는 안내를 선택합니다.** 오류가 난다는 이유만으로 새로 가입하거나 계정을 연결·해제하지 않습니다.
 
 ## 먼저 확인하기 <a href="#check-first" id="check-first"></a>
@@ -75,8 +77,6 @@
 > **화면 예시 준비 중** · 이메일 인증·비밀번호 저장·로그인 결과를 구분합니다.
 
 ## 카카오·구글 로그인이 안 될 때 <a href="#section-6" id="section-6"></a>
-
-<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 개념 일러스트"><figcaption></figcaption></figure>
 
 | 증상 | 확인할 것 | 다음 행동 |
 | --- | --- | --- |

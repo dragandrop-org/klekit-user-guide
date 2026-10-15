@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 대표 이미지"><figcaption></figcaption></figure>
+
 **구독 관리 → 플랜 관리**에서 현재 플랜과 이용 기간을 확인하고, 무료체험 또는 유료 구독 시작 흐름을 살펴봅니다. 이 문서의 구독은 **운영자가 클킷 서비스를 이용하기 위한 구독**입니다. 수강생이 구매하는 강좌·교재 상품과는 다릅니다.
 
 **완료 기준:** 대상 사이트와 소유자 권한, 기준 플랜과 체험 혜택, 유료 시작 견적을 구분하고 신청했다면 실제 결과까지 확인합니다. 안내 창을 열거나 카드만 등록한 상태는 구독 시작 완료가 아닙니다.
@@ -55,8 +57,6 @@
 > **화면 예시 준비 중** · 정식 구독 견적과 무료체험은 별개입니다. 견적을 열어도 체험·구독이 시작되지 않습니다.
 
 ## 3. 체험 기간과 제한 확인하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 개념 일러스트"><figcaption></figcaption></figure>
 
 체험 확인 창에서 다음 내용을 확인합니다.
 

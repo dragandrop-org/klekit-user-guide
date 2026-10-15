@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+
 수강생의 주문을 찾아 결제 상태·금액·결제 수단을 확인합니다. 학생 문의나 후속 업무를 시작하기 전에 **동일한 주문의 번호·구매자·금액**을 먼저 확인하세요.
 
 **결제 완료는 강좌·자료 지급, 교재 배송 생성, 실제 발송 완료와 다릅니다.** 결제 상세 화면만으로 모든 후속 처리가 끝났다고 판단하지 않습니다.
@@ -61,8 +63,6 @@
 > **화면 예시 준비 중** · 주문 식별 정보와 결제 상태를 함께 대조합니다.
 
 ## 3. 결제 상태 확인하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 개념 일러스트"><figcaption></figcaption></figure>
 
 상단 상태와 결제 정보의 상태·일시를 함께 확인합니다. 실제 응답에 따라 표시되는 항목을 확인하며, 아래 모든 상태가 독립 탭으로 제공되는 것은 아닙니다.
 

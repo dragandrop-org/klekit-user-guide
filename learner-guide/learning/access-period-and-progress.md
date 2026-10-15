@@ -2,11 +2,11 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/learning-illustration-v1.png" alt="강의 수강 대표 이미지"><figcaption></figcaption></figure>
+
 **마이페이지 → 내 학습 → 수강중 강좌**에서 강좌별 기간과 진도율을 확인합니다. 수업별 완료 여부는 강의실의 PC **커리큘럼**, 모바일 **목차**에서 확인합니다.
 
 **완료 기준:** 원하는 강좌의 종료일·완료 수업 수·목차 표시를 찾고, 목록 필터·현재 이용 권한·재생 위치·학습 완료를 구분합니다. 진도율 100%나 완료 표시는 무제한 이용·수강 기간 연장·환불 가능 여부를 뜻하지 않습니다.
-
-<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
 
 ## 시작 전 확인 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -32,6 +32,8 @@
 > **동작 예시 준비 중** · 목록 필터로 강좌를 찾아봅니다.
 
 ## 2. 수강 기간과 종료일 읽기 <a href="#step-2" id="step-2"></a>
+
+<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
 
 | 목록에서 보이는 것 | 읽는 방법 | 같은 뜻이 아닌 것 |
 | --- | --- | --- |

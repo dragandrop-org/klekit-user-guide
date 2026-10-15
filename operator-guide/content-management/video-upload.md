@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+
 촬영한 영상을 강좌에 업로드하고 해당 수업에 연결합니다. **업로드 완료, 수업 연결, 재생 가능 여부는 각각 확인해야 합니다.**
 
 **작업 순서:** 파일 확인 → 영상 업로드 → 수업 연결 → 변환·재생 확인 → 저장·발행 확인

@@ -2,11 +2,11 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 대표 이미지"><figcaption></figcaption></figure>
+
 할인 조건과 발급 방식을 정하고, 수강생이 받은 쿠폰의 상태를 확인합니다. **쿠폰 생성, 회원에게 발급, 주문에서 사용은 서로 다른 단계입니다.**
 
 **작업 순서:** 발급 방식 선택 → 조건 입력 → 생성·발급 결과 확인 → 내역 확인 → 필요 시 중지·추가 발급
-
-<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -23,6 +23,8 @@
 관리자 **쿠폰 관리**에서 **쿠폰 생성**을 누릅니다. 생성 후에는 목록에서 해당 쿠폰을 열어 **발급 내역**, **운영 설정**, **추가 발급**을 확인합니다. 작업에 따라 필요한 권한이 달라 버튼이 보이지 않을 수 있습니다.
 
 ## 1. 발급 방식 선택하기 <a href="#step-1" id="step-1"></a>
+
+<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
 
 **발급 방식 선택**에서 목적에 맞는 방식을 선택하고 **다음 단계**로 이동합니다.
 

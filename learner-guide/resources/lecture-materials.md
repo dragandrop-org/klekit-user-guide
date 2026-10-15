@@ -2,6 +2,8 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/learning-materials-illustration-v1.png" alt="학습 자료 대표 이미지"><figcaption></figcaption></figure>
+
 강의 첨부 자료는 강의실의 PC **커리큘럼**, 모바일 **목차**에서 해당 수업 옆 **자료** 버튼으로 받습니다. 다운로드할 수업을 먼저 확인한 뒤, 파일이 실제 기기에 저장됐는지 확인합니다.
 
 **완료 기준:** 원하는 수업의 첨부 자료를 찾아 실제 저장된 파일을 열고 내용을 확인합니다. 버튼 클릭·새 창 열림·로딩 종료만으로 저장 완료를 판단하지 않습니다.
@@ -52,8 +54,6 @@
 > **화면 예시 준비 중** · 자료 버튼과 학습 완료 표시를 구분합니다.
 
 ## 3. 필요한 자료 요청하기 <a href="#step-3" id="step-3"></a>
-
-<figure><img src="../.gitbook/assets/branding/learning-materials-illustration-v1.png" alt="학습 자료 개념 일러스트"><figcaption></figcaption></figure>
 
 1. 받을 수업 제목을 확인한 뒤 해당 행의 **자료**를 한 번 누릅니다.
 2. 버튼에 처리 중 표시가 나타나면 기다립니다. 연속으로 누르거나 다른 수업의 자료를 함께 눌러 결과를 시험하지 않습니다.

@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 대표 이미지"><figcaption></figcaption></figure>
+
 **구독 관리 → 사용량 및 팩**에서 저장공간·시청시간을 확인하고 필요한 추가 팩을 검토합니다. **현재 사용량, 현재 적용 중인 팩, 다음 갱신 설정, 환불**은 서로 다른 정보입니다.
 
 **완료 기준:** 실제 집계 기준과 현재 한도를 읽고, 팩 변경을 검토했다면 이번/다음 금액·적용 시점까지 구분합니다. 요청했다면 같은 작업의 최종 결과와 현재/다음 팩·한도·청구 또는 환불 내역을 대조합니다.
 
 플랜·체험은 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md), 플랜 변경·Free 전환 예약은 [플랜 변경·구독 종료 예약하기](plan-change-and-subscription-end-schedule.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다. 여기서 다루는 팩은 클킷 서비스 사용량이며 학생의 강좌 상품·수강권·주문 환불과 별개입니다.
-
-<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -72,6 +72,8 @@
 > **화면 예시 준비 중** · 저장량의 월말 추이와 시청량의 구독 주기 추이는 집계 기준이 다릅니다.
 
 ## 3. 필요한 팩 선택하기 <a href="#step-3" id="step-3"></a>
+
+<figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
 
 1. **추가 사용량**에서 저장공간·시청시간의 현재/다음 갱신 팩을 읽습니다.
 2. **추가할 저장공간 / 추가할 시청시간**에서 필요한 팩 또는 **추가 팩 없음**을 선택합니다.

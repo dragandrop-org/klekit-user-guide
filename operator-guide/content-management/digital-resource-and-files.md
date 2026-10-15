@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+
 PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합니다. **파일 업로드 완료, 자료 저장, 판매 상품 연결은 서로 다른 단계**입니다. 파일 교체도 기존 구매자 전체에게 새 파일을 자동 지급하는 작업이 아닙니다.
 
 자료를 판매할 상품에 연결하는 방법은 [상품 만들고 콘텐츠 연결하기](../products-and-coupons/create-products-and-connect-content.md)를 확인합니다.
 
 **작업 순서:** 파일 준비 → 디지털 자료 선택 → 정보 입력·파일 업로드 → 저장 → 현재 파일 확인 → 필요한 상품 연결·구매자 결과 확인
-
-<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -52,6 +52,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 자료 썸네일은 화면의 **16:9 비율·1280×720px 이상 권장 안내**를 참고합니다. 자료의 정가는 판매 상품 가격과 별개이며, 정가 수정이 기존 상품 판매가를 자동 변경하지 않습니다. 판매 조건은 [상품 가격](../products-and-coupons/price-discount-and-valid-days.md)과 [과세·면세 설정](../products-and-coupons/tax-settings.md)을 확인합니다.
 
 ## 2. 파일 업로드하고 저장하기 <a href="#step-2" id="step-2"></a>
+
+<figure><img src="../.gitbook/assets/branding/digital-files-download-illustration-v1.png" alt="디지털 문서와 다운로드"><figcaption></figcaption></figure>
 
 1. **자료 업로드**에서 파일 하나를 선택하거나 끌어 놓습니다.
 2. 업로드 진행이 끝나고 **자료 업로드가 완료되었습니다.** 안내가 나오는지 확인합니다.

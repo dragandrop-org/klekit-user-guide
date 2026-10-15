@@ -2,9 +2,9 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-[강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
-
 <figure><img src=".gitbook/assets/branding/learner-guide-banner-v1.png" alt="클킷 수강생 가이드 - 수강부터 자료·질문 확인까지"><figcaption></figcaption></figure>
+
+[강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
 
 학원 사이트에서 강의를 구매하고 수강하거나 자료·공지·답변을 확인할 때 이용합니다. 가입과 구매부터 시작하거나 지금 필요한 안내를 찾아보세요.
 

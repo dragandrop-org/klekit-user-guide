@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+
 배송할 실물 교재의 소개·표지·정가와 최초 재고를 등록합니다. **교재 콘텐츠 등록과 판매 상품 등록은 별도 작업**입니다. 교재가 `게시 완료`여도 상품 연결·판매 설정까지 완료됐다는 뜻은 아닙니다.
 
 등록한 교재의 판매 상품 구성은 [상품 만들고 콘텐츠 연결하기](../products-and-coupons/create-products-and-connect-content.md)를 확인합니다.
 
 **작업 순서:** 교재 선택 → 기본 정보·표지 입력 → 교재 정보·정가·최초 재고 입력 → 저장 → 상세에서 결과 확인
-
-<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -41,6 +41,8 @@ ISBN이 없는 자체 제작 교재도 ISBN을 비워 두고 등록할 수 있�
 > **화면 예시 준비 중** · 교재 소개와 표지를 입력하고 ISBN 등 선택 정보를 확인합니다.
 
 ## 2. 교재 정보·정가·최초 재고 입력하기 <a href="#step-2" id="step-2"></a>
+
+<figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
 
 **교재 정보**에서 저자·출판사를 입력하고, 필요한 경우 **ISBN (선택)**·**페이지 수 (선택)**·`출간일 (선택)`을 입력합니다. 모르는 값을 임의로 만들지 않습니다.
 

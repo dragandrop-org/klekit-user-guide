@@ -2,11 +2,11 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·구매 대표 이미지"><figcaption></figcaption></figure>
+
 장바구니에서 **구매할 상품을 선택**하고, 보유한 쿠폰을 **현재 선택한 상품에 직접 적용**합니다. 쿠폰을 받거나 코드를 등록하는 것과 할인 적용은 다릅니다. 주문서로 이동하기 전에 구성·금액·구매조건을 확인합니다.
 
 **완료 기준:** 구매할 상품만 선택하고, 사용할 쿠폰의 조건과 실제 적용 할인액을 확인합니다. 장바구니 금액과 최종 주문 금액을 구분하며, 구성이나 할인이 불명확하면 주문서 작성을 진행하지 않습니다. 이미 진행 중인 주문이 있다면 새 주문보다 기존 주문 확인을 우선합니다.
-
-<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -106,6 +106,8 @@
 > **화면 예시 준비 중** · 쿠폰 받기는 발급이며 할인 적용이 아닙니다.
 
 ## 6. 장바구니에 쿠폰 적용하기 <a href="#step-6" id="step-6"></a>
+
+<figure><img src="../.gitbook/assets/branding/coupon-discount-illustration-v1.png" alt="쿠폰 티켓과 할인 태그"><figcaption></figcaption></figure>
 
 1. 로그인한 장바구니에서 구매할 상품을 선택하고 **결제 확인 → 쿠폰 선택**을 누릅니다.
 2. **쿠폰 적용** 창에서 사용할 쿠폰과 **서버 계산 예상 할인액**을 확인합니다. 적용할 수 없는 쿠폰에는 사유가 표시될 수 있습니다.

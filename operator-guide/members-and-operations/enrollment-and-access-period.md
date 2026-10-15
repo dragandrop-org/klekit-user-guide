@@ -2,13 +2,13 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
+<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="회원·권한 대표 이미지"><figcaption></figcaption></figure>
+
 **회원 관리 → 회원 목록 → 회원 상세 → 수강 내역**에서 개별 회원의 강좌 수강권을 지급하거나 기간을 연장하고, 회수 가능한 관리자 수강권을 회수합니다. **지급·연장·회수는 서로 다른 작업**이며 주문 생성·결제 취소·환불을 대신하지 않습니다.
 
 **완료 기준:** 대상 회원·강좌·변경 사유와 기존 상태를 확인하고 필요한 작업만 한 번 실행한 뒤, 최신 수강 내역의 강좌·종료일·상태·진도와 실제 이용 결과를 대조합니다. 성공 안내만으로 선택한 모든 강좌의 지급, 특정 날짜까지의 이용, 모든 수강권의 종료를 확정하지 않습니다.
 
 회원 검색·식별과 조회 권한은 [회원 정보·이용 내역 확인하기](member-information-and-history.md)를 먼저 확인합니다. 구매한 주문의 지급 문제는 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md), 거래 상태는 [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md), 취소·환불은 [신청 확인·승인·거절](../cancellations-and-returns/request-review-approve-and-reject.md)에서 다룹니다.
-
-<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -54,6 +54,8 @@
 > **화면 예시 준비 중** · 강좌와 대상을 확인합니다. 선택 가능 표시만으로 중복 지급 검사가 끝난 것은 아닙니다.
 
 ## 2. 지급 일수와 캘린더 구분하기 <a href="#step-2" id="step-2"></a>
+
+<figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
 
 | 입력 방식 | 확인할 것 | 잘못 해석하기 쉬운 부분 |
 | --- | --- | --- |
