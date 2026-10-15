@@ -3,3 +3,6 @@
 .DS_Store
 
 /.gitbook/.DS_Store
+
+# Local-only planning drafts and review evidence.
+/renewal-plan/
