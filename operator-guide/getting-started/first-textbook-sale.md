@@ -146,7 +146,7 @@
 
 주소록, 주문 당시 주소, 실제 출고할 배송 건의 주소는 다릅니다. 주소록이나 사이트 출고지를 바꾸는 것으로 기존 주문의 배송지를 정정했다고 안내하지 않습니다. **구매자는 배송 대기, 운영자는 배송 대기·준비이며 양쪽 모두 발송 이력이 없어야 한다는 정정 조건**을 [배송지 변경하기](../orders-and-shipping/change-shipping-address.md)에서 확인합니다. 변경 화면의 안내와 실제 권한/저장 결과를 구분하며 발송 상태를 되돌려 주소 변경을 우회하지 않습니다.
 
-결제 완료는 배송 대상 생성·실제 발송 완료가 아닙니다. 배송 대상이 없거나 조회가 실패해도 같은 주문을 다시 만들거나 수동 중복 배송을 만들지 않습니다. [주문·결제](../orders-and-shipping/order-and-payment-status.md)와 [구매 후 제공](../orders-and-shipping/content-fulfillment-check.md)를 참고합니다.
+결제 완료는 배송 대상 생성·실제 발송 완료가 아닙니다. 배송 대상이 없거나 조회가 실패해도 같은 주문을 다시 만들거나 수동 중복 배송을 만들지 않습니다. [주문·결제](../orders-and-shipping/order-and-payment-status.md)와 [구매 후 제공](../orders-and-shipping/content-fulfillment-check.md)을 참고합니다.
 
 > **화면 예시 준비 중** · 원 주문·배송 대상·실제 수령 정보를 대조합니다.
 
