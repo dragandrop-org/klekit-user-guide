@@ -6,15 +6,19 @@
 
 [수강생 가이드로 이동](https://klekit.gitbook.io/learner-guide/)
 
-강좌·교재·디지털 자료를 준비하고 판매부터 수강생 관리까지 이어지는 업무를 안내합니다. 처음 시작한다면 판매 준비 순서부터, 반복 업무가 있다면 해당 안내로 바로 이동하세요.
+강좌·교재·디지털 자료를 준비하고 판매부터 수강생 관리까지 이어지는 업무를 안내합니다. 사이트를 새로 준비한다면 아래 시작 순서를, 이미 맡은 업무가 있다면 업무별 바로가기를 확인하세요.
 
 ## 처음 시작하기 <a href="#getting-started" id="getting-started"></a>
+
+사이트를 새로 개설하는 운영자를 위한 순서입니다. 이미 운영 중인 사이트에 강사·조교로 참여했다면 사이트를 다시 만들지 말고, 기존 계정의 역할과 맡은 업무부터 확인합니다.
 
 1. [계정과 사이트 만들기](getting-started/account-and-site-create.md)
 2. [판매 준비 체크리스트](getting-started/sales-readiness-checklist.md)
 3. 판매할 유형에 맞춰 [첫 강좌 판매하기](getting-started/first-course-sale.md) · [첫 교재 판매하기](getting-started/first-textbook-sale.md) · [첫 디지털 자료 판매하기](getting-started/first-digital-resource-sale.md)를 확인합니다.
 
 ## 업무별 바로가기 <a href="#quick-links" id="quick-links"></a>
+
+강사는 담당 강좌의 콘텐츠·영상 안내를, 질답 조교는 질문 답변 안내를 우선 확인합니다. 운영자는 판매·회원·주문·정산 등 담당 업무의 안내로 이동합니다. 역할 이름이나 메뉴 노출만으로 실제 열람·저장·답변 권한이 확인된 것은 아닙니다. 작업이 허용되지 않으면 다른 계정으로 우회하거나 권한을 임의로 넓히지 말고 사이트 관리자에게 확인합니다.
 
 | 하려는 일 | 안내 |
 | --- | --- |
