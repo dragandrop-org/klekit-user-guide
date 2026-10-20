@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/content-pages/course-create-and-edit-v1.png" alt="강좌 등록·수정하기 대표 이미지"><figcaption></figcaption></figure>
 
 강좌 제목·소개·썸네일을 등록하고 수업을 구성합니다. 작업 중인 내용 저장, 수강생에게 반영할 내용 발행, 상품 판매 시작은 서로 다른 단계입니다. 강좌는 학습 콘텐츠이며 가격·할인·판매 상태는 상품에서 별도로 관리합니다.
 

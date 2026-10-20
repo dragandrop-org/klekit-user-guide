@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/content-pages/external-video-v1.png" alt="외부 영상 연결하기 대표 이미지"><figcaption></figcaption></figure>
 
 YouTube·Vimeo에 올린 영상을 수업에 연결합니다. 파일을 클킷에 업로드하는 방식과 달리 외부 서비스의 공유·재생 설정도 함께 확인해야 합니다.
 

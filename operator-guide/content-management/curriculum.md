@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/content-management-illustration-v1.png" alt="콘텐츠 관리 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/content-pages/curriculum-v1.png" alt="커리큘럼 구성하기 대표 이미지"><figcaption></figcaption></figure>
 
 섹션과 수업을 만들고, 수강생이 학습할 순서와 공개 범위를 정합니다. 영상 업로드 방법은 [강의 영상 업로드하기](video-upload.md)에서 따로 안내합니다.
 
