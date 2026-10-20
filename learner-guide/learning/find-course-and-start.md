@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/learning-illustration-v1.png" alt="강의 수강 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/learning/find-course-and-start-v1.png" alt="내 강의 찾고 수강 시작하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매하거나 학원에서 지급받은 강좌를 **마이페이지 → 내 학습 → 수강중 강좌**에서 찾습니다. 강좌와 이용 기간을 확인한 뒤 강의실에서 수업을 선택하고 수강을 시작합니다.
 

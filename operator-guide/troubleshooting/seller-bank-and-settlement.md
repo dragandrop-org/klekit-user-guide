@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/seller-bank-and-settlement-v1.png" alt="판매자 등록·계좌·정산에 문제가 있어요 대표 이미지"><figcaption></figcaption></figure>
 
 판매자 신청이 진행되지 않거나, 계좌 인증/반영이 다르거나, 정산 금액·지급·명세서를 확인할 수 없을 때 운영자가 확인할 순서입니다. **사업자 정보 저장·계좌 인증·판매자 신청·심사 승인·정산 확정·외부 지급 접수·실제 지급 완료는 서로 다른 결과**입니다.
 

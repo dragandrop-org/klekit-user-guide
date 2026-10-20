@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/stock-and-sales-status-v1.png" alt="재고·판매 상태 관리하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재 수량을 확인·조정하고 상품의 신규 판매를 시작하거나 중지합니다. **콘텐츠 상태, 상품 판매 상태, 실제 판매 가능 여부는 별개의 확인 항목**입니다.
 

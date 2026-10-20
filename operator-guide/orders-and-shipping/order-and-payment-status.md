@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/order-and-payment-status-v1.png" alt="주문·결제 상태 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 수강생의 주문을 찾아 결제 상태·금액·결제 수단을 확인합니다. 학생 문의나 후속 업무를 시작하기 전에 **동일한 주문의 번호·구매자·금액**을 먼저 확인하세요.
 

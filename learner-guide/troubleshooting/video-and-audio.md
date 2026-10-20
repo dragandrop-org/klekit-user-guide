@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/video-and-audio-v1.png" alt="영상이 재생되지 않거나 끊겨요 대표 이미지"><figcaption></figcaption></figure>
 
 **먼저 본인 계정·수업과 이용 제한을 확인하고, 화면에 표시된 증상에 맞게 점검합니다.** 새로고침·재생·다시 시도를 연속으로 누르거나, 재구매·보안 설정 해제로 해결하려 하지 않습니다.
 

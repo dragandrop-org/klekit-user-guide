@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/dispatch-and-tracking-v1.png" alt="출고 준비·송장 등록하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재가 포함된 주문의 배송 대상과 수량·수령 정보를 확인하고, 실제 택배사·송장번호와 발송 결과를 기록합니다. 강좌·디지털 자료의 지급은 [구매 후 콘텐츠 지급 확인하기](content-fulfillment-check.md)에서 따로 확인합니다.
 

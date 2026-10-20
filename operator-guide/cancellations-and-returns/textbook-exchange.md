@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/cancellation-return-exchange-illustration-v1.png" alt="취소·반품·교환 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/textbook-exchange-v1.png" alt="교재 교환 처리하기 대표 이미지"><figcaption></figcaption></figure>
 
 발송된 교재를 동일 교재로 교환할 때 사용합니다. 교재 구성품 하나와 신청 수량을 기준으로 회수·검수하고 수동 재배송 정보를 기록합니다. 다른 상품·판본·콘텐츠로 바꾸거나 차액을 환불하는 절차가 아닙니다. 반품 환불은 [교재 반품 처리하기](textbook-return.md)로 구분합니다.
 

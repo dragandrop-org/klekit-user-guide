@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/seller-settlement-illustration-v1.png" alt="판매자·정산 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/settlement-bank-account-v1.png" alt="정산 계좌 등록·변경하기 대표 이미지"><figcaption></figcaption></figure>
 
 정산에 사용할 계좌를 입력하고 인증 상태를 확인합니다. 실제 등록·인증·변경은 **사이트 소유자**가 진행합니다.
 

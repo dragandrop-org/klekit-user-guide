@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/seller-settlement-illustration-v1.png" alt="판매자·정산 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/settlement-amount-and-payout-status-v1.png" alt="정산 금액·지급 상태 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 정산 회차의 금액과 포함 거래를 확인하고 실제 지급 결과를 구분합니다. 정산 조회 권한이 있는 사이트 소유자·담당 운영자가 사용합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/shipping-settings-v1.png" alt="배송 설정하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재를 판매하기 전에 기본 택배사, 출고지·반품지, 최초 배송비와 반품·교환 비용을 정리합니다. 배송 설정은 상품별 재고나 개별 주문의 송장·배송지를 바꾸는 작업과 다릅니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/plan-change-and-subscription-end-schedule-v1.png" alt="플랜 변경·구독 종료 예약하기 대표 이미지"><figcaption></figcaption></figure>
 
 **구독 관리 → 플랜 관리**에서 클킷 서비스 플랜을 변경하거나 유료 플랜 종료를 예약합니다. **상향 변경, 하향/Free 전환 예약, 예약 취소**는 서로 다른 작업입니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/resources-and-shipping-v1.png" alt="자료 다운로드나 교재 배송에 문제가 있어요 대표 이미지"><figcaption></figcaption></figure>
 
 **자료의 종류와 문제가 생긴 단계를 먼저 구분합니다.** 목록에 없는 문제, 다운로드 주소 발급 실패, 기기에 저장/열기 실패, 실물 교재 배송 문제는 확인할 내용이 다릅니다. 확인하려고 재구매·무료 재신청·연속 다운로드를 하지 않습니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/troubleshooting-illustration-v1.png" alt="문제 해결 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/video-resource-and-access-v1.png" alt="영상·자료·수강권 이용에 문제가 있어요 대표 이미지"><figcaption></figcaption></figure>
 
 영상이 올라가지 않거나 연결 후 재생되지 않을 때, 구매한 강좌·자료가 보이지 않거나 자료를 받을 수 없을 때 운영자가 확인할 순서입니다. **파일 전송·수업 연결·발행/공개·이용 권리·실제 재생/저장은 서로 다른 단계**입니다.
 

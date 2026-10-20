@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/create-and-issue-coupons-v1.png" alt="쿠폰 만들고 발급하기 대표 이미지"><figcaption></figcaption></figure>
 
 할인 조건과 발급 방식을 정하고, 수강생이 받은 쿠폰의 상태를 확인합니다. **쿠폰 생성, 회원에게 발급, 주문에서 사용은 서로 다른 단계입니다.**
 

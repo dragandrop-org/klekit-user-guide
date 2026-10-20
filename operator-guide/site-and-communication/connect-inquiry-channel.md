@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="사이트·소통 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/connect-inquiry-channel-v1.png" alt="상담 채널 연결하기 대표 이미지"><figcaption></figcaption></figure>
 
 **외부 서비스 연동 → 고객 상담 채널**에서 사이트에 표시할 상담 채널을 선택하고 연결 정보를 저장합니다. **채널톡 / 카카오톡 채널 / 사용 안 함** 중 하나를 선택하며 두 채널을 동시에 활성화하는 설정은 아닙니다.
 

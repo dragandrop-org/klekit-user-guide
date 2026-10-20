@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/learning-materials-illustration-v1.png" alt="학습 자료 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/resources/my-digital-resources-v1.png" alt="구매하거나 지급받은 디지털 자료 이용하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매하거나 지급받은 디지털 자료는 **마이페이지 → 내 학습 → 내 자료**에서 확인합니다. 자료명·파일명·지급일을 대조하고 다운로드 안내를 확인한 뒤, 실제 기기에 저장된 파일을 열어 봅니다.
 

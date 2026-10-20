@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/change-shipping-address-v1.png" alt="배송지 변경하기 대표 이미지"><figcaption></figcaption></figure>
 
 이미 생성된 교재 배송 건의 수령인·연락처·주소·배송 요청사항을 정정할 때 사용합니다. 구매 단계의 주소 선택, 주소록 수정, 사이트의 출고지·반품지 설정과는 다른 작업입니다.
 

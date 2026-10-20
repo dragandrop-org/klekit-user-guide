@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="공지·질문·문의 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/communication/read-notices-v1.png" alt="공지사항 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 학원 일정과 수업 안내는 사이트의 **공지사항**에서 확인합니다. **중요** 공지와 검색 결과에서 필요한 글을 열고, 본문의 대상·일정·준비물과 첨부파일을 확인한 뒤 **목록으로** 돌아옵니다.
 

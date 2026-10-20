@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/seller-settlement-illustration-v1.png" alt="판매자·정산 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/settlement-statement-and-pdf-v1.png" alt="정산명세서·PDF 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 명세서·PDF가 제공되면 확정된 정산 회차의 대상·기간·금액을 대조합니다. 해당 사이트의 정산 조회 권한이 있는 사이트 소유자·담당 운영자가 사용합니다.
 

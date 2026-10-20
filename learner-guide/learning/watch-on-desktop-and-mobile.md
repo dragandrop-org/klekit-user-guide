@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/learning-illustration-v1.png" alt="강의 수강 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/learning/watch-on-desktop-and-mobile-v1.png" alt="PC·모바일에서 영상 보기 대표 이미지"><figcaption></figcaption></figure>
 
 강의실에서 **수업 제목을 확인하고 재생을 누른 뒤 화면과 소리를 확인**합니다. PC에서는 측면 도구, 모바일에서는 하단 탭으로 목차 등을 엽니다. 영상 자체의 조작 버튼은 브라우저 또는 YouTube/Vimeo 재생기에 따라 달라집니다.
 

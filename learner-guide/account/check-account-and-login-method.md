@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="계정·로그인 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/account/check-account-and-login-method-v1.png" alt="내 계정과 로그인 방식 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **계정 설정 → 내 프로필**에서 현재 계정의 이름·이메일·휴대폰과 **간편로그인 연결 상태**를 확인합니다. 강좌나 결제 내역이 예상과 다르면 정보를 바꾸기 전에 구매하거나 수강권을 받은 계정인지 먼저 확인합니다.
 

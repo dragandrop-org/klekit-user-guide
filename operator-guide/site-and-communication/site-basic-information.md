@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="사이트·소통 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/site-basic-information-v1.png" alt="사이트 기본 정보 설정하기 대표 이미지"><figcaption></figcaption></figure>
 
 사이트 이름·로고·파비콘을 설정하고 검색·공유 정보와 약관을 확인합니다. 기본 정보, SEO, 약관은 서로 다른 메뉴에서 관리합니다. 사이트 생성과 페이지·메뉴 편집 절차는 여기서 다루지 않습니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·구매 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/purchase/cart-and-coupons-v1.png" alt="장바구니와 쿠폰 이용하기 대표 이미지"><figcaption></figcaption></figure>
 
 장바구니에서 **구매할 상품을 선택**하고, 보유한 쿠폰을 **현재 선택한 상품에 직접 적용**합니다. 쿠폰을 받거나 코드를 등록하는 것과 할인 적용은 다릅니다. 주문서로 이동하기 전에 구성·금액·구매조건을 확인합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/orders-and-shipping-illustration-v1.png" alt="주문·배송 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders/textbook-shipping-and-address-v1.png" alt="교재 배송과 배송지 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재가 오지 않거나 배송지를 확인해야 한다면 **구매한 사이트·계정 → 원 주문·교재 확인 → 학원이 안내한 배송 정보 확인 → 필요한 내용 문의** 순서로 준비합니다. 결제완료·송장 등록·실제 발송·수령은 서로 다른 결과입니다.
 

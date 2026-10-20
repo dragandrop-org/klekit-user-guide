@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/site-and-communication-illustration-v1.png" alt="공지·질문·문의 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/communication/site-inquiries-v1.png" alt="사이트에 1:1 문의하기 대표 이미지"><figcaption></figcaption></figure>
 
 계정·결제·수강 이용 등 사이트 이용에 도움이 필요하면 **마이페이지 → 1:1 문의**에 내용을 남깁니다. **기존 문의 확인 → 문의 작성 → 저장 결과 확인 → 답변 읽기 → 필요한 내용 이어 묻기** 순서로 이용합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="회원·권한 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/enrollment-and-access-period-v1.png" alt="수강권·이용 기간 관리하기 대표 이미지"><figcaption></figcaption></figure>
 
 **회원 관리 → 회원 목록 → 회원 상세 → 수강 내역**에서 개별 회원의 강좌 수강권을 지급하거나 기간을 연장하고, 회수 가능한 관리자 수강권을 회수합니다. **지급·연장·회수는 서로 다른 작업**이며 주문 생성·결제 취소·환불을 대신하지 않습니다.
 

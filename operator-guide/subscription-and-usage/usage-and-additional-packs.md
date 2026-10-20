@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/subscription-usage-illustration-v1.png" alt="구독·사용량 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/usage-and-additional-packs-v1.png" alt="사용량 확인·추가 팩 관리하기 대표 이미지"><figcaption></figcaption></figure>
 
 **구독 관리 → 사용량 및 팩**에서 저장공간·시청시간을 확인하고 필요한 추가 팩을 검토합니다. **현재 사용량, 현재 적용 중인 팩, 다음 갱신 설정, 환불**은 서로 다른 정보입니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="계정·로그인 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/account/signup-and-login-v1.png" alt="회원가입·로그인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **학원에서 안내한 사이트**에 가입하거나, 이미 가입한 계정으로 로그인합니다. 강사·운영자가 클킷을 관리하는 주소가 아니라 수강할 학원 사이트에서 시작합니다.
 

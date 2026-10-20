@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/account-and-permissions-illustration-v1.png" alt="회원·권한 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/site-stop-and-delete-v1.png" alt="사이트 중지·삭제하기 대표 이미지"><figcaption></figcaption></figure>
 
 **운영 → 운영 설정**에서 사이트의 현재 상태와 중지·재개·삭제 관련 안내를 확인합니다. **사이트 운영 상태, 페이지 공개, 상품 판매 상태, 서비스 구독은 서로 다른 설정**입니다. 잠시 운영을 멈추려는 목적을 사이트 삭제로 처리하지 않습니다.
 

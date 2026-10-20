@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/products-and-purchase-illustration-v1.png" alt="상품·쿠폰 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/tax-settings-v1.png" alt="과세·면세 정보 설정하기 대표 이미지"><figcaption></figcaption></figure>
 
 상품에 포함된 **각 콘텐츠의 과세 유형**을 설정합니다. 이 문서는 클킷의 입력 절차를 안내하며 개별 상품이 법적으로 면세에 해당하는지를 판단하는 문서가 아닙니다. 판단이 불확실하면 판매자의 확인된 기준을 먼저 정리합니다.
 
