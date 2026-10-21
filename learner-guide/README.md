@@ -6,19 +6,28 @@
 
 [강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
 
-학원 사이트에서 구매하거나 학원이 직접 지급한 강좌·자료를 이용하고, 공지·질문 답변과 주문·배송 정보를 확인할 때 이용합니다. 구매와 직접 지급은 시작 경로가 다르므로 본인 상황에 맞는 안내를 선택하세요.
+강의를 듣고, 자료를 받거나 질문을 올릴 때 필요한 방법을 안내합니다. 이미 구매했거나 학원에서 받은 강좌가 있다면 아래 수강 순서부터 시작하세요. 새 상품을 구매하는 방법은 따로 안내합니다.
 
 ## 처음 이용한다면 <a href="#getting-started" id="getting-started"></a>
 
-직접 상품을 구매하려는 경우에는 아래 순서를 따릅니다. 이미 구매했거나 학원에서 강좌·자료를 직접 지급받았다면 구매 단계를 반복하지 않습니다. 기존 계정이 있다면 새로 가입하지 말고 같은 사이트의 해당 계정으로 로그인합니다.
+### 이미 강좌를 구매했거나 학원에서 받았다면
+
+1. 학원이 안내한 사이트의 기존 계정으로 [로그인](account/signup-and-login.md)합니다. 계정이 있다면 새로 가입하지 않습니다.
+2. [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md)에서 들을 강좌를 찾습니다.
+3. [PC·모바일에서 영상 보기](learning/watch-on-desktop-and-mobile.md)로 수강을 시작합니다.
+4. 필요한 [강의 첨부 자료](resources/lecture-materials.md)를 받고, 궁금한 내용은 [학습 Q&A](communication/learning-qna.md)에 질문합니다.
+
+학원에서 직접 지급받았다면 안내받은 사이트·계정·강좌/자료명을 먼저 확인합니다. 강좌는 [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md), 별도 디지털 자료는 [구매하거나 지급받은 디지털 자료 이용하기](resources/my-digital-resources.md)로 이동합니다. 직접 지급에는 주문 내역이 없을 수 있습니다. 목록이 비어 있거나 조회에 실패해도 미지급으로 단정해 재가입·재결제하지 말고 학원에 확인합니다.
+
+### 새 상품을 직접 구매한다면
+
+처음 가입하는 경우에만 회원가입부터 진행합니다. 이미 구매했거나 직접 지급받은 강좌·자료는 다시 결제할 필요가 없습니다.
 
 1. [회원가입·로그인하기](account/signup-and-login.md)
 2. [상품 구성·가격·이용 기간 확인하기](purchase/product-and-access-period.md)
 3. [장바구니와 쿠폰 이용하기](purchase/cart-and-coupons.md)
 4. [결제하고 무료 상품 신청하기](purchase/payment-and-free-order.md)
 5. [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md)
-
-학원에서 직접 지급받았다면 안내받은 사이트·계정·강좌/자료명을 먼저 확인합니다. 강좌는 [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md), 별도 디지털 자료는 [구매하거나 지급받은 디지털 자료 이용하기](resources/my-digital-resources.md)로 이동합니다. 직접 지급에는 주문 내역이 없을 수 있습니다. 목록이 비어 있거나 조회에 실패해도 미지급으로 단정해 재가입·재결제하지 말고 학원에 확인합니다.
 
 ## 자주 찾는 안내 <a href="#quick-links" id="quick-links"></a>
 
@@ -39,7 +48,7 @@
 - [영상이 재생되지 않거나 끊겨요](troubleshooting/video-and-audio.md)
 - [자료 다운로드나 교재 배송에 문제가 있어요](troubleshooting/resources-and-shipping.md)
 
-결제·다운로드·신청 결과가 불명확하면 같은 계정의 원 주문 또는 학원의 지급 안내부터 확인합니다. 재구매·무료 재신청·연속 다운로드로 문제를 해결하려 하지 않습니다.
+결제·다운로드·신청 결과가 불명확하면 같은 계정의 원 주문(처음 결제한 주문) 또는 학원의 지급 안내부터 확인합니다. 재구매·무료 재신청·연속 다운로드로 문제를 해결하려 하지 않습니다.
 
 ## 학원에 문의할 때 <a href="#contact-academy" id="contact-academy"></a>
 

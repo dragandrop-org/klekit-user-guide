@@ -24,7 +24,7 @@
 ## 상품·쿠폰 <a href="#products-and-coupons" id="products-and-coupons"></a>
 
 - [상품 만들고 콘텐츠 연결하기](products-and-coupons/create-products-and-connect-content.md)
-- [가격·할인·수강 기간 설정하기](products-and-coupons/price-discount-and-valid-days.md)
+- [가격·할인·수강 기간 설정](products-and-coupons/price-discount-and-valid-days.md)
 - [과세·면세 정보 설정하기](products-and-coupons/tax-settings.md)
 - [재고·판매 상태 관리하기](products-and-coupons/stock-and-sales-status.md)
 - [쿠폰 만들고 발급하기](products-and-coupons/create-and-issue-coupons.md)
@@ -57,28 +57,28 @@
 
 - [판매자 등록·심사 확인하기](sellers-and-settlements/seller-registration-and-review.md)
 - [정산 계좌 등록·변경하기](sellers-and-settlements/settlement-bank-account.md)
-- [정산 금액·지급 상태 확인하기](sellers-and-settlements/settlement-amount-and-payout-status.md)
+- [정산 금액·지급 상태 보기](sellers-and-settlements/settlement-amount-and-payout-status.md)
 - [정산명세서·PDF 확인하기](sellers-and-settlements/settlement-statement-and-pdf.md)
 
 ## 회원·권한 <a href="#members-and-operations" id="members-and-operations"></a>
 
-- [회원 정보·이용 내역 확인하기](members-and-operations/member-information-and-history.md)
+- [회원 정보·이용 내역 보기](members-and-operations/member-information-and-history.md)
 - [수강권·이용 기간 관리하기](members-and-operations/enrollment-and-access-period.md)
 - [운영자 지정·역할 관리하기](members-and-operations/operator-assignment-and-roles.md)
 - [사이트 중지·삭제하기](members-and-operations/site-stop-and-delete.md)
 
 ## 구독·사용량 <a href="#subscription-and-usage" id="subscription-and-usage"></a>
 
-- [플랜·무료체험과 구독 시작하기](subscription-and-usage/plan-trial-and-subscription-start.md)
-- [플랜 변경·구독 종료 예약하기](subscription-and-usage/plan-change-and-subscription-end-schedule.md)
-- [사용량 확인·추가 팩 관리하기](subscription-and-usage/usage-and-additional-packs.md)
-- [구독 결제수단·청구 내역 확인하기](subscription-and-usage/billing-method-and-payment-history.md)
+- [무료체험·구독 시작하기](subscription-and-usage/plan-trial-and-subscription-start.md)
+- [플랜 변경·종료 예약하기](subscription-and-usage/plan-change-and-subscription-end-schedule.md)
+- [사용량·추가 팩 관리하기](subscription-and-usage/usage-and-additional-packs.md)
+- [결제수단·청구 내역 보기](subscription-and-usage/billing-method-and-payment-history.md)
 
 ## 문제 해결 <a href="#troubleshooting" id="troubleshooting"></a>
 
 - [상품 판매·결제가 안 돼요](troubleshooting/product-sales-and-payment.md)
-- [영상·자료·수강권 이용에 문제가 있어요](troubleshooting/video-resource-and-access.md)
+- [영상·자료·수강권 문제](troubleshooting/video-resource-and-access.md)
 - [출고·송장·배송지 처리가 안 돼요](troubleshooting/dispatch-tracking-and-address.md)
-- [취소·반품·교환 처리가 멈췄어요](troubleshooting/cancellation-return-and-exchange.md)
-- [판매자 등록·계좌·정산에 문제가 있어요](troubleshooting/seller-bank-and-settlement.md)
+- [취소·반품·교환 처리 지연](troubleshooting/cancellation-return-and-exchange.md)
+- [판매자·계좌·정산 문제](troubleshooting/seller-bank-and-settlement.md)
 - [사이트 접근·구독·사용량에 문제가 있어요](troubleshooting/site-subscription-and-usage.md)

@@ -4,6 +4,8 @@
 
 <figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/create-and-issue-coupons-v2.png" alt="쿠폰 만들고 발급하기 대표 이미지"><figcaption></figcaption></figure>
 
+**업무 대상:** 상품 판매·쿠폰 운영을 맡은 담당자용 안내입니다. 강의 콘텐츠만 관리한다면 판매 조건 변경은 학원 운영자에게 요청하세요. 실제 작업 가능 범위는 본인 계정의 권한을 확인하세요.
+
 할인 조건과 발급 방식을 정하고, 수강생이 받은 쿠폰의 상태를 확인합니다. **쿠폰 생성, 회원에게 발급, 주문에서 사용은 서로 다른 단계입니다.**
 
 **작업 순서:** 발급 방식 선택 → 조건 입력 → 생성·발급 결과 확인 → 내역 확인 → 필요 시 중지·추가 발급
