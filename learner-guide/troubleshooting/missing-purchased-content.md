@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/missing-purchased-content-v2.png" alt="결제했는데 강의나 자료가 보이지 않아요 대표 이미지"><figcaption></figcaption></figure>
 
-**같은 학원 사이트와 본인 계정인지 확인한 뒤, 원 주문(처음 결제한 주문)과 구매한 구성에 맞는 목록을 확인합니다.** 강좌나 자료가 보이지 않는다는 이유로 다시 결제하거나 무료 신청을 반복하지 않습니다.
+**같은 학원 사이트와 본인 계정인지 확인한 뒤, 원 주문(해당 상품을 구매한 주문)과 구매한 구성에 맞는 목록을 확인합니다.** 강좌나 자료가 보이지 않는다는 이유로 다시 결제하거나 무료 신청을 반복하지 않습니다.
 
 ## 먼저 내 상황 구분하기 <a href="#choose-your-situation" id="choose-your-situation"></a>
 

@@ -199,9 +199,9 @@
 - [교재 교환](../cancellations-and-returns/textbook-exchange.md)
 - [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md)
 - [구매 후 지급 확인](../orders-and-shipping/content-fulfillment-check.md)
-- 수강생 가이드의 **학생 취소 신청**
-- 수강생 가이드의 **학생 반품·교환 신청**
-- 수강생 가이드의 **학생 처리 상태 확인**
+- 수강생 가이드의 [상품 취소·환불 신청하기](https://klekit.gitbook.io/learner-guide/cancellations/request-cancellation)
+- 수강생 가이드의 [교재 반품·교환 신청하기](https://klekit.gitbook.io/learner-guide/cancellations/request-return-or-exchange)
+- 수강생 가이드의 [취소·반품·교환 처리 상태](https://klekit.gitbook.io/learner-guide/cancellations/request-status)
 - [판매·결제 문제](product-sales-and-payment.md)
 - [영상·자료·수강권 문제](video-resource-and-access.md)
 - [배송 문제](dispatch-tracking-and-address.md)

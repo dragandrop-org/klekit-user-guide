@@ -121,7 +121,7 @@
 | 약관·정책 | 담당자가 승인한 이용약관·개인정보처리방침·환불 정책 등의 내용·버전과 실제 연결 위치를 확인할 계획입니다 | [사이트 기본 정보](../site-and-communication/site-basic-information.md) |
 | 페이지·메뉴 | 제공할 페이지의 발행본·공개 상태와 PC/모바일 메뉴 연결·직접 주소 결과를 각각 확인할 계획입니다 | [페이지·메뉴](../site-and-communication/pages-and-menus.md) |
 | 공지 | 필요한 운영/학습 안내와 공개 범위를 정했습니다. 비공개 공지 보호가 미확인인 상태에서 학생 명단·인증정보·유료 자료를 넣지 않습니다 | [게시판·공지](../site-and-communication/boards-and-notices.md) |
-| 문의 담당·경로 | 학습 Q&A와 주문/사이트 문의를 구분하고 실제 제공되는 문의 경로·담당자·안내 기준을 준비했습니다 | [Q&A 답변](../site-and-communication/qna-answer.md) · 수강생 가이드의 **1:1 문의** |
+| 문의 담당·경로 | 학습 Q&A와 주문/사이트 문의를 구분하고 실제 제공되는 문의 경로·담당자·안내 기준을 준비했습니다 | [Q&A 답변](../site-and-communication/qna-answer.md) · 수강생 가이드의 [사이트에 1:1 문의하기](https://klekit.gitbook.io/learner-guide/communication/site-inquiries) |
 | 선택 상담 채널·폼 | 사용할 경우에만 플랜·노출·실제 연결/접수 결과를 점검합니다. 둘 다 판매 공통 필수 기능으로 두지 않습니다 | [폼](../site-and-communication/site-form-create-and-responses.md) · [상담 채널](../site-and-communication/connect-inquiry-channel.md) |
 
 메뉴 숨김이나 검색 로봇 차단은 페이지·회원 전용 자료의 접근 보호를 대신하지 않습니다. **커스텀 빌더의 대상 연결 문제는 수정·검수 전 실행 중단**을 유지합니다. 새 사이트의 템플릿 자동 발행 가능성도 [계정과 사이트 만들기](account-and-site-create.md)와 함께 확인하며, 판매 준비 중이라는 이유로 사이트가 비공개라고 가정하지 않습니다.
@@ -136,9 +136,9 @@
 
 | 대상 | 같은 주문에서 대조할 결과 | 관련 가이드 |
 | --- | --- | --- |
-| 공통 | 상품 구성·수량·할인/쿠폰·배송비·최종액과 해당 주문의 결제 상태. 0원 주문도 원 주문과 실제 제공 결과를 확인 | [주문·결제](../orders-and-shipping/order-and-payment-status.md) · 수강생 가이드의 **결제·무료 신청** |
-| 강좌 | 이번 주문과 연결된 수강 권한·기간, 구매자 계정의 실제 학습 접근과 별도 승인한 재생 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 **내 강의** |
-| 디지털 자료 | 이번 주문의 파일 버전·이용 권한, 주소 발급과 별도 승인한 실제 파일 수신/열기 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 **내 자료** |
+| 공통 | 상품 구성·수량·할인/쿠폰·배송비·최종액과 해당 주문의 결제 상태. 0원 주문도 원 주문과 실제 제공 결과를 확인 | [주문·결제](../orders-and-shipping/order-and-payment-status.md) · 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order) |
+| 강좌 | 이번 주문과 연결된 수강 권한·기간, 구매자 계정의 실제 학습 접근과 별도 승인한 재생 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [내 강의 찾고 수강 시작하기](https://klekit.gitbook.io/learner-guide/learning/find-course-and-start) |
+| 디지털 자료 | 이번 주문의 파일 버전·이용 권한, 주소 발급과 별도 승인한 실제 파일 수신/열기 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [구매하거나 지급받은 디지털 자료 이용하기](https://klekit.gitbook.io/learner-guide/resources/my-digital-resources) |
 | 교재 | 이번 주문의 교재·수량·배송 대상/주소·확정 배송비와 담당 출고 경로. 생성·송장·발송·수령을 구분 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · [출고·송장](../orders-and-shipping/dispatch-and-tracking.md) |
 | 패키지 | 위 구성품 각각의 결과와 누락 여부. 기존 수강권·자료 권한의 존재만으로 이번 주문의 지급 성공을 확정하지 않음 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) |
 

@@ -99,7 +99,7 @@
 | 외부 후속 처리 문제가 의심됨 | 클킷의 발송 기록과 외부 보고/조회 결과를 담당자가 분리 확인 | 외부 결과 확인을 위해 중복 발송하거나 직접 내부 재처리를 안내하지 않음 |
 | 오배송/분실/수령 차이 문의 | 실제 배송 건·택배사 진행·학원의 확인된 대응 경로 | 학생에게 임의 반송·새 교재 주문·비공식 주소/계좌 이용을 지시하지 않음 |
 
-학생에게는 수강생 가이드의 **교재 배송과 배송지 확인**을 안내합니다. 반품·교환은 [교재 반품](../cancellations-and-returns/textbook-return.md)·[교재 교환](../cancellations-and-returns/textbook-exchange.md)의 별도 기준을 따릅니다. 원 배송의 송장 정정과 교환 재배송은 같은 업무가 아닙니다. 자동 회수·자동 교환 재배송을 약속하지 않습니다.
+학생에게는 수강생 가이드의 [교재 배송과 배송지 확인하기](https://klekit.gitbook.io/learner-guide/orders/textbook-shipping-and-address)를 안내합니다. 반품·교환은 [교재 반품](../cancellations-and-returns/textbook-return.md)·[교재 교환](../cancellations-and-returns/textbook-exchange.md)의 별도 기준을 따릅니다. 원 배송의 송장 정정과 교환 재배송은 같은 업무가 아닙니다. 자동 회수·자동 교환 재배송을 약속하지 않습니다.
 
 > **화면 예시 준비 중** · 발송 표시와 실제 택배 인계·수령을 구분합니다.
 
@@ -190,7 +190,7 @@
 - [배송 설정](../orders-and-shipping/shipping-settings.md)
 - [출고·송장](../orders-and-shipping/dispatch-and-tracking.md)
 - [배송지 변경](../orders-and-shipping/change-shipping-address.md)
-- 수강생 가이드의 **학생 교재 배송/주소**
+- 수강생 가이드의 [교재 배송과 배송지 확인하기](https://klekit.gitbook.io/learner-guide/orders/textbook-shipping-and-address)
 - [교재 반품](../cancellations-and-returns/textbook-return.md)
 - [교재 교환](../cancellations-and-returns/textbook-exchange.md)
 - [판매·결제 문제](product-sales-and-payment.md)

@@ -80,7 +80,7 @@
 
 쿠폰이 만들어졌거나 회원에게 발급됐다는 안내만으로 이번 주문에 적용된 것은 아닙니다. 쿠폰의 유효기간·최소 금액·적용/예약·사용 상태를 확인하고, 일부 발급이나 적용 결과가 불명확하면 같은 쿠폰·대상 내역을 먼저 확인합니다. 반복 발급이나 다른 쿠폰 생성으로 기존 주문 문제를 해결하지 않습니다.
 
-가격·할인·쿠폰 조건은 [가격·할인·기간](../products-and-coupons/price-discount-and-valid-days.md), [과세·면세 설정](../products-and-coupons/tax-settings.md), [쿠폰 만들고 발급하기](../products-and-coupons/create-and-issue-coupons.md)에서 확인합니다. 학생에게는 수강생 가이드의 **장바구니와 쿠폰 이용**을 안내합니다.
+가격·할인·쿠폰 조건은 [가격·할인·기간](../products-and-coupons/price-discount-and-valid-days.md), [과세·면세 설정](../products-and-coupons/tax-settings.md), [쿠폰 만들고 발급하기](../products-and-coupons/create-and-issue-coupons.md)에서 확인합니다. 학생에게는 수강생 가이드의 [장바구니와 쿠폰 이용하기](https://klekit.gitbook.io/learner-guide/purchase/cart-and-coupons)를 안내합니다.
 
 > **화면 예시 준비 중** · 현재 상품 가격과 원 주문에 기록된 금액을 구분합니다.
 
@@ -134,8 +134,8 @@
 | 결제 후 확인할 대상 | 구분할 결과 | 연결 안내 |
 | --- | --- | --- |
 | 강좌 | 주문 완료·수강권 지급·이용 기간·실제 재생은 별도 | [구매 후 지급 확인](../orders-and-shipping/content-fulfillment-check.md) |
-| 별도 디지털 자료 | 자료 권리/목록·다운로드 주소 발급·실제 저장/열기는 별도 | 수강생 가이드의 **강의나 자료가 보이지 않을 때** |
-| 교재 | 배송 대상 생성·송장·실제 인계/발송·수령은 별도 | 수강생 가이드의 **교재 배송과 배송지** |
+| 별도 디지털 자료 | 자료 권리/목록·다운로드 주소 발급·실제 저장/열기는 별도 | 수강생 가이드의 [결제한 강의·자료가 없어요](https://klekit.gitbook.io/learner-guide/troubleshooting/missing-purchased-content) |
+| 교재 | 배송 대상 생성·송장·실제 인계/발송·수령은 별도 | 수강생 가이드의 [교재 배송과 배송지 확인하기](https://klekit.gitbook.io/learner-guide/orders/textbook-shipping-and-address) |
 | 묶음상품 | 포함된 각 구성품의 결과를 확인. 한 항목만으로 전체 성공을 확정하지 않음 | [구매 후 지급 확인](../orders-and-shipping/content-fulfillment-check.md) |
 | 학원 직접 지급 | 유료/0원 주문과 별개로 지급 안내·대상 계정·권리를 확인 | [수강권·기간 관리](../members-and-operations/enrollment-and-access-period.md) |
 
@@ -191,5 +191,5 @@
 - [판매자 등록](../sellers-and-settlements/seller-registration-and-review.md)
 - [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md)
 - [지급 확인](../orders-and-shipping/content-fulfillment-check.md)
-- 수강생 가이드의 **학생 결제 안내**
+- 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order)
 - [가이드 홈](../README.md)

@@ -12,7 +12,7 @@
 
 ### 이미 강좌를 구매했거나 학원에서 받았다면
 
-1. 학원이 안내한 사이트의 기존 계정으로 [로그인](account/signup-and-login.md)합니다. 계정이 있다면 새로 가입하지 않습니다.
+1. 학원이 안내한 사이트의 기존 계정으로 [로그인](account/signup-and-login.md#step-6)합니다. 계정이 있다면 새로 가입하지 않습니다.
 2. [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md)에서 들을 강좌를 찾습니다.
 3. [PC·모바일에서 영상 보기](learning/watch-on-desktop-and-mobile.md)로 수강을 시작합니다.
 4. 필요한 [강의 첨부 자료](resources/lecture-materials.md)를 받고, 궁금한 내용은 [학습 Q&A](communication/learning-qna.md)에 질문합니다.
@@ -48,7 +48,7 @@
 - [영상이 재생되지 않거나 끊겨요](troubleshooting/video-and-audio.md)
 - [자료 다운로드나 교재 배송에 문제가 있어요](troubleshooting/resources-and-shipping.md)
 
-결제·다운로드·신청 결과가 불명확하면 같은 계정의 원 주문(처음 결제한 주문) 또는 학원의 지급 안내부터 확인합니다. 재구매·무료 재신청·연속 다운로드로 문제를 해결하려 하지 않습니다.
+결제·다운로드·신청 결과가 불명확하면 같은 계정의 원 주문(해당 상품을 구매한 주문) 또는 학원의 지급 안내부터 확인합니다. 재구매·무료 재신청·연속 다운로드로 문제를 해결하려 하지 않습니다.
 
 ## 학원에 문의할 때 <a href="#contact-academy" id="contact-academy"></a>
 

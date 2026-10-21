@@ -120,7 +120,7 @@
 | YouTube/Vimeo 오류·외부 안내 | 저장된 영상 종류/링크와 외부 플레이어의 실제 안내 | 공유 키·학생 외부 계정·직접 URL을 받아 우회하거나 무조건 공개로 바꾸지 않음 |
 | 진도·이어보기·외부 시청 상태가 다름 | 재생 위치·완료 수업/진도·외부 재생 상태를 구분 | 저장정보 삭제·반복 시청·강제 완료로 맞추지 않음 |
 
-학생의 기기·소리·끊김 확인은 수강생 가이드의 **영상 재생 문제 점검**에 연결합니다. 일반 영상과 외부 재생기는 오류 표시·기록 방식이 다르며 **다시 시도** 버튼도 모든 원인의 해결을 보장하지 않습니다. 무한 새로고침·재시도·직접 영상 주소 공유·보안 설정 해제를 안내하지 않습니다.
+학생의 기기·소리·끊김 확인은 수강생 가이드의 [영상 재생·끊김 문제](https://klekit.gitbook.io/learner-guide/troubleshooting/video-and-audio)에 연결합니다. 일반 영상과 외부 재생기는 오류 표시·기록 방식이 다르며 **다시 시도** 버튼도 모든 원인의 해결을 보장하지 않습니다. 무한 새로고침·재시도·직접 영상 주소 공유·보안 설정 해제를 안내하지 않습니다.
 
 시청 사용량이나 사이트 구독 관련 제한이 보이면 학원 운영자가 확인합니다. 학생에게 클킷 플랜/팩 구매를 요구하거나, 기존 권리를 바꿔 제한을 우회하지 않습니다. 사이트·구독/사용량 점검은 [사이트·구독·사용량 문제](site-subscription-and-usage.md)로 넘깁니다. 외부 영상은 일반 영상의 진도/이어보기와 같은 것으로 설명하지 않습니다.
 
@@ -146,7 +146,7 @@
 
 파일 검사·차단·추가 확인 안내가 있다면 담당자가 파일/권리 상태를 확인합니다. 검사 중이라는 배지가 없는 일반 발급 오류를 검사 진행으로 대신 설명하거나, 일정 시간 뒤 자동 해제·모든 파일 안전을 보장하지 않습니다. 다운로드 주소·옛 파일 주소를 직접 입력해 접근 제한을 우회하지 않습니다.
 
-학생에게는 수강생 가이드의 **강의 첨부자료**와 **내 디지털 자료**를 안내합니다. 실패한 단계는 수강생 가이드의 **자료 다운로드 문제 점검**과 함께 확인합니다. 관리자의 파일 등록/교체는 [디지털 자료·파일 관리](../content-management/digital-resource-and-files.md)에서 별도로 확인합니다.
+학생에게는 수강생 가이드의 [강의 첨부 자료 받기](https://klekit.gitbook.io/learner-guide/resources/lecture-materials)와 [구매하거나 지급받은 디지털 자료 이용하기](https://klekit.gitbook.io/learner-guide/resources/my-digital-resources)를 안내합니다. 실패한 단계는 수강생 가이드의 [자료 다운로드나 교재 배송에 문제가 있어요](https://klekit.gitbook.io/learner-guide/troubleshooting/resources-and-shipping)를 참고해 확인합니다. 강사의 수업 첨부파일 등록·교체는 [수업 첨부자료 등록 안내](../content-management/curriculum.md#lesson-attachment), 별도 구매·지급 자료의 파일 관리는 [디지털 자료·파일 관리](../content-management/digital-resource-and-files.md)에서 각각 확인합니다.
 
 > **화면 예시 준비 중** · 자료 발급 이력과 실제 기기 저장·열기는 다릅니다.
 
@@ -197,8 +197,8 @@
 - [디지털 자료·파일](../content-management/digital-resource-and-files.md)
 - [구매 후 지급 확인](../orders-and-shipping/content-fulfillment-check.md)
 - [수강권·기간 관리](../members-and-operations/enrollment-and-access-period.md)
-- 수강생 가이드의 **학생 강좌/자료 누락 점검**
-- 수강생 가이드의 **학생 재생 문제**
-- 수강생 가이드의 **학생 자료 다운로드 문제**
+- 수강생 가이드의 [결제한 강의·자료가 없어요](https://klekit.gitbook.io/learner-guide/troubleshooting/missing-purchased-content)
+- 수강생 가이드의 [영상 재생·끊김 문제](https://klekit.gitbook.io/learner-guide/troubleshooting/video-and-audio)
+- 수강생 가이드의 [자료 다운로드나 교재 배송에 문제가 있어요](https://klekit.gitbook.io/learner-guide/troubleshooting/resources-and-shipping)
 - [상품 판매·결제 문제](product-sales-and-payment.md)
 - [가이드 홈](../README.md)

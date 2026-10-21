@@ -44,7 +44,7 @@
 
 담당 강좌 **후보를 더 불러오는 것과 기존 전체 선택을 보존하는 것은 별개**입니다. 전체 담당 범위가 확인되지 않은 상태에서는 역할/담당 강좌 변경을 멈추고 담당자에게 확인합니다. 일부 목록이 보인다고 서비스의 강좌 상한이나 삭제 결과로 해석하지 않습니다.
 
-정상 확인은 [운영자 지정·역할 관리](../members-and-operations/operator-assignment-and-roles.md)를 따릅니다. **학생의 로그인 문제**는 수강생 가이드의 **학생 계정 점검**으로 연결합니다. 운영자·플랫폼 계정의 로그인에는 학생용 복구 절차를 그대로 적용하지 않고 해당 계정/로그인 방식과 공식 안내를 담당자가 확인합니다. 구매 후 접근은 [영상·자료·수강권 점검](video-resource-and-access.md)과 구분합니다. 학생에게 관리자 권한을 주거나 수강권을 재지급해 해결하지 않습니다.
+정상 확인은 [운영자 지정·역할 관리](../members-and-operations/operator-assignment-and-roles.md)를 따릅니다. **학생의 로그인 문제**는 수강생 가이드의 [로그인이나 계정 확인이 안 돼요](https://klekit.gitbook.io/learner-guide/troubleshooting/login-and-account)로 연결합니다. 운영자·플랫폼 계정의 로그인에는 학생용 복구 절차를 그대로 적용하지 않고 해당 계정/로그인 방식과 공식 안내를 담당자가 확인합니다. 구매 후 접근은 [영상·자료·수강권 점검](video-resource-and-access.md)과 구분합니다. 학생에게 관리자 권한을 주거나 수강권을 재지급해 해결하지 않습니다.
 
 > **화면 예시 준비 중** · 같은 사이트의 계정·업무 권한과 전체 담당 범위를 확인합니다.
 
@@ -209,7 +209,7 @@
 - [변경/종료 예약](../subscription-and-usage/plan-change-and-subscription-end-schedule.md)
 - [사용량/팩](../subscription-and-usage/usage-and-additional-packs.md)
 - [카드/청구](../subscription-and-usage/billing-method-and-payment-history.md)
-- 수강생 가이드의 **학생 계정 점검**
+- 수강생 가이드의 [로그인이나 계정 확인이 안 돼요](https://klekit.gitbook.io/learner-guide/troubleshooting/login-and-account)
 - [콘텐츠 이용 문제](video-resource-and-access.md)
 - [판매자/정산 문제](seller-bank-and-settlement.md)
 - [가이드 홈](../README.md)

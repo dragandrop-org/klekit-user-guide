@@ -17,7 +17,7 @@
 | 구매 또는 지급 정보 | 구매자는 기존 주문, 직접 지급받은 학생은 학원의 지급 안내를 확인합니다. 직접 지급은 구매 내역이 없어도 강좌를 확인할 수 있습니다 |
 | 이용 기간 | 목록의 기간·종료일과 학원 안내를 확인합니다. 기간이 표시되지 않는다고 무제한이라고 판단하지 않습니다 |
 
-계정은 [내 계정과 로그인 방식 확인하기](../account/check-account-and-login-method.md), 구매 구성은 [상품 구성·가격·이용 기간 확인하기](../purchase/product-and-access-period.md), 원 주문(처음 결제한 주문)은 [결제하고 무료 상품 신청하기](../purchase/payment-and-free-order.md)를 참고합니다.
+계정은 [내 계정과 로그인 방식 확인하기](../account/check-account-and-login-method.md), 구매 구성은 [상품 구성·가격·이용 기간 확인하기](../purchase/product-and-access-period.md), 원 주문(해당 상품을 구매한 주문)은 [결제하고 무료 상품 신청하기](../purchase/payment-and-free-order.md)를 참고합니다.
 
 ## 먼저 내 상황 고르기 <a href="#choose-your-situation" id="choose-your-situation"></a>
 
