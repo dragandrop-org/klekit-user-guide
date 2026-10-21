@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/account-and-site-create-v1.png" alt="계정과 사이트 만들기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/account-and-site-create-v2.png" alt="계정과 사이트 만들기 대표 이미지"><figcaption></figcaption></figure>
 
 클킷을 운영할 **플랫폼 계정**으로 로그인하고, 내 사이트의 이름·주소·운영정보를 정한 뒤 관리페이지로 이동합니다. **계정 가입, 사이트 생성, 플랜 시작, 관리자 진입, 방문자 공개는 서로 다른 단계**입니다.
 

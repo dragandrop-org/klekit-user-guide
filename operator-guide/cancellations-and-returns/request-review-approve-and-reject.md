@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/request-review-approve-and-reject-v1.png" alt="신청 확인·승인·거절하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/request-review-approve-and-reject-v2.png" alt="신청 확인·승인·거절하기 대표 이미지"><figcaption></figcaption></figure>
 
 접수된 신청의 대상과 사유를 확인하고, 담당자가 승인하거나 거절한 뒤 최신 처리 결과를 확인할 때 사용합니다. 구성품별 취소 조건, 교재 회수·검수·재배송의 상세 절차는 별도 가이드에서 다룹니다.
 

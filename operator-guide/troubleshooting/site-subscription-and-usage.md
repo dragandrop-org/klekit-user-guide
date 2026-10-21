@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/site-subscription-and-usage-v1.png" alt="사이트 접근·구독·사용량에 문제가 있어요 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/site-subscription-and-usage-v2.png" alt="사이트 접근·구독·사용량에 문제가 있어요 대표 이미지"><figcaption></figcaption></figure>
 
 사이트나 관리 메뉴에 접근하지 못하거나, 저장한 내용이 보이지 않거나, 구독 변경·카드 등록·사용량/팩 처리가 막혔을 때 운영자가 확인할 순서입니다. **계정 로그인·역할 권한·사이트 운영 상태·페이지 게시/노출·구독/결제 상태·사용량 한도는 서로 다른 조건**입니다.
 

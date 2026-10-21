@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-digital-resource-sale-v1.png" alt="첫 디지털 자료 판매하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-digital-resource-sale-v2.png" alt="첫 디지털 자료 판매하기 대표 이미지"><figcaption></figcaption></figure>
 
 다운로드할 파일을 자료 콘텐츠로 등록하고, 학생이 구매할 상품에 연결합니다. **파일 업로드, 자료 저장, 상품 판매, 결제, 자료 권한 지급, 다운로드 주소 발급과 실제 파일 저장/열기는 서로 다른 단계**입니다.
 

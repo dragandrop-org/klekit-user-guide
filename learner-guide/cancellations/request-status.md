@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/cancellations/request-status-v1.png" alt="취소·반품·교환 처리 상태 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/cancellations/request-status-v2.png" alt="취소·반품·교환 처리 상태 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 처리 결과를 확인하려면 **마이페이지 → 구매 내역 → 결제**에서 원 주문을 찾습니다. **주문번호·대상 확인 → 현재 상태·안내 읽기 → 취소/반품/교환별 결과 구분 → 필요한 경우 같은 신청으로 문의** 순서로 확인합니다.
 

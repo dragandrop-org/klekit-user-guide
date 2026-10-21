@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/site-form-create-and-responses-v1.png" alt="폼 만들고 응답 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/site-form-create-and-responses-v2.png" alt="폼 만들고 응답 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **홈페이지 관리 → 사이트 폼 관리**에서 설문·신청에 사용할 문항을 준비하고 접수된 답변을 확인합니다. 학생 질문에 답글을 다는 [Q&A](qna-answer.md)와는 다른 기능입니다.
 

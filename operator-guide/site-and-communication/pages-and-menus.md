@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/pages-and-menus-v1.png" alt="페이지·메뉴 구성하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/pages-and-menus-v2.png" alt="페이지·메뉴 구성하기 대표 이미지"><figcaption></figcaption></figure>
 
 사이트에 안내 페이지를 준비하고, 방문자가 찾을 수 있도록 메뉴에 연결합니다. **페이지는 내용과 주소**, **메뉴는 이동 경로와 순서**를 관리합니다. 페이지 생성, 작업본 저장, 발행, 페이지 공개, 메뉴 노출은 서로 다른 작업입니다.
 

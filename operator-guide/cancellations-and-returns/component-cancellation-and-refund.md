@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/component-cancellation-and-refund-v2.png" alt="구성품별 취소·환불 처리하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/component-cancellation-and-refund-v3.png" alt="구성품별 취소·환불 처리하기 대표 이미지"><figcaption></figcaption></figure>
 
 묶음상품을 포함한 주문에서 어떤 구성품을 취소하는지 확인하고, 해당 유형의 조건에 맞춰 환불 가능 여부와 금액을 검토할 때 사용합니다. 교재 발송 후 반품·교환의 회수·검수·재배송은 별도 가이드에서 다룹니다.
 

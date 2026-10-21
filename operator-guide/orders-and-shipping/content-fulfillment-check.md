@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/content-fulfillment-check-v1.png" alt="구매 후 콘텐츠 지급 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders-and-shipping/content-fulfillment-check-v2.png" alt="구매 후 콘텐츠 지급 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매한 강좌를 이용할 수 있는지, 디지털 자료를 받을 권한이 있는지, 교재의 배송 대상이 생성됐는지 확인합니다. 결제 후 이용 문의에 답하거나 테스트 구매의 제공 결과를 확인할 때 사용합니다.
 

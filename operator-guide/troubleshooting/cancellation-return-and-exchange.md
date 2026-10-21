@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/cancellation-return-and-exchange-v1.png" alt="취소·반품·교환 처리가 멈췄어요 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/cancellation-return-and-exchange-v2.png" alt="취소·반품·교환 처리가 멈췄어요 대표 이미지"><figcaption></figcaption></figure>
 
 신청이 보이지 않거나, 승인 금액을 확인할 수 없거나, 반품·교환의 다음 단계로 진행되지 않을 때 운영자가 확인할 순서입니다. **신청 접수·심사/검수 저장·환불 승인·금융 확정·권리/재고 반영·실제 물류 완료는 서로 다른 결과**입니다.
 

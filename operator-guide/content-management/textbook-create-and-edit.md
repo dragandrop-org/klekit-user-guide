@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/content-pages/textbook-create-and-edit-v1.png" alt="교재 등록·수정하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/content-pages/textbook-create-and-edit-v2.png" alt="교재 등록·수정하기 대표 이미지"><figcaption></figcaption></figure>
 
 배송할 실물 교재의 소개·표지·정가와 최초 재고를 등록합니다. **교재 콘텐츠 등록과 판매 상품 등록은 별도 작업**입니다. 교재가 `게시 완료`여도 상품 연결·판매 설정까지 완료됐다는 뜻은 아닙니다.
 

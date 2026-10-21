@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/cancellations/request-return-or-exchange-v1.png" alt="교재 반품·교환 신청하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/cancellations/request-return-or-exchange-v2.png" alt="교재 반품·교환 신청하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재를 반품하거나 교환하려면 **원 주문·교재 확인 → 발송·수령·사유 정리 → 최신 조건·비용 확인 → 학원이 안내한 정식 경로 확인 → 같은 신청의 처리 결과 확인** 순서로 준비합니다. 회수 주소와 방법을 확인하기 전에 교재를 임의로 보내지 않습니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/communication/learning-qna-v1.png" alt="학습 질문 올리고 답변 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/communication/learning-qna-v2.png" alt="학습 질문 올리고 답변 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 강의를 듣다가 궁금한 내용은 **학습 Q&A**에 남깁니다. **강좌·강의 선택 → 제목·내용 작성 → 공개 범위 확인 → 등록 → 내 질문과 답변 확인** 순서로 이용합니다. 같은 질문에 덧붙일 내용은 해당 질문의 댓글에서 이어갑니다.
 

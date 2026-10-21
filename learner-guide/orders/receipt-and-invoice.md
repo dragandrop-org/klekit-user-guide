@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/orders/receipt-and-invoice-v1.png" alt="영수증과 거래명세서 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders/receipt-and-invoice-v2.png" alt="영수증과 거래명세서 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매 증빙이나 거래 내용을 확인하려면 **마이페이지 → 구매 내역 → 결제 → 해당 주문**을 엽니다. **주문번호 확인 → 영수증 또는 거래명세서 선택 → 내용 대조 → 필요한 경우 인쇄/저장** 순서로 진행합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/orders/order-and-payment-history-v1.png" alt="주문·결제 내역 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/orders/order-and-payment-history-v2.png" alt="주문·결제 내역 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매한 주문과 결제 정보를 확인하려면 **마이페이지 → 구매 내역 → 결제**를 엽니다. **목록에서 주문 찾기 → 주문번호·상품 확인 → 결제 요약·상태 읽기 → 실제 이용 또는 문의** 순서로 확인합니다.
 

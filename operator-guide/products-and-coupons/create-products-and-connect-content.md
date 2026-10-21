@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/create-products-and-connect-content-v1.png" alt="상품 만들고 콘텐츠 연결하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/products-and-coupons/create-products-and-connect-content-v2.png" alt="상품 만들고 콘텐츠 연결하기 대표 이미지"><figcaption></figcaption></figure>
 
 등록한 강좌·교재·디지털 자료를 학생이 구매할 **판매 상품**으로 구성합니다. 콘텐츠는 수업·교재 정보·자료 파일을 관리하고, 상품은 포함할 콘텐츠와 판매 조건을 관리합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/login-and-account-v1.png" alt="로그인이나 계정 확인이 안 돼요 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/login-and-account-v2.png" alt="로그인이나 계정 확인이 안 돼요 대표 이미지"><figcaption></figcaption></figure>
 
 **학원 사이트와 기존 계정을 먼저 확인하고, 막힌 단계에 맞는 안내를 선택합니다.** 오류가 난다는 이유만으로 새로 가입하거나 계정을 연결·해제하지 않습니다.
 

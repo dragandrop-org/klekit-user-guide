@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-course-sale-v1.png" alt="첫 강좌 판매하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-course-sale-v2.png" alt="첫 강좌 판매하기 대표 이미지"><figcaption></figcaption></figure>
 
 강좌 하나에 수업과 영상을 준비하고, 학생이 구매할 상품으로 연결합니다. **강좌는 학습 콘텐츠, 상품은 판매 구성과 가격을 관리하는 단위**입니다. 강좌를 발행했다고 상품이 자동으로 판매되거나 학생에게 수강권이 지급되는 것은 아닙니다.
 

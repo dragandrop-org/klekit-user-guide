@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/purchase/payment-and-free-order-v1.png" alt="결제하고 무료 상품 신청하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/purchase/payment-and-free-order-v2.png" alt="결제하고 무료 상품 신청하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매할 상품과 최종 금액을 확인한 뒤 **유료 결제 또는 0원 신청**을 진행합니다. 완료 안내 뒤에는 **원래 주문의 상태**와 **구매한 콘텐츠의 이용 가능 여부**를 따로 확인합니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/missing-purchased-content-v1.png" alt="결제했는데 강의나 자료가 보이지 않아요 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/missing-purchased-content-v2.png" alt="결제했는데 강의나 자료가 보이지 않아요 대표 이미지"><figcaption></figcaption></figure>
 
 **같은 학원 사이트와 본인 계정인지 확인한 뒤, 원 주문과 구매한 구성에 맞는 목록을 확인합니다.** 강좌나 자료가 보이지 않는다는 이유로 다시 결제하거나 무료 신청을 반복하지 않습니다.
 

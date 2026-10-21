@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/billing-method-and-payment-history-v1.png" alt="구독 결제수단·청구 내역 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/billing-method-and-payment-history-v2.png" alt="구독 결제수단·청구 내역 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **구독 관리 → 플랜 관리**에서 결제수단을, **구독 관리 → 구독 결제 내역**에서 플랜·팩의 청구를 확인합니다. **카드 등록, 카드 보기, 사용할 카드 변경, 결제 승인**은 서로 다른 단계입니다.
 

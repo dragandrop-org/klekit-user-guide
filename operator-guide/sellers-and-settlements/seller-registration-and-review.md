@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/seller-registration-and-review-v2.png" alt="판매자 등록·심사 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/seller-registration-and-review-v3.png" alt="판매자 등록·심사 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 유료 상품 판매를 준비하기 위해 사업자 정보와 정산 계좌를 확인하고, 판매자 신청 이후의 심사 상태를 확인합니다. 실제 신청·계좌 변경은 **사이트 소유자**가 진행합니다.
 

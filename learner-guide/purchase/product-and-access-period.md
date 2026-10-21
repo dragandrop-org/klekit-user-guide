@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/purchase/product-and-access-period-v1.png" alt="상품 구성·가격·이용 기간 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/purchase/product-and-access-period-v2.png" alt="상품 구성·가격·이용 기간 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매 전 **어떤 강좌·교재·디지털 자료가 포함되는지**, **표시 가격과 추가 비용**, **강좌 이용 기간**을 확인합니다. 상품 이름이나 이미지 하나만 보고 교재 포함·무제한 이용을 판단하지 않습니다.
 

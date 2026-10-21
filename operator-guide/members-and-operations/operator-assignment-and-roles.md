@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/operator-assignment-and-roles-v1.png" alt="운영자 지정·역할 관리하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/operator-assignment-and-roles-v2.png" alt="운영자 지정·역할 관리하기 대표 이미지"><figcaption></figcaption></figure>
 
 **운영 → 운영자 목록**에서 이미 가입한 회원을 운영자로 지정하고, 기존 운영자의 역할과 강사 담당 강좌를 관리합니다. 이메일 초대를 보내거나 새 계정을 만드는 절차가 아닙니다.
 

@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/learning/access-period-and-progress-v1.png" alt="수강 기간과 학습 현황 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/learning/access-period-and-progress-v2.png" alt="수강 기간과 학습 현황 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **마이페이지 → 내 학습 → 수강중 강좌**에서 강좌별 기간과 진도율을 확인합니다. 수업별 완료 여부는 강의실의 PC **커리큘럼**, 모바일 **목차**에서 확인합니다.
 

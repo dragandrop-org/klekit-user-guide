@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/content-pages/video-optimization-v1.png" alt="영상 용량 줄이기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/content-pages/video-optimization-v2.png" alt="영상 용량 줄이기 대표 이미지"><figcaption></figcaption></figure>
 
 휴대폰으로 촬영한 영상의 용량이 크거나 업로드에 오래 걸린다면, 원본을 보관한 채 별도의 업로드용 변환본을 만듭니다. 목표는 가장 작은 파일이 아니라 **수강생이 칠판 글씨와 강사 목소리를 충분히 확인할 수 있는 영상**입니다.
 

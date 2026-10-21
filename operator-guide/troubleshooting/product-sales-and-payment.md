@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/product-sales-and-payment-v1.png" alt="상품 판매·결제가 안 돼요 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/product-sales-and-payment-v2.png" alt="상품 판매·결제가 안 돼요 대표 이미지"><figcaption></figcaption></figure>
 
 상품이 보이지 않거나 구매할 수 없을 때, 금액·쿠폰이 예상과 다를 때, 결제 결과가 불명확할 때 운영자가 확인할 순서입니다. **판매 전 설정 문제와 이미 생성된 주문의 결제 문제를 먼저 구분합니다.**
 

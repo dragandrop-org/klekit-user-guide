@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-textbook-sale-v1.png" alt="첫 교재 판매하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-textbook-sale-v2.png" alt="첫 교재 판매하기 대표 이미지"><figcaption></figcaption></figure>
 
 교재 콘텐츠를 등록하고 판매 상품에 연결한 뒤, 재고·배송 기준과 구매 후 출고 결과를 확인합니다. **교재 등록, 상품 판매 시작, 결제 완료, 배송 대상 생성, 송장 저장, 실제 발송과 수령은 서로 다른 단계**입니다.
 
