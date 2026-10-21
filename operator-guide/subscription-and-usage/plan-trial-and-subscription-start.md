@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/plan-trial-and-subscription-start-v1.png" alt="플랜·무료체험과 구독 시작하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/plan-trial-and-subscription-start-v1.png" alt="플랜·무료체험과 구독 시작하기 대표 이미지: 플랜 패널과 모래시계"><figcaption></figcaption></figure>
 
 **구독 관리 → 플랜 관리**에서 현재 플랜과 이용 기간을 확인하고, 무료체험 또는 유료 구독 시작 흐름을 살펴봅니다. 이 문서의 구독은 **운영자가 클킷 서비스를 이용하기 위한 구독**입니다. 수강생이 구매하는 강좌·교재 상품과는 다릅니다.
 

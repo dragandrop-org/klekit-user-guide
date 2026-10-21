@@ -2,7 +2,7 @@
 
 > **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
 
-<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/member-information-and-history-v1.png" alt="회원 정보·이용 내역 확인하기 대표 이미지"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/member-information-and-history-v1.png" alt="회원 정보·이용 내역 확인하기 대표 이미지: 회원 아이콘과 이용 기록, 돋보기"><figcaption></figcaption></figure>
 
 **회원 관리 → 회원 목록**에서 회원을 찾고 상세 화면의 **수강 내역 / 결제 내역 / 회원 메모**를 확인합니다. 회원 가입 여부·수강 상태·결제 결과는 서로 다른 정보입니다.
 
