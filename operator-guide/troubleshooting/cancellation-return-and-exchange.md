@@ -1,6 +1,6 @@
 # 취소·반품·교환 처리 지연
 
-> **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
+> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
 
 <figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/cancellation-return-and-exchange-v2.png" alt="취소·반품·교환 처리가 멈췄어요 대표 이미지"><figcaption></figcaption></figure>
 

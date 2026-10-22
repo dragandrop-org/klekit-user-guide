@@ -1,6 +1,6 @@
 # 결제한 강의·자료가 없어요
 
-> **검토용 가이드** · 실제 서비스 화면·동작 확인과 이미지 보완이 남아 있습니다. 본문의 실행 보류·주의사항을 먼저 확인하세요.
+> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
 
 <figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/missing-purchased-content-v2.png" alt="결제했는데 강의나 자료가 보이지 않아요 대표 이미지"><figcaption></figcaption></figure>
 
