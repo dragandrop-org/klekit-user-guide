@@ -1,7 +1,5 @@
 # 게시판·공지 운영하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/boards-and-notices-v2.png" alt="게시판·공지 운영하기 대표 이미지: 공지 게시판과 확성기"><figcaption></figcaption></figure>
 
 일정·수업 안내는 **공지사항**, 용도별 글과 댓글은 **사용자 정의 게시판**, 메인 화면의 기간 한정 안내는 **공지·프로모션 관리**에서 운영합니다. 이름이 비슷해도 작성 방식·접근 정책·노출 위치는 다릅니다.

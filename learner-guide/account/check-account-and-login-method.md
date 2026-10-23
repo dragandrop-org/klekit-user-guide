@@ -1,7 +1,5 @@
 # 내 계정과 로그인 방식 보기
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/account/check-account-and-login-method-v2.png" alt="내 계정과 로그인 방식 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **계정 설정 → 내 프로필**에서 현재 계정의 이름·이메일·휴대폰과 **간편로그인 연결 상태**를 확인합니다. 강좌나 결제 내역이 예상과 다르면 정보를 바꾸기 전에 구매하거나 수강권을 받은 계정인지 먼저 확인합니다.

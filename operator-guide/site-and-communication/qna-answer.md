@@ -1,7 +1,5 @@
 # Q&A 질문에 답변하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/qna-answer-v2.png" alt="Q&A 질문에 답변하기 대표 이미지"><figcaption></figcaption></figure>
 
 **게시판 관리 → Q&A**에서 수강생이 강좌·수업에 남긴 질문을 찾고 답글을 등록합니다. 질답 담당 강사·조교가 사용하는 기능 안내이며, 일반 고객 상담이나 주문 문의 처리 절차가 아닙니다.

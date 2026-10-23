@@ -1,7 +1,5 @@
 # 영상 재생·끊김 문제
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/troubleshooting/video-and-audio-v2.png" alt="영상이 재생되지 않거나 끊겨요 대표 이미지"><figcaption></figcaption></figure>
 
 **먼저 본인 계정·수업과 이용 제한을 확인하고, 화면에 표시된 증상에 맞게 점검합니다.** 새로고침·재생·다시 시도를 연속으로 누르거나, 재구매·보안 설정 해제로 해결하려 하지 않습니다.

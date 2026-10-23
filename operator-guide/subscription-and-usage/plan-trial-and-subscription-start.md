@@ -1,7 +1,5 @@
 # 무료체험·구독 시작하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/subscription-and-usage/plan-trial-and-subscription-start-v2.png" alt="플랜·무료체험과 구독 시작하기 대표 이미지: 플랜 패널과 모래시계"><figcaption></figcaption></figure>
 
 **업무 대상:** 클킷 이용 비용과 사이트 한도를 관리하는 소유자·담당자용 안내입니다. 이 업무를 맡지 않은 강사는 영상 업로드·수강 문의 때문에 플랜이나 카드를 직접 변경하지 말고 학원 운영자에게 요청하세요. 실제 작업 가능 범위는 본인 계정의 권한을 확인하세요.

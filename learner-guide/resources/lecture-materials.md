@@ -1,7 +1,5 @@
 # 강의 첨부 자료 받기
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/resources/lecture-materials-v2.png" alt="강의 첨부 자료 받기 대표 이미지"><figcaption></figcaption></figure>
 
 강의 첨부 자료는 강의실의 PC **커리큘럼**, 모바일 **목차**에서 해당 수업 옆 **자료** 버튼으로 받습니다. 자료를 받을 수업을 먼저 확인한 뒤, 파일이 실제 기기에 저장됐는지 확인합니다.
@@ -146,4 +144,4 @@ iPhone·Android와 앱 내 브라우저가 같은 메뉴/폴더를 제공한다�
 - [공지사항 확인하기](../communication/read-notices.md)
 - [가이드 홈](../README.md)
 
-[자료 다운로드나 교재 배송에 문제가 있어요](../troubleshooting/resources-and-shipping.md)에서 다운로드 주소 발급·실제 파일 저장/열기와 배송·주소 문제를 나눠 확인합니다. 실제 문제 해결 결과와 학생이 배송 정보를 확인·변경할 수 있는 범위는 아직 확인이 필요합니다.
+[자료 다운로드나 교재 배송에 문제가 있어요](../troubleshooting/resources-and-shipping.md)에서 다운로드 주소 발급·실제 파일 저장/열기와 배송·주소 문제를 나눠 확인합니다. 학생이 배송 정보를 확인·변경할 수 있는 범위는 아직 확인이 필요합니다.

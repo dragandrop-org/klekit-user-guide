@@ -1,7 +1,5 @@
 # 계정 찾기·비밀번호 재설정
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/account/find-account-and-reset-password-v2.png" alt="아이디 찾고 비밀번호 재설정하기 대표 이미지"><figcaption></figcaption></figure>
 
 **아이디가 기억나지 않으면 휴대폰 인증으로 가입 이메일을 확인**하고, **비밀번호가 기억나지 않으면 가입 이메일을 인증해 새 비밀번호를 설정**합니다. 구매하거나 수강권을 받은 학원 사이트에서 진행합니다.

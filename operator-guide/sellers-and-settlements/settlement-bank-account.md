@@ -1,7 +1,5 @@
 # 정산 계좌 등록·변경하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/sellers-and-settlements/settlement-bank-account-v2.png" alt="정산 계좌 등록·변경하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 사이트 소유자와 판매자·정산 업무 담당자용 안내입니다. 강사가 담당 강좌를 운영하기 위해 판매자 정보나 정산 계좌를 직접 등록할 필요는 없습니다. 관련 요청은 학원의 정산 담당자에게 전달하세요. 실제 작업 가능 범위는 본인 계정의 권한을 확인하세요.

@@ -1,7 +1,5 @@
 # 회원 정보·이용 내역 보기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/member-information-and-history-v2.png" alt="회원 정보·이용 내역 확인하기 대표 이미지: 회원 아이콘과 이용 기록, 돋보기"><figcaption></figcaption></figure>
 
 **업무 대상:** 회원 정보 조회·응대를 맡은 담당자용 안내입니다. 강사는 맡은 업무에 필요한 회원 정보만 확인하고, 개인정보 조회·내보내기 권한이 없으면 학원 운영자에게 요청하세요.

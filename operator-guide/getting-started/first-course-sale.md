@@ -1,7 +1,5 @@
 # 첫 강좌 판매하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/getting-started/first-course-sale-v2.png" alt="첫 강좌 판매하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 판매 준비를 맡은 운영자용 안내입니다. 강사는 담당 콘텐츠를 준비하고, 사이트 개설·판매 설정은 해당 운영자에게 요청하세요. 실제 작업 가능 범위는 본인 계정의 권한을 확인하세요.
@@ -181,4 +179,4 @@
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-[판매 준비 체크리스트](sales-readiness-checklist.md)에 확인 결과와 남은 조건을 기록합니다. 판매에 필요한 조건을 확인하지 못했다면 판매 시작을 보류합니다. [첫 교재 판매하기](first-textbook-sale.md)·[첫 디지털 자료 판매하기](first-digital-resource-sale.md)도 실제 화면·구매 후 제공 결과가 아직 확인되지 않은 부분이 있습니다. 교재/자료를 추가할 때는 해당 재고·배송·파일 권한 조건을 담당자와 다시 확인합니다.
+[판매 준비 체크리스트](sales-readiness-checklist.md)에 확인 결과와 남은 조건을 기록합니다. 판매에 필요한 조건을 확인하지 못했다면 판매 시작을 보류합니다. [첫 교재 판매하기](first-textbook-sale.md)·[첫 디지털 자료 판매하기](first-digital-resource-sale.md)의 유형별 조건도 확인합니다. 교재/자료를 추가할 때는 해당 재고·배송·파일 권한 조건을 담당자와 다시 확인합니다.

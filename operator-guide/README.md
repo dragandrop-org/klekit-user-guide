@@ -1,7 +1,5 @@
 # 클킷 강사·운영자 가이드
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src=".gitbook/assets/branding/operator-guide-banner-v1.png" alt="클킷 강사·운영자 가이드 - 콘텐츠 준비부터 판매·운영까지"><figcaption></figcaption></figure>
 
 [수강생 가이드로 이동](https://klekit.gitbook.io/learner-guide/)
@@ -49,6 +47,8 @@
 결과가 불명확하면 같은 주문·파일·신청의 현재 상태부터 확인합니다. 재결제·중복 업로드·재지급·재승인으로 원래 결과를 확인하지 않습니다.
 
 ## 실행 전 꼭 확인하기 <a href="#before-you-act" id="before-you-act"></a>
+
+문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
 
 - [페이지·메뉴 구성하기](site-and-communication/pages-and-menus.md): 커스텀 페이지의 편집 대상이 안전하게 구분되는지 확인하기 전 빌더 편집·저장·게시를 중단합니다.
 - [운영자 지정·역할 관리하기](members-and-operations/operator-assignment-and-roles.md): 기존 담당 강좌가 6개 이상이거나 전체 목록을 확인하지 못했다면 역할·담당 강좌 변경을 실행하지 않습니다.

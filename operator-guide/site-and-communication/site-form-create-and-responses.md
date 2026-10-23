@@ -1,7 +1,5 @@
 # 폼 만들고 응답 확인하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/site-form-create-and-responses-v2.png" alt="폼 만들고 응답 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 설문·신청 폼 운영을 맡은 담당자용 안내입니다. 학생의 학습 질문에 답변하려는 강사·질답 조교는 Q&A 안내를 이용하세요. 폼 연결·제출 등 미확인 기능은 아래 제한을 먼저 확인합니다.
@@ -178,4 +176,4 @@
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-[상담 채널 연결하기](connect-inquiry-channel.md)에서 사이트 상담 연결을 준비합니다. 상담 채널 안내도 실제 화면·동작 확인이 남아 있으므로 해당 문서의 주의사항을 먼저 확인합니다. 폼 제출·Q&A 답변·외부 상담 연결의 결과는 각각 확인합니다.
+[상담 채널 연결하기](connect-inquiry-channel.md)에서 사이트 상담 연결을 준비합니다. 해당 문서의 주의사항을 먼저 확인합니다. 폼 제출·Q&A 답변·외부 상담 연결의 결과는 각각 확인합니다.

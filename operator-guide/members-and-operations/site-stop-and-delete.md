@@ -1,7 +1,5 @@
 # 사이트 중지·삭제하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/site-stop-and-delete-v2.png" alt="사이트 중지·삭제하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 사이트 운영 중지·삭제를 검토하는 소유자·담당자용 안내입니다. 강의나 로그인이 안 된다는 이유로 이 작업을 실행하지 말고 먼저 학원 운영자에게 문의하세요. 아래 실행 보류·복구 불가 경고를 반드시 확인합니다.

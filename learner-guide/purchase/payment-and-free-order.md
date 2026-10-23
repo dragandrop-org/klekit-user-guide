@@ -1,7 +1,5 @@
 # 결제하고 무료 상품 신청하기
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/purchase/payment-and-free-order-v2.png" alt="결제하고 무료 상품 신청하기 대표 이미지"><figcaption></figcaption></figure>
 
 구매할 상품과 최종 금액을 확인한 뒤 **유료 결제 또는 0원 신청**을 진행합니다. 완료 안내 뒤에는 **원래 주문의 상태**와 **구매한 콘텐츠의 이용 가능 여부**를 따로 확인합니다.

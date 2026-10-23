@@ -1,7 +1,5 @@
 # 운영자 지정·역할 관리하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/members-and-operations/operator-assignment-and-roles-v2.png" alt="운영자 지정·역할 관리하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 운영자 지정과 역할·담당 강좌 배정을 맡은 관리자용 안내입니다. 강사는 배정 누락이나 권한 문제를 학원 운영자에게 요청하세요. 아래 역할 설명이 본인 계정의 변경 권한을 뜻하지는 않습니다.

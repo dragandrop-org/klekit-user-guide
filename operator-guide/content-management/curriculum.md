@@ -1,7 +1,5 @@
 # 커리큘럼 구성하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/content-pages/curriculum-v2.png" alt="커리큘럼 구성하기 대표 이미지"><figcaption></figcaption></figure>
 
 섹션과 수업을 만들고, 수강생이 학습할 순서와 공개 범위를 정합니다. 영상 업로드 방법은 [강의 영상 업로드하기](video-upload.md)에서 따로 안내합니다.

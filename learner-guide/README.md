@@ -1,7 +1,5 @@
 # 클킷 수강생 가이드
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src=".gitbook/assets/branding/learner-guide-banner-v1.png" alt="클킷 수강생 가이드 - 수강부터 자료·질문 확인까지"><figcaption></figcaption></figure>
 
 [강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
@@ -42,6 +40,8 @@
 | 취소·반품·교환 확인 | [상품 취소·환불 신청하기](cancellations/request-cancellation.md) · [교재 반품·교환 신청하기](cancellations/request-return-or-exchange.md) · [취소·반품·교환 처리 상태 확인하기](cancellations/request-status.md) |
 
 ## 이용에 문제가 있나요 <a href="#troubleshooting" id="troubleshooting"></a>
+
+화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
 
 - [로그인이나 계정 확인이 안 돼요](troubleshooting/login-and-account.md)
 - [결제했는데 강의나 자료가 보이지 않아요](troubleshooting/missing-purchased-content.md)

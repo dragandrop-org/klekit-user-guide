@@ -1,7 +1,5 @@
 # 페이지·메뉴 구성하기
 
-> **이용 전 확인** · 실제 서비스 화면·동작이 아직 확인되지 않은 항목이 있습니다. 문서의 제한·주의사항을 따르고, **실행 보류**로 표시한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/pages-and-menus-v2.png" alt="페이지·메뉴 구성하기 대표 이미지"><figcaption></figcaption></figure>
 
 **업무 대상:** 사이트 페이지·메뉴 구성을 맡은 담당자용 안내입니다. 강사는 수업의 목차를 바꾸려는 경우 콘텐츠 관리의 커리큘럼 안내를 이용하세요. 커스텀 빌더의 실행 보류는 아래 경고를 따릅니다.

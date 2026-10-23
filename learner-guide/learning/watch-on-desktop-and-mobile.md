@@ -1,7 +1,5 @@
 # PC·모바일에서 영상 보기
 
-> **이용 전 확인** · 사용할 수 있는 기능과 화면이 아직 확인되지 않은 항목이 있습니다. 화면이나 안내가 다르면 학원에 확인하고, 문서에서 멈추도록 안내한 작업은 진행하지 마세요.
-
 <figure><img src="../.gitbook/assets/branding/page-headers/learning/watch-on-desktop-and-mobile-v2.png" alt="PC·모바일에서 영상 보기 대표 이미지"><figcaption></figcaption></figure>
 
 강의실에서 **수업 제목을 확인하고 재생을 누른 뒤 화면과 소리를 확인**합니다. PC에서는 측면 도구, 모바일에서는 하단 탭으로 목차 등을 엽니다. 영상 자체의 조작 버튼은 브라우저 또는 YouTube/Vimeo 재생기에 따라 달라집니다.
