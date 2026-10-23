@@ -105,7 +105,7 @@
 
 **변경 예약 취소·재결제**는 현재 결과를 읽는 버튼이 아니라 실제 변경·청구 요청입니다. 예약을 취소해 원인을 확인하거나 실패/유예 안내만 보고 재결제하지 않습니다. 체험 만료·유료 기간·다음 결제일·변경 예약 시각도 같은 날짜로 보더라도 각각의 의미를 확인합니다.
 
-플랜·구독 기준은 [플랜/무료체험·구독 시작](../subscription-and-usage/plan-trial-and-subscription-start.md)과 [플랜 변경·구독 종료 예약](../subscription-and-usage/plan-change-and-subscription-end-schedule.md)을 따릅니다. 현재 가격·제공량·허용된 작업은 해당 사이트의 최신 확인 결과를 사용하고 새 정책 수치를 만들지 않습니다.
+플랜·구독 기준은 [플랜/무료체험·구독 시작](../subscription-and-usage/plan-trial-and-subscription-start.md)과 [플랜 변경·구독 종료 예약](../subscription-and-usage/plan-change-and-subscription-end-schedule.md)을 따릅니다. 현재 가격·제공량·허용된 작업은 해당 사이트의 최신 확인 결과를 기준으로 판단합니다. 확인하지 못했다면 담당자에게 문의하고, 확인 전에는 임의 수치로 판단하거나 안내하지 않습니다.
 
 > **화면 예시 준비 중** · 원 작업의 처리와 즉시 적용·다음 주기 예약을 구분합니다.
 
