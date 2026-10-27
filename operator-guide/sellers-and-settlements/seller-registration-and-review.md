@@ -93,7 +93,7 @@
 
 판매자 준비 이후에는 [재고·판매 상태 관리하기](../products-and-coupons/stock-and-sales-status.md)에 따라 상품별 판매 준비와 판매 상태를 확인합니다. 승인되었다고 모든 상품이 자동으로 판매 중이 되는 것은 아닙니다.
 
-정산 계좌의 외부 반영은 [정산 계좌 등록·변경하기](settlement-bank-account.md), 회차별 금액과 실제 지급 결과는 [정산 금액·지급 상태 확인하기](settlement-amount-and-payout-status.md)에서 구분합니다. 계좌 인증·신청·승인 화면만으로 실제 지급 완료를 안내하지 마세요. 무료 상품과 할인·쿠폰 적용 후 0원 주문도 같은 조건이라고 가정하지 않습니다.
+정산 계좌의 외부 반영은 [정산 계좌 등록·변경하기](settlement-bank-account.md), 회차별 금액과 실제 지급 결과는 [정산 금액·지급 상태 확인하기](settlement-amount-and-payout-status.md)에서 구분합니다. 계좌 인증·신청·승인 화면만으로 실제 지급 완료를 안내하지 마세요. 무료 상품과 할인·쿠폰 적용 후 0원 주문에는 어떤 판매자 준비·판매·정산 조건이 적용되는지 담당자에게 각각 확인합니다. 유료 상품이나 다른 0원 주문과 같은 조건이라고 가정하지 않습니다.
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
