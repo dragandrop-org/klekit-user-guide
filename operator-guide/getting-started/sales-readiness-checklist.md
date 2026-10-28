@@ -135,8 +135,8 @@
 | 대상 | 같은 주문에서 대조할 결과 | 관련 가이드 |
 | --- | --- | --- |
 | 공통 | 상품 구성·수량·할인/쿠폰·배송비·최종액과 해당 주문의 결제 상태. 0원 주문도 원 주문과 실제 제공 결과를 확인 | [주문·결제](../orders-and-shipping/order-and-payment-status.md) · 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order) |
-| 강좌 | 이번 주문과 연결된 수강 권한·기간, 구매자 계정의 실제 학습 접근과 별도 승인한 재생 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [내 강의 찾고 수강 시작하기](https://klekit.gitbook.io/learner-guide/learning/find-course-and-start) |
-| 디지털 자료 | 이번 주문의 파일 버전·이용 권한, 주소 발급과 별도 승인한 실제 파일 수신/열기 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [구매하거나 지급받은 디지털 자료 이용하기](https://klekit.gitbook.io/learner-guide/resources/my-digital-resources) |
+| 강좌 | 이번 주문과 연결된 수강 권한·기간, 구매자 계정의 실제 학습 접근과 구매자가 실제 수강을 시작한 경우의 영상 재생 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [내 강의 찾고 수강 시작하기](https://klekit.gitbook.io/learner-guide/learning/find-course-and-start) |
+| 디지털 자료 | 이번 주문의 파일 버전·이용 권한과 다운로드 주소 발급 여부, 구매자가 자료를 실제로 이용한 경우의 파일 수신·열기 결과 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · 수강생 가이드의 [구매하거나 지급받은 디지털 자료 이용하기](https://klekit.gitbook.io/learner-guide/resources/my-digital-resources) |
 | 교재 | 이번 주문의 교재·수량·배송 대상/주소·확정 배송비와 담당 출고 경로. 생성·송장·발송·수령을 구분 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) · [출고·송장](../orders-and-shipping/dispatch-and-tracking.md) |
 | 패키지 | 위 구성품 각각의 결과와 누락 여부. 기존 수강권·자료 권한의 존재만으로 이번 주문의 지급 성공을 확정하지 않음 | [지급 확인](../orders-and-shipping/content-fulfillment-check.md) |
 
