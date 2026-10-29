@@ -25,7 +25,7 @@
 2. [상품 구성·가격·이용 기간 확인하기](purchase/product-and-access-period.md)
 3. [장바구니와 쿠폰 이용하기](purchase/cart-and-coupons.md)
 4. [결제하고 무료 상품 신청하기](purchase/payment-and-free-order.md)
-5. [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md)
+5. 강좌가 포함된 상품이라면 [내 강의 찾고 수강 시작하기](learning/find-course-and-start.md)를 확인합니다. 별도 디지털 자료나 교재만 구매했다면 [디지털 자료](resources/my-digital-resources.md) 또는 [교재 배송](orders/textbook-shipping-and-address.md) 안내를 확인합니다.
 
 ## 자주 찾는 안내 <a href="#quick-links" id="quick-links"></a>
 
