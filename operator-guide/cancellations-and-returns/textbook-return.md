@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/branding/page-headers/cancellations-and-returns/textbook-return-v3.png" alt="교재 반품 처리하기 대표 이미지"><figcaption></figcaption></figure>
 
-**업무 대상:** 취소·반품·교환 처리를 맡은 담당자용 안내입니다. 해당 처리 업무를 맡지 않은 강사·질답 조교는 환불을 확정하거나 승인하지 말고 학생의 요청을 처리 담당자에게 전달하세요. 실제 작업 가능 범위는 본인 계정의 권한을 확인하세요.
+**업무 대상:** 취소·반품·교환 처리를 맡은 담당자용 안내입니다. 해당 처리 업무를 맡지 않은 강사·질답 조교는 환불을 확정하거나 승인하지 말고 학생의 요청을 처리 담당자에게 전달하세요. 본인 계정의 권한을 확인해 실제로 작업할 수 있는 범위를 알아보세요.
 
 발송된 교재의 반품 신청을 확인하고, 실제 회수·검수 결과에 따라 환불과 재입고를 처리할 때 사용합니다. 출고 전 취소는 [구성품별 취소·환불](component-cancellation-and-refund.md), 동일 교재 재배송은 [교재 교환 처리하기](textbook-exchange.md)로 구분합니다.
 

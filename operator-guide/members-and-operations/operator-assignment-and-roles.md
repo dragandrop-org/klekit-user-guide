@@ -171,4 +171,4 @@
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-사이트 상태/삭제의 주의사항은 [사이트 중지·삭제하기](site-stop-and-delete.md)로 연결합니다.
+사이트 상태/삭제의 주의사항은 [사이트 중지·삭제하기](site-stop-and-delete.md)에서 확인합니다.

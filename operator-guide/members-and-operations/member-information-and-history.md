@@ -177,4 +177,4 @@ CSV는 회원 데이터 파일입니다. 수강권 지급·연장·회수용 일
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-회원 식별 후 수강권 변경은 [수강권·이용 기간 관리하기](enrollment-and-access-period.md), 운영자 지정·역할/강좌 변경·해제는 [운영자 지정·역할 관리하기](operator-assignment-and-roles.md), 사이트 상태/삭제는 [사이트 중지·삭제하기](site-stop-and-delete.md)로 연결합니다.
+회원 식별 후 수강권 변경은 [수강권·이용 기간 관리하기](enrollment-and-access-period.md)에서, 운영자 지정·역할/강좌 변경·해제는 [운영자 지정·역할 관리하기](operator-assignment-and-roles.md)에서, 사이트 상태/삭제는 [사이트 중지·삭제하기](site-stop-and-delete.md)에서 확인합니다.
