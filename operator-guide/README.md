@@ -44,7 +44,7 @@
 
 [판매·결제](troubleshooting/product-sales-and-payment.md) · [영상·자료·수강권](troubleshooting/video-resource-and-access.md) · [출고·송장·배송지](troubleshooting/dispatch-tracking-and-address.md) · [취소·반품·교환](troubleshooting/cancellation-return-and-exchange.md) · [판매자·계좌·정산](troubleshooting/seller-bank-and-settlement.md) · [사이트·구독·사용량](troubleshooting/site-subscription-and-usage.md)
 
-결과가 불명확하면 같은 주문·파일·신청의 현재 상태부터 확인합니다. 재결제·중복 업로드·재지급·재승인으로 원래 결과를 확인하지 않습니다.
+결과가 불명확하면 같은 주문·파일·신청의 현재 상태부터 확인합니다. 원래 결과를 확인하려고 재결제·중복 업로드·재지급·재승인을 하지 않습니다.
 
 ## 실행 전 꼭 확인하기 <a href="#before-you-act" id="before-you-act"></a>
 
