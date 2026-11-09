@@ -8,7 +8,7 @@
 
 **점검 순서:** 판매 대상 정하기 → 사이트·플랜·권한 → 판매자 준비 → 콘텐츠·상품 → 교재 배송 → 공개·문의 → 구매 후 제공 확인 → 남은 조건 판단
 
-## 체크리스트 사용하는 방법 <a href="#using-this-checklist" id="using-this-checklist"></a>
+## 체크리스트를 사용하는 방법 <a href="#using-this-checklist" id="using-this-checklist"></a>
 
 ![판매 준비 8단계 개념도. 교재 배송은 교재 포함 시 적용하며 미확인 항목은 완료로 처리하지 않습니다.](../.gitbook/assets/concepts/sales-readiness-v1.png)
 
