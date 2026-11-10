@@ -127,7 +127,7 @@
 
 ### 구매 전 확인과 원 주문 <a href="#section-9" id="section-9"></a>
 
-1. 구매자의 상품 구성·금액과 실제 배송비/수령 정보 확인 경로를 먼저 점검합니다. 자세한 흐름은 수강생 가이드의 [장바구니와 쿠폰 이용하기](https://klekit.gitbook.io/learner-guide/purchase/cart-and-coupons), 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order)를 참고합니다.
+1. 구매자가 상품 구성·금액과 실제 배송비·수령 정보를 확인할 수 있는 경로를 먼저 점검합니다. 자세한 흐름은 수강생 가이드의 [장바구니와 쿠폰 이용하기](https://klekit.gitbook.io/learner-guide/purchase/cart-and-coupons), 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order)를 참고합니다.
 2. **저장 주소가 자동 선택됐다는 사실만으로 이번 주문의 배송지가 맞다고 판단하지 않습니다.** 수강생 가이드의 [결제하고 무료 상품 신청하기](https://klekit.gitbook.io/learner-guide/purchase/payment-and-free-order)에 따라 주소를 확인합니다. 주소 확인과 주문서 연결 결과가 다른 경우가 있어 실제 수령인·주소를 확인할 수 없다면 결제 전에 멈추고 담당자에게 확인합니다. 화면에 없는 버튼을 찾거나 새 주문으로 시험하지 않습니다.
 3. 구매 후 구매자는 본인의 **마이페이지 → 구매 내역 → 결제**에서 원 주문번호·상품·교재/수량·금액·상태를 대조합니다. 입금대기·처리 중·오류를 결제 완료로 판단하지 않습니다.
 4. 운영자는 **결제/정산관리 → 결제 내역 → 상세 보기**의 같은 주문과 대조합니다. 혼합 구성·수량 표시가 불명확하면 구매 당시 기록을 담당자가 확인하며 현재 상품 구성으로 재구성하지 않습니다.
