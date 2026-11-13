@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/branding/content-pages/video-upload-v2.png" alt="강의 영상 업로드하기 대표 이미지"><figcaption></figcaption></figure>
 
-촬영한 영상을 강좌에 업로드하고 해당 수업에 연결합니다. **업로드 완료, 수업 연결, 재생 가능 여부는 각각 확인해야 합니다.**
+**업로드 완료, 수업 연결, 재생 가능 여부는 각각 확인해야 합니다.**
 
 **작업 순서:** 파일 확인 → 영상 업로드 → 수업 연결 → 변환·재생 확인 → 저장·발행 확인
 

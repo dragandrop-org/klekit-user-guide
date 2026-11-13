@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/branding/content-pages/curriculum-v2.png" alt="커리큘럼 구성하기 대표 이미지"><figcaption></figcaption></figure>
 
-섹션과 수업을 만들고, 수강생이 학습할 순서와 공개 범위를 정합니다. 영상 업로드 방법은 [강의 영상 업로드하기](video-upload.md)에서 따로 안내합니다.
+영상 업로드 방법은 [강의 영상 업로드하기](video-upload.md)에서 따로 안내합니다.
 
 **작업 순서:** 섹션 만들기 → 수업 추가 → 순서 정리 → 공개·미리보기 설정 → 저장·발행 확인
 
