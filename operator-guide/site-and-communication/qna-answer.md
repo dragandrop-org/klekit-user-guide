@@ -136,6 +136,6 @@
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-추가 설명이 필요하면 같은 질문의 상태를 확인한 뒤 답글을 이어갑니다. 답글 수정·삭제는 위의 해당 절차를 참고합니다. 학생에게 질문 방법을 안내할 때는 [수강생 학습 Q&A 가이드](https://klekit.gitbook.io/learner-guide/communication/learning-qna)를 공유합니다.
+학생에게 질문 방법을 안내할 때는 [수강생 학습 Q&A 가이드](https://klekit.gitbook.io/learner-guide/communication/learning-qna)를 공유합니다.
 
 설문·신청 응답 수집을 맡은 운영자는 필요할 때 [폼 만들고 응답 확인하기](site-form-create-and-responses.md)를 참고합니다. 폼의 이용 전 안내와 실행 보류 조건도 먼저 확인하세요.
