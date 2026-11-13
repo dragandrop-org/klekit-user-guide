@@ -8,7 +8,7 @@
 
 **먼저 확인하세요:** 대상 사이트·현재 상태·권한·진행 중 거래와 보존할 자료를 확인하고, 해결되지 않은 조건이 있으면 실행을 중단합니다.
 
-회원의 이용 권리는 [수강권·이용 기간 관리하기](enrollment-and-access-period.md), 운영자 권한은 [운영자 지정·역할 관리하기](operator-assignment-and-roles.md), 페이지 공개는 [페이지·메뉴 구성하기](../site-and-communication/pages-and-menus.md), 상품 판매는 [재고·판매 상태 관리하기](../products-and-coupons/stock-and-sales-status.md)에서 각각 확인합니다. 이 업무들은 사이트 중지·삭제와 구분합니다. 중지·삭제가 구독·청구에 미치는 영향은 아직 확인되지 않았으므로 [플랜·무료체험과 구독 시작하기](../subscription-and-usage/plan-trial-and-subscription-start.md)의 주의사항도 확인하세요.
+회원의 이용 권리는 [수강권·이용 기간 관리하기](enrollment-and-access-period.md), 운영자 권한은 [운영자 지정·역할 관리하기](operator-assignment-and-roles.md), 페이지 공개는 [페이지·메뉴 구성하기](../site-and-communication/pages-and-menus.md), 상품 판매는 [재고·판매 상태 관리하기](../products-and-coupons/stock-and-sales-status.md)에서 각각 확인합니다. 중지·삭제가 구독·청구에 미치는 영향은 아직 확인되지 않았으므로 [플랜·무료체험과 구독 시작하기](../subscription-and-usage/plan-trial-and-subscription-start.md)의 주의사항도 확인하세요.
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
@@ -49,7 +49,7 @@
 
 > **실행 보류:** 중지 선택 항목과 확인 창의 구독 안내가 서로 다르며, 실제 구독·접근 차단 결과는 아직 확인되지 않았습니다. **중지하면 비공개·신규 판매 차단·기존 구매자 이용 보호가 완료되는 것으로 판단하지 마세요.** 운영 사이트에서 최종 **확인**을 누르지 말고 담당자에게 안전한 처리 방법을 확인합니다.
 
-아래는 확인 창에서 구분해야 할 내용입니다. 실제 변경 절차가 아니며, 확인하려고 운영 사이트에서 상태 변경을 시험하지 않습니다.
+실제 변경 절차가 아니며, 확인하려고 운영 사이트에서 상태 변경을 시험하지 않습니다.
 
 1. 현재 상태가 실제 **운영중**인지 확인합니다. 조회 결과가 불명확하면 선택하지 않습니다.
 2. 화면의 **운영 상태 변경 → 운영 중지** 선택 항목에 표시된 **비공개** 배지와 설명은 실제 차단 결과가 아닌 안내 문구입니다.
