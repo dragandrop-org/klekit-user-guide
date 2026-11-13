@@ -8,7 +8,7 @@
 
 **완료 기준:** 대상 회원의 수강·결제·메모를 권한 범위 안에서 조회하고, 수정한 메모는 저장 후 다시 열어 대조합니다. 빈 내역이나 가려진 정보는 권한 제한 때문인지 확인합니다.
 
-이 페이지는 회원 조회와 메모 안내입니다. 결제·지급 결과는 [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md)와 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md), 취소·환불은 [신청 확인·승인·거절](../cancellations-and-returns/request-review-approve-and-reject.md)에서 확인합니다. 수강권 지급·연장·회수는 [수강권·이용 기간 관리하기](enrollment-and-access-period.md)에서 별도로 다룹니다.
+결제·지급 결과는 [주문·결제 상태](../orders-and-shipping/order-and-payment-status.md)와 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md), 취소·환불은 [신청 확인·승인·거절](../cancellations-and-returns/request-review-approve-and-reject.md)에서 확인합니다. 수강권 지급·연장·회수는 [수강권·이용 기간 관리하기](enrollment-and-access-period.md)에서 별도로 다룹니다.
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 

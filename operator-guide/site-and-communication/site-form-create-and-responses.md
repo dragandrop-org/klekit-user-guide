@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/branding/page-headers/site-and-communication/site-form-create-and-responses-v2.png" alt="폼 만들고 응답 확인하기 대표 이미지"><figcaption></figcaption></figure>
 
-**업무 대상:** 설문·신청 폼 운영을 맡은 담당자용 안내입니다. 폼 연결·제출 등 미확인 기능은 아래 제한을 먼저 확인합니다.
+**업무 대상:** 설문·신청 폼 운영을 맡은 담당자용 안내입니다.
 
 **홈페이지 관리 → 사이트 폼 관리**에서 설문·신청 문항을 준비하고 접수된 답변을 확인합니다. 학습 질문 답변은 [Q&A](qna-answer.md)를 이용하세요.
 
