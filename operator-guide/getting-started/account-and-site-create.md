@@ -138,4 +138,4 @@
 
 ## 다음 단계 <a href="#next-steps" id="next-steps"></a>
 
-생성 후 이름·로고·파비콘·SEO·약관은 [사이트 기본 정보 설정하기](../site-and-communication/site-basic-information.md), 실제 적용 플랜은 [플랜·무료체험과 구독 시작하기](../subscription-and-usage/plan-trial-and-subscription-start.md)에서 확인합니다. [판매 준비 체크리스트](sales-readiness-checklist.md)에서 상품별 조건과 판매자·콘텐츠/상품·배송·공개/문의·구매 후 제공 결과를 확인합니다. 실제 화면·동작이 아직 확인되지 않은 항목은 담당자에게 확인합니다.
+생성 후 이름·로고·파비콘·SEO·약관은 [사이트 기본 정보 설정하기](../site-and-communication/site-basic-information.md), 실제 적용 플랜은 [플랜·무료체험과 구독 시작하기](../subscription-and-usage/plan-trial-and-subscription-start.md)에서 확인합니다. [판매 준비 체크리스트](sales-readiness-checklist.md)에서 상품별 조건과 판매자·콘텐츠/상품·배송·공개/문의·구매 후 제공 결과를 확인합니다.

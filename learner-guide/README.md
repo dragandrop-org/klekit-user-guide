@@ -4,7 +4,7 @@
 
 [강사·운영자 가이드로 이동](https://klekit.gitbook.io/operator-guide/)
 
-강의를 듣고, 자료를 받거나 질문을 올릴 때 필요한 방법을 안내합니다. 이미 구매했거나 학원에서 받은 강좌가 있다면 아래 수강 순서부터 시작하세요.
+강의를 듣고, 자료를 받거나 질문을 올릴 때 필요한 방법을 안내합니다.
 
 ## 처음 이용한다면 <a href="#getting-started" id="getting-started"></a>
 
