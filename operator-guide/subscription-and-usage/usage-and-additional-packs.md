@@ -8,7 +8,7 @@
 
 **완료 기준:** 집계 기준과 현재 한도를 확인합니다. 팩 변경을 검토했다면 이번/다음 금액·적용 시점을 확인하고, 요청했다면 최종 결과를 현재/다음 팩·한도·청구 또는 환불 내역과 대조합니다.
 
-플랜·체험은 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md), 플랜 변경·Free 전환 예약은 [플랜 변경·구독 종료 예약하기](plan-change-and-subscription-end-schedule.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다. 여기서 다루는 팩은 클킷 서비스 사용량이며 학생의 강좌 상품·수강권·주문 환불과 별개입니다.
+플랜·체험은 [플랜·무료체험과 구독 시작하기](plan-trial-and-subscription-start.md), 플랜 변경·Free 전환 예약은 [플랜 변경·구독 종료 예약하기](plan-change-and-subscription-end-schedule.md)를 봅니다. 카드 등록/선택·청구 상세는 [구독 결제수단·청구 내역 확인하기](billing-method-and-payment-history.md)를 봅니다. 여기서 다루는 팩은 클킷 서비스의 사용 한도를 늘리기 위한 것이며 학생의 강좌 상품·수강권·주문 환불과 별개입니다.
 
 ## 시작 전 준비 <a href="#before-you-start" id="before-you-start"></a>
 
