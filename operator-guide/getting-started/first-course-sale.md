@@ -147,7 +147,7 @@
 
 **결제 완료·수강권 지급·강의실 진입·실제 재생은 다른 결과입니다.** 강의실 진입/플레이어 조회와 재생은 이용·진도·사용량 기록으로 이어질 수 있으므로 단순 조회로 생각하지 않습니다. 일반/외부 영상의 재생·기록 방식도 같다고 보장하지 않습니다. 자료 버튼은 다운로드로 이어질 수 있어 수강 접근 확인용으로 누르지 않습니다.
 
-상세 확인은 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md), 수강생 가이드의 [내 강의 찾고 수강 시작하기](https://klekit.gitbook.io/learner-guide/learning/find-course-and-start), 수강생 가이드의 [PC·모바일에서 영상 보기](https://klekit.gitbook.io/learner-guide/learning/watch-on-desktop-and-mobile), 수강생 가이드의 [수강 기간과 학습 현황 보기](https://klekit.gitbook.io/learner-guide/learning/access-period-and-progress)를 참고합니다. 실제 학생 계정으로 대신 접속하거나 확인용 이용 기록을 만들지 않습니다.
+상세 확인은 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md)과 수강생 가이드의 [내 강의 찾고 수강 시작하기](https://klekit.gitbook.io/learner-guide/learning/find-course-and-start)·[PC·모바일에서 영상 보기](https://klekit.gitbook.io/learner-guide/learning/watch-on-desktop-and-mobile)·[수강 기간과 학습 현황 보기](https://klekit.gitbook.io/learner-guide/learning/access-period-and-progress)를 참고합니다. 실제 학생 계정으로 대신 접속하거나 확인용 이용 기록을 만들지 않습니다.
 
 > **화면 예시 준비 중** · 같은 주문의 결제, 수강 권한과 실제 이용 결과를 구분합니다.
 
