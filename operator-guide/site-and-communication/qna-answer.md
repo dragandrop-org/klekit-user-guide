@@ -38,7 +38,9 @@
 
 질문이 보이지 않으면 선택한 상태·강좌·검색 조건과 페이지를 확인합니다. 화면에 없는 기간·담당자별 필터 대신, 위 조건을 바꾸어 질문을 찾습니다.
 
-> **화면 예시 준비 중** · 답변 상태와 강좌·검색 조건을 확인하고 답변할 질문을 엽니다.
+<figure><img src="../.gitbook/assets/screenshots/qna-list-search-and-filters.png" alt="Q&A 목록의 답변 상태 탭과 검색어·강좌 필터가 적용된 화면"><figcaption></figcaption></figure>
+
+> 답변 상태와 강좌·검색 조건을 확인하고 답변할 질문을 엽니다.
 
 ## 2. 질문 내용과 기존 답글 확인하기 <a href="#step-2" id="step-2"></a>
 

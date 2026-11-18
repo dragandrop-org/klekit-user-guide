@@ -21,7 +21,11 @@
 
 관리자 **콘텐츠 관리**에서 강좌 생성으로 들어갑니다. 콘텐츠 유형 선택 화면이 보이면 **강좌**를 선택합니다. 기존 강좌는 목록에서 해당 강좌를 열고 수정 화면으로 들어갑니다.
 
-> **화면 예시 준비 중** · 콘텐츠 관리에서 새 강좌를 등록합니다.
+<figure><img src="../.gitbook/assets/screenshots/course-create-entry.png" alt="콘텐츠 목록과 콘텐츠 생성 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/course-content-type-selection.png" alt="강좌·교재·디지털 자료를 고르는 콘텐츠 종류 선택 화면"><figcaption></figcaption></figure>
+
+> 콘텐츠 관리에서 새 강좌를 등록합니다.
 
 ## 1. 기본 정보 입력하기 <a href="#step-1" id="step-1"></a>
 
