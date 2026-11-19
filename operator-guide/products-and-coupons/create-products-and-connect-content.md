@@ -24,7 +24,7 @@
 
 관리자의 **상품 목록 → 상품 생성**에서 **상품 종류 선택**으로 들어갑니다. 유형을 선택하고 **다음 단계**를 누릅니다. 기존 상품 수정은 상품 상세의 **상품 설정**에서 진행합니다.
 
-> **화면 예시 준비 중** · 판매할 구성에 맞춰 강좌·교재·디지털 자료·패키지를 선택합니다.
+<figure><img src="../.gitbook/assets/screenshots/product-create-type-selection-pc-01.png" alt="상품 생성 화면의 강좌·교재·디지털 자료·패키지 종류 선택"><figcaption></figcaption></figure>
 
 ## 1. 상품 유형 선택하기 <a href="#step-1" id="step-1"></a>
 
@@ -61,6 +61,10 @@
 
 **기본 정보**의 **제목 입력**에 판매 구성에 맞는 상품명을 입력하고 이미지·소개를 설정합니다. 패키지는 포함 강좌·교재·자료를 소개에 적습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-create-basic-information-pc-01.png" alt="상품 생성 전 제목·썸네일·콘텐츠 선택·가격 설정 입력 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/product-content-picker-pc-01.png" alt="상품에 연결할 강좌를 찾는 콘텐츠 선택창"><figcaption></figcaption></figure>
+
 | 설정할 항목 | 이어서 확인할 가이드 |
 | --- | --- |
 | 구성 금액·무료/유료·할인·수강 기간 | [가격·할인·수강 기간 설정하기](price-discount-and-valid-days.md) |
@@ -68,8 +72,6 @@
 | 재고·품절·판매 시작·중지 | [재고·판매 상태 관리하기](stock-and-sales-status.md) |
 
 교재·디지털 자료의 정가는 새 상품의 금액을 입력할 때 참고하는 값입니다. 상품에서 변경한 금액이 원본 콘텐츠의 정가를 다시 바꾸는 것은 아닙니다. 콘텐츠가 게시 완료여도 상품 생성·판매 조건 설정은 별도로 진행합니다.
-
-> **화면 예시 준비 중** · 상품 정보와 실제 포함 콘텐츠를 함께 확인합니다.
 
 ## 4. 생성 완료와 판매 시작 구분하기 <a href="#step-4" id="step-4"></a>
 

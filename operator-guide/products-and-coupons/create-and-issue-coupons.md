@@ -35,7 +35,7 @@
 
 발급 방식은 만든 뒤 수정 화면에서 바꿀 수 없습니다. 다른 방식이 필요하면 기존 쿠폰의 발급·사용 내역을 확인한 뒤 새 쿠폰을 준비합니다.
 
-> **화면 예시 준비 중** · 수강생이 쿠폰을 받는 방식에 맞춰 발급 방식을 선택합니다.
+<figure><img src="../.gitbook/assets/screenshots/coupon-issue-method-selection-pc-01.png" alt="쿠폰 생성 전 수동·코드·다운로드·자동 발급 방식 선택 화면"><figcaption></figcaption></figure>
 
 ## 2. 기본 정보·할인·사용 기간 입력하기 <a href="#step-2" id="step-2"></a>
 
@@ -48,7 +48,9 @@
 | 발급일 기준 | 발급 후 사용 일수 입력 |
 | 고정 만료일 | 모든 발급 대상에 적용할 만료일 선택 |
 
-> **화면 예시 준비 중** · 할인 조건과 수강생이 사용할 기간을 설정합니다.
+<figure><img src="../.gitbook/assets/screenshots/coupon-discount-and-validity-pc-01.png" alt="쿠폰 생성 전 쿠폰명·설명·할인 방식·최소 상품 금액 입력 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/coupon-validity-and-recipients-pc-02.png" alt="쿠폰 사용 기간과 수동 발급 대상의 저장 전 설정 화면"><figcaption></figcaption></figure>
 
 ### 수동 발급 <a href="#manual-issue" id="manual-issue"></a>
 
