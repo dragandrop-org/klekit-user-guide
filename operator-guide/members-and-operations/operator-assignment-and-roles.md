@@ -42,7 +42,9 @@
 
 `운영자 목록을 불러오지 못했습니다.`가 보이면 운영자 목록을 다시 조회합니다. 빈 검색 결과·권한 제한·조회 실패를 구분하고 계정을 중복 생성하거나 다른 운영자를 삭제하지 않습니다.
 
-> **화면 예시 준비 중** · 운영자 목록에서 적용된 조건과 대상의 현재 역할을 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/operator-list-search-and-actions-pc-01.png" alt="운영자 목록의 검색·필터·역할·등록일과 지정 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/operator-role-filter-options-pc-02.png" alt="운영자 목록의 역할 필터 선택지와 취소·적용 위치"><figcaption></figcaption></figure>
 
 ## 2. 가입 회원을 운영자로 지정하기 <a href="#step-2" id="step-2"></a>
 

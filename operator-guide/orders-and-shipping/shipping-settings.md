@@ -29,7 +29,7 @@
 
 정산 설정·학생 주소록 등 다른 메뉴로 대신 처리하거나, 확인되지 않은 방법으로 설정을 변경하지 않습니다.
 
-> **화면 예시 준비 중** · 현재 설정과 신규 주문 적용 범위를 나눠 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/shipping-settings-entry-and-status-pc-01.png" alt="배송 설정의 기본 택배사·배송비 입력과 신규 주문 적용 안내"><figcaption></figcaption></figure>
 
 ## 1. 설정 적용 범위 확인하기 <a href="#step-1" id="step-1"></a>
 
@@ -49,6 +49,8 @@
 
 목록에 없는 택배사를 다른 이름으로 선택하지 않습니다. 기본 택배사 설정만으로 계약·택배 접수·송장 발급·실제 발송이 자동 진행되는 것은 아닙니다.
 
+<figure><img src="../.gitbook/assets/screenshots/shipping-settings-carrier-options-pc-02.png" alt="기본 택배사 선택란의 CJ대한통운·한진택배 목록"><figcaption></figcaption></figure>
+
 ### 출고지와 반품지 <a href="#section-6" id="section-6"></a>
 
 | 주소 구분 | 준비할 정보 | 주의할 점 |
@@ -61,7 +63,7 @@
 
 출고지·반품지 설정으로 구매자의 배송지나 주소록을 바꾸지는 않습니다.
 
-> **화면 예시 준비 중** · 실제 출고·반품을 처리할 택배사와 주소를 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/shipping-settings-empty-address-fields-pc-03.png" alt="값을 입력하지 않은 출고지·반품지와 출고지 동일 설정 위치"><figcaption></figcaption></figure>
 
 ## 3. 기본 배송비·무료배송 기준 정하기 <a href="#step-3" id="step-3"></a>
 
@@ -109,7 +111,7 @@
 
 예전 화면의 왕복 반품비 입력란이 보이면 해당 금액을 반품비에 더하거나 임의로 값을 맞추지 않습니다. 현재 사용하는 화면과 그 항목에 적용되는 정책을 담당자에게 확인합니다.
 
-> **화면 예시 준비 중** · 무료배송 여부와 관계없이 반품비·교환비를 각각 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/shipping-settings-return-exchange-fees-pc-04.png" alt="서로 구분된 반품 배송비·교환 배송비와 적용 안내"><figcaption></figcaption></figure>
 
 ## 5. 저장·반영 결과 확인하기 <a href="#step-5" id="step-5"></a>
 
