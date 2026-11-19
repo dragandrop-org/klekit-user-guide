@@ -52,6 +52,10 @@
 
 <figure><img src="../.gitbook/assets/screenshots/coupon-validity-and-recipients-pc-02.png" alt="쿠폰 사용 기간과 수동 발급 대상의 저장 전 설정 화면"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/coupon-percentage-discount-limit-pc-01.png" alt="쿠폰 정률 할인율·최대 할인 금액·최소 상품 금액의 입력 예시"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/coupon-fixed-expiry-calendar-pc-02.png" alt="고정 만료일 방식의 날짜 선택 달력"><figcaption></figcaption></figure>
+
 ### 수동 발급 <a href="#manual-issue" id="manual-issue"></a>
 
 **발급 대상**의 **수강생 추가**를 눌러 대상 회원을 선택합니다. 이름이 같은 회원은 계정 정보를 대조합니다. **현재 페이지 전체 선택**을 전체 사이트 회원 선택으로 해석하지 않습니다.
@@ -61,6 +65,8 @@
 ### 코드 발급 <a href="#code-issue" id="code-issue"></a>
 
 **쿠폰 코드**를 입력하고 **중복 확인**을 완료합니다. 코드는 공백 없이 6~20자의 허용된 문자로 입력합니다. 사용할 수 있는 문자 종류는 화면 안내를 확인하고, 알기 어려우면 담당자에게 문의합니다. 중복 확인 뒤 코드를 바꿨다면 다시 확인합니다. 코드가 생성되었다고 수강생에게 자동으로 발급된 것은 아닙니다.
+
+<figure><img src="../.gitbook/assets/screenshots/coupon-code-issue-settings-pc-01.png" alt="쿠폰 코드 입력란·형식 안내·중복 확인 버튼과 총 발급 한도 설정"><figcaption></figcaption></figure>
 
 ### 다운로드·자동 발급 <a href="#automatic-issue" id="automatic-issue"></a>
 
@@ -73,6 +79,8 @@
 | 첫 수강평 | 첫 수강평 등록 이후 발급 내역 확인 |
 
 **기존 회원·과거 주문에 소급 발급된다고 가정하지 않습니다.**
+
+<figure><img src="../.gitbook/assets/screenshots/coupon-automatic-issue-conditions-pc-01.png" alt="쿠폰 자동 발급 설정의 총 발급 한도와 조건 선택 입력란"><figcaption></figcaption></figure>
 
 ## 3. 생성하고 발급 결과 확인하기 <a href="#step-3" id="step-3"></a>
 

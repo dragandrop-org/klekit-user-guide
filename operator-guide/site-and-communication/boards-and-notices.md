@@ -136,6 +136,10 @@
 5. 아직 방문자에게 표시하지 않을 내용은 **게시중지로 저장**합니다. 노출을 승인한 내용만 **게시**합니다. **다음**을 눌러 단계를 이동한 것만으로 설정이 저장되지는 않습니다.
 6. 저장 후 상세에서 제목·본문·기간·기기·상태·버전을 다시 확인합니다. 충돌 오류가 나면 최신 설정을 다시 읽고 변경 내용을 대조합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-create-basic-information-pc-01.png" alt="공지·프로모션의 제목·노출 디바이스·표시 방식과 관리자 미리보기"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-create-content-pc-02.png" alt="공지·프로모션의 콘텐츠 형식·본문 편집과 관리자 미리보기"><figcaption></figcaption></figure>
+
 | 설정 | 준비·확인 기준 |
 | --- | --- |
 | 제목·본문 | 제목 30자·본문은 짧은 안내로 준비합니다. |
@@ -148,7 +152,7 @@
 | 닫기 방식 | 일반 닫기는 현재 탭에서, N일간 보지 않기는 같은 브라우저에서 적용합니다. 다른 기기까지 동기화되는 회원별 설정은 아닙니다 |
 | 클릭 이동 | 링크 URL과 현재/새 탭을 확인합니다. 자세히 보기를 눌러 실제 도착 페이지를 확인합니다 |
 
-> **화면 예시 준비 중** · 기간·기기·표시 방식을 확인하고 게시중지로 저장하거나 게시합니다. 다음 버튼은 저장 완료가 아닙니다.
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-create-display-conditions-pc-03.png" alt="공지·프로모션의 공개 기간·노출 시점·닫기 방식·링크와 저장·게시 버튼 위치"><figcaption></figcaption></figure>
 
 ## 7. 프로모션 상태와 실제 노출 확인하기 <a href="#step-7" id="step-7"></a>
 
