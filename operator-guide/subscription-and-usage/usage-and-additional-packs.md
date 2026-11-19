@@ -43,7 +43,7 @@
 
 **사용량 정보를 불러오지 못했습니다** 또는 **표시할 사용량 정보가 없습니다**를 사용량 0·한도 무제한·팩 없음으로 판단하지 않습니다. 조회가 되지 않으면 새 구매보다 기존 상태 확인을 먼저 합니다.
 
-> **화면 예시 준비 중** · 플랜 기본량과 현재 총 한도를 구분하고 저장공간·시청시간을 각각 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/usage-current-plan-and-capacity-pc-01.png" alt="현재 플랜의 기본 제공량과 저장공간·시청시간의 사용량 및 총 한도"><figcaption></figcaption></figure>
 
 ## 2. 저장공간과 시청시간의 기준 읽기 <a href="#step-2" id="step-2"></a>
 
@@ -85,7 +85,9 @@
 
 체험 기간·현재 플랜 비호환·비활성 구독·결제수단 없음·판매/가격 미확인 등의 사유로 선택이 제한될 수 있습니다. 체험 중에도 기존 팩 관리·환불 가능 여부는 신규 구매·증가 제한과 별도로 확인합니다. 다음 갱신부터 팩을 종료하려면 이 화면의 **추가 팩 없음** 선택과 견적 확인 절차를 따릅니다. 별도의 **갱신 중단** 버튼이나 카드 등록 바로가기는 이 화면에서 제공되지 않습니다. 카드가 필요하면 결제수단 담당자에게 확인하고, 아래 실행 보류 조건을 따릅니다.
 
-> **화면 예시 준비 중** · 선택은 다음 갱신 설정에서 시작합니다. 되돌리기는 화면 선택만 복원합니다.
+<figure><img src="../.gitbook/assets/screenshots/usage-pack-options-without-selection-pc-02.png" alt="추가 저장공간·시청시간 팩 목록과 기존 추가 팩 없음 선택 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/usage-pack-change-summary-unchanged-pc-03.png" alt="팩을 변경하지 않은 상태의 변경 요약과 비활성 변경 내용 확인 버튼"><figcaption></figcaption></figure>
 
 ## 4. 견적의 이번/다음 금액 확인하기 <a href="#step-4" id="step-4"></a>
 

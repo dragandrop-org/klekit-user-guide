@@ -41,7 +41,7 @@
 
 플랜 이름·판매 가능 여부·가격·기능/한도는 당시 목록과 견적을 기준으로 합니다. 이전 가이드나 다른 계정의 가격표를 그대로 적용하지 않습니다. 목록이 비었거나 불러오기 오류가 났다면 모든 플랜이 판매 종료된 것으로 판단하지 않습니다.
 
-> **화면 예시 준비 중** · 현재 플랜과 선택 가능한 플랜을 구분합니다. 가격·한도는 현재 목록을 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/plan-catalog-current-and-trial-labels-pc-01.png" alt="플랜 목록의 이용 중 표시와 상위 플랜의 14일 체험 가능 안내"><figcaption></figcaption></figure>
 
 ## 2. 무료체험 안내 열기 <a href="#step-2" id="step-2"></a>
 

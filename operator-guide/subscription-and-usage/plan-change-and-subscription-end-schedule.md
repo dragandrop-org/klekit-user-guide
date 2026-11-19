@@ -42,7 +42,7 @@
 
 플랜 목록의 **이용 중**은 현재 플랜이며 예약 플랜과 다릅니다. **구독 정보를 불러오지 못했습니다** 오류를 Free·구독 종료·예약 없음으로 해석하지 않습니다. 결제 대기·기간 만료·구독 없음 등의 상태에서는 같은 변경 절차를 이용할 수 있는지 별도로 확인해야 합니다.
 
-> **화면 예시 준비 중** · 현재 플랜과 적용 예정인 플랜을 구분하고 기존 작업부터 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/plan-current-subscription-readonly-pc-01.png" alt="플랜 관리의 현재 구독과 월 플랜 금액·다음 결제일·구독 기간"><figcaption></figcaption></figure>
 
 ## 2. 변경 견적에서 금액과 시점 확인하기 <a href="#step-2" id="step-2"></a>
 
