@@ -34,7 +34,7 @@
 | 사용 안 함 | 사이트 상담 버튼을 숨기고 저장된 두 채널의 연결 정보는 유지 | 선택만 하지 말고 저장합니다. 외부 채널 삭제·계약 해지가 아닙니다 |
 | 연결 해제 | 대상 채널의 연결 정보를 지움. 활성 채널이면 사용 안 함으로 전환 | 다른 채널을 자동 활성화하지 않습니다. 단순 숨김과 다릅니다 |
 
-> **화면 예시 준비 중** · 사용할 상담 채널 하나를 선택하고 연결 정보를 설정합니다.
+<figure><img src="../.gitbook/assets/screenshots/inquiry-channel-selection-disabled-pc-01.png" alt="채널톡·카카오톡 채널·사용 안 함 선택과 현재 상담 비활성 상태"><figcaption></figcaption></figure>
 
 ## 1. 채널톡 연결하기 <a href="#step-1" id="step-1"></a>
 
@@ -46,7 +46,7 @@
 
 로그인 사용자 조건은 클킷에서의 로그인 여부입니다. 특정 강좌 수강 여부나 채널톡 회원 상태와 같다고 안내하지 않습니다. 이 조건을 선택했다고 외부 상담 창에 학생 이름·학습 정보가 자동 연결되는 것도 보장하지 않습니다.
 
-> **화면 예시 준비 중** · 채널톡 키와 로그인 조건·기기별 노출을 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/channel-talk-connection-and-exposure-pc-01.png" alt="비어 있는 채널톡 Plugin Key 입력란과 노출 대상·PC·모바일 설정 위치"><figcaption></figcaption></figure>
 
 ## 2. 카카오톡 채널 연결하기 <a href="#step-2" id="step-2"></a>
 
