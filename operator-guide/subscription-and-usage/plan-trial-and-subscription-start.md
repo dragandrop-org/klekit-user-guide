@@ -43,6 +43,10 @@
 
 <figure><img src="../.gitbook/assets/screenshots/plan-catalog-current-and-trial-labels-pc-01.png" alt="플랜 목록의 이용 중 표시와 상위 플랜의 14일 체험 가능 안내"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/plan-current-card-mobile-detail-01.png" alt="현재 이용 중인 플랜 카드와 이용 중 표시 확대" width="434"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/plan-trial-card-mobile-detail-02.png" alt="상위 플랜 카드의 14일 체험 가능 표시와 플랜 선택 버튼 확대" width="436"><figcaption></figcaption></figure>
+
 ## 2. 무료체험 안내 열기 <a href="#step-2" id="step-2"></a>
 
 1. 체험하려는 상위 플랜에 **14일 체험 가능** 표시가 있는지 확인합니다.

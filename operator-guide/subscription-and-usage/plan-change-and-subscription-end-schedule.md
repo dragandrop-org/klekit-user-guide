@@ -44,6 +44,10 @@
 
 <figure><img src="../.gitbook/assets/screenshots/plan-current-subscription-readonly-pc-01.png" alt="플랜 관리의 현재 구독과 월 플랜 금액·다음 결제일·구독 기간"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/subscription-current-plan-and-billing-mobile-detail-01.png" alt="현재 구독의 플랜 이름·월 플랜 금액·다음 결제일 확대" width="420"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/subscription-period-mobile-detail-02.png" alt="현재 구독 기간의 날짜 표시 확대" width="330"><figcaption></figcaption></figure>
+
 ## 2. 변경 견적에서 금액과 시점 확인하기 <a href="#step-2" id="step-2"></a>
 
 1. 승인된 범위에서 원하는 플랜의 **플랜 선택**을 누릅니다.

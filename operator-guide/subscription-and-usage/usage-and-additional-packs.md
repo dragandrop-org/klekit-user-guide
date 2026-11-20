@@ -45,6 +45,10 @@
 
 <figure><img src="../.gitbook/assets/screenshots/usage-current-plan-and-capacity-pc-01.png" alt="현재 플랜의 기본 제공량과 저장공간·시청시간의 사용량 및 총 한도"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/usage-storage-used-and-total-mobile-detail-01.png" alt="저장공간의 사용량·총 한도·기본 제공량 확대" width="310"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/usage-watch-time-used-and-total-mobile-detail-02.png" alt="시청시간의 사용량·총 한도·기본 제공량 확대" width="310"><figcaption></figcaption></figure>
+
 ## 2. 저장공간과 시청시간의 기준 읽기 <a href="#step-2" id="step-2"></a>
 
 시청시간 항목은 클킷에 직접 업로드한 영상(CDN 영상)의 시청 사용량을 다룹니다. 업로드한 원본 영상 길이의 합계나 개별 학생의 진도율과 같은 값이 아닙니다. 외부 영상의 학습 상태는 [외부 영상 연결하기](../content-management/external-video.md)에서 별도로 확인합니다.
@@ -86,6 +90,10 @@
 체험 기간·현재 플랜 비호환·비활성 구독·결제수단 없음·판매/가격 미확인 등의 사유로 선택이 제한될 수 있습니다. 체험 중에도 기존 팩 관리·환불 가능 여부는 신규 구매·증가 제한과 별도로 확인합니다. 다음 갱신부터 팩을 종료하려면 이 화면의 **추가 팩 없음** 선택과 견적 확인 절차를 따릅니다. 별도의 **갱신 중단** 버튼이나 카드 등록 바로가기는 이 화면에서 제공되지 않습니다. 카드가 필요하면 결제수단 담당자에게 확인하고, 아래 실행 보류 조건을 따릅니다.
 
 <figure><img src="../.gitbook/assets/screenshots/usage-pack-options-without-selection-pc-02.png" alt="추가 저장공간·시청시간 팩 목록과 기존 추가 팩 없음 선택 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/usage-storage-pack-options-mobile-detail-03.png" alt="저장공간 팩 선택지 일부와 추가 팩 없음 표시 확대" width="416"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/usage-watch-time-pack-options-mobile-detail-04.png" alt="시청시간 팩 선택지 일부와 추가 팩 없음 표시 확대" width="416"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/screenshots/usage-pack-change-summary-unchanged-pc-03.png" alt="팩을 변경하지 않은 상태의 변경 요약과 비활성 변경 내용 확인 버튼"><figcaption></figcaption></figure>
 
