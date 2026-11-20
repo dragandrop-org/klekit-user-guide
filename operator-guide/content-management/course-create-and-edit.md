@@ -59,7 +59,7 @@
 4. 강좌 생성·수정 화면의 **최종 완료**를 누릅니다.
 5. 강좌 상세의 처리 상태와 결과를 확인합니다. 발행중·실패 상태를 완료로 간주하지 않습니다.
 
-> **화면 예시 준비 중** · 임시 저장과 발행 결과는 별도로 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/course-published-detail-and-basic-information-pc-01.png" alt="기존 예시 강좌 상세의 게시 완료 상태와 등록 영상 수·기본 소개"><figcaption></figcaption></figure>
 
 ## 4. 기존 강좌 수정하기 <a href="#step-4" id="step-4"></a>
 
