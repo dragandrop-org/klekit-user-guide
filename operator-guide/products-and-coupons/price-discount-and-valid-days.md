@@ -31,9 +31,9 @@
 
 **콘텐츠 선택**의 각 항목 옆 금액을 입력합니다. 새 상품 관리 화면에서는 합계가 자동 계산되므로 **수강료 합계 칸을 직접 수정하는 방식이 아닙니다.** 단일 상품도 선택한 콘텐츠 옆 구성 금액을 수정합니다.
 
-예를 들어 강좌 80,000원과 교재 20,000원을 각각 수량 1로 구성하면 할인 전 합계는 100,000원입니다. 각 구성 금액은 0원 이상 정수로 입력하고, 합계를 다시 확인합니다.
+<figure><img src="../.gitbook/assets/screenshots/product-component-price-and-free-total-pc-01.png" alt="저장 전 상품의 예시 강좌 구성 금액 입력란과 무료 가격 선택"><figcaption></figcaption></figure>
 
-> **화면 예시 준비 중** · 구성 금액을 입력하면 할인 전 합계가 계산됩니다.
+예를 들어 강좌 80,000원과 교재 20,000원을 각각 수량 1로 구성하면 할인 전 합계는 100,000원입니다. 각 구성 금액은 0원 이상 정수로 입력하고, 합계를 다시 확인합니다.
 
 ## 2. 무료·유료와 할인 설정하기 <a href="#step-2" id="step-2"></a>
 
@@ -47,9 +47,11 @@
 
 위 예시는 상품 할인만 적용한 금액이며, 실제 주문의 쿠폰·배송비·구성 변경 결과는 포함하지 않습니다.
 
-**무료 체험 중에는 유료 상품 등록이 제한됩니다.** 제한 안내가 나오면 플랜 상태를 확인합니다. 할인으로 결제 금액을 0원으로 만든 상품도 할인 전 금액이 있는 유료 상품이므로 무료 등록으로 간주하지 않습니다.
+<figure><img src="../.gitbook/assets/screenshots/product-discount-amount-input-pc-03.png" alt="저장 전 금액 할인 선택과 원 단위 할인액 입력란"><figcaption></figcaption></figure>
 
-> **화면 예시 준비 중** · 상품 할인과 실제 주문의 쿠폰·배송비는 구분합니다.
+<figure><img src="../.gitbook/assets/screenshots/product-discount-percentage-input-pc-04.png" alt="저장 전 비율 할인 선택과 퍼센트 단위 할인율 입력란"><figcaption></figcaption></figure>
+
+**무료 체험 중에는 유료 상품 등록이 제한됩니다.** 제한 안내가 나오면 플랜 상태를 확인합니다. 할인으로 결제 금액을 0원으로 만든 상품도 할인 전 금액이 있는 유료 상품이므로 무료 등록으로 간주하지 않습니다.
 
 ## 3. 강좌 포함 여부에 따라 수강 기간 설정하기 <a href="#step-3" id="step-3"></a>
 
@@ -61,11 +63,13 @@
 
 **수강 기간**에서 **직접입력**으로 일수를 입력하거나 **캘린더 지정**을 선택합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-course-duration-direct-input-pc-05.png" alt="저장 전 강좌 상품의 직접 입력 방식과 1~365일 수강 기간 입력란"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/product-course-duration-calendar-pc-06.png" alt="저장 전 수강 기간 캘린더와 날짜 미선택 상태의 취소·선택 버튼"><figcaption></figcaption></figure>
+
 달력 선택 시 표시되는 **총 N일**을 확인하세요. 현재 화면은 선택한 날짜와 오늘의 차이를 일수로 바꾸어 저장합니다. **달력의 날짜를 모든 구매자의 고정 종료일로 설정하는 기능으로 해석하지 않습니다.** 상품에 저장된 일수와 실제 구매자의 이용 시작·종료일은 따로 확인합니다.
 
 무료 강좌와 유료 강좌는 기간 입력 조건이 다릅니다. 기간을 비워 두었다는 이유로 무제한 수강 상품으로 안내하지 마세요. 제공할 기간을 정해 일수로 입력하고 실제 수강권 지급 결과를 확인합니다.
-
-> **화면 예시 준비 중** · 달력 선택 후 저장할 수강 일수를 확인합니다.
 
 ## 4. 저장하고 구매 결과 확인하기 <a href="#step-4" id="step-4"></a>
 
