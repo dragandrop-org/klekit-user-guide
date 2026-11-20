@@ -37,15 +37,21 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 
 관리자 **콘텐츠 관리 → 콘텐츠 생성**에서 **디지털 자료**를 선택하고 **다음 단계**를 누릅니다. 기존 자료 수정은 자료 상세의 **콘텐츠 설정**에서 진행합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-create-type-pc-01.png" alt="콘텐츠 생성에서 디지털 자료를 선택한 화면과 다음 버튼"><figcaption></figcaption></figure>
+
 ## 1. 자료 정보 입력하기 <a href="#step-1" id="step-1"></a>
 
 1. **자료명 입력**에 학생이 구분할 수 있는 이름을 입력합니다.
-2. **상세 설명 입력**에 짧은 소개를 작성합니다.
-3. 필요한 경우 **자료 썸네일 업로드**에서 이미지를 업로드하고 **자료 카테고리 선택**에서 카테고리를 선택합니다.
-4. **자료 소개 페이지 설정**에 포함 파일·대상·판본·열람에 필요한 프로그램 등 자료 소개를 작성합니다.
+2. 상단의 **상세 소개 미리보기**는 아래 **자료 상세 정보**에 작성한 내용을 자동으로 보여줍니다.
+3. 필요한 경우 **콘텐츠 썸네일 업로드 → 이미지 업로드**에서 이미지를 선택하고 **자료 카테고리 선택**에서 카테고리를 선택합니다.
+4. **자료 상세 정보**에 포함 파일·대상·판본·열람에 필요한 프로그램 등 자료 소개를 작성합니다.
 5. **가격 → 정가**에 새 상품 구성 시 불러올 기준 금액을 입력합니다.
 
 자료 썸네일은 화면의 **16:9 비율·1280×720px 이상 권장 안내**를 참고합니다. 자료의 정가는 판매 상품 가격과 별개이며, 정가 수정이 기존 상품 판매가를 자동 변경하지 않습니다. 판매 조건은 [상품 가격](../products-and-coupons/price-discount-and-valid-days.md)과 [과세·면세 설정](../products-and-coupons/tax-settings.md)을 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-create-information-pc-01.png" alt="자료명 입력과 상세 소개 미리보기·썸네일·카테고리 영역"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-create-information-pc-02.png" alt="정가 설정과 자료 상세 정보 편집기·저장 버튼"><figcaption></figcaption></figure>
 
 ## 2. 파일 업로드하고 저장하기 <a href="#step-2" id="step-2"></a>
 

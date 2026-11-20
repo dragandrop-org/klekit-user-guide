@@ -51,6 +51,10 @@
 
 다른 담당자의 답글이 이미 있으면 같은 내용을 중복 등록하기 전에 최신 상세를 확인합니다. 화면을 열어 둔 사이 다른 사람이 처리할 수 있으므로 오래 열린 화면의 상태만 보고 완료 처리하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/qna-question-detail-and-thread-pc-01.png" alt="Q&A 질문 상세의 강좌·수업·답변 담당·상태와 기존 답변"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/qna-question-detail-and-thread-pc-02.png" alt="Q&A 기존 답변 하단과 빈 답글 입력창·답글 등록 버튼"><figcaption></figcaption></figure>
+
 ## 3. 답글 작성하고 이미지 확인하기 <a href="#step-3" id="step-3"></a>
 
 <figure><img src="../.gitbook/assets/branding/learning-qna-illustration-v1.png" alt="학습 질문과 풀이 답변을 표현한 개념 일러스트"><figcaption></figcaption></figure>
@@ -100,6 +104,10 @@
 삭제가 꼭 필요하면 본인 답글의 **더보기 → 삭제**에서 대상을 확인하고 최종 **삭제**합니다. 화면은 복구 불가로 안내하므로 내용을 확인한 뒤 결정합니다. 삭제를 오류 재시도나 완료 상태 해제의 수단으로 쓰지 않으며, 삭제 후 남은 답글·상태를 다시 확인합니다.
 
 본인 답글의 수정·삭제 메뉴가 보여도 비공개 질문 접근이나 저장이 제한될 수 있습니다. 오류가 나면 최신 답글과 계정 권한을 운영자에게 확인하세요. 다른 담당자의 답글을 임의로 수정·삭제하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/qna-own-reply-menu-pc-01.png" alt="본인이 작성한 답글의 더보기 메뉴와 수정 위치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/qna-own-reply-edit-pc-01.png" alt="본인 답글 수정 화면의 편집 영역과 취소·저장 버튼"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

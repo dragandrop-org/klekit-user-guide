@@ -39,6 +39,10 @@
 
 **강좌 상세 정보**에 긴 소개를 작성하고 저장한 뒤, **다음**을 눌러 **영상 업로드 및 섹션 구성**으로 이동합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/course-basic-information-pc-01.png" alt="강좌 기본 정보의 썸네일·제목·요약과 카테고리 입력 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/course-basic-information-pc-02.png" alt="강좌 상세 소개 편집 영역과 임시 저장·다음 버튼"><figcaption></figcaption></figure>
+
 ## 2. 작업 중인 내용 저장하기 <a href="#step-2" id="step-2"></a>
 
 아직 수업 구성을 끝내지 않았다면 **임시 저장**을 사용합니다. 커리큘럼 단계에서 임시 저장하려면 섹션이 1개 이상이고 모든 섹션에 수업이 1개 이상 있어야 합니다. 입력 오류가 표시되면 안내된 항목을 먼저 보완합니다. 저장 후 강좌를 다시 열어 수정 내용이 남아 있는지 확인합니다.

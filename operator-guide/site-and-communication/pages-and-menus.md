@@ -39,6 +39,10 @@
 
 **페이지 관리**에서 페이지명 또는 URL을 입력하고 **검색**을 누릅니다. **전체 / 기본 페이지 / 커스텀 페이지** 탭에서 범위를 고르고, **공개 범위 / 발행 상태** 필터를 바꾼 뒤 **적용하기**를 누릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-pages-list-and-states-pc-01.png" alt="페이지 목록의 이름·URL·유형·공개 범위와 발행·게시 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-pages-filter-controls-pc-01.png" alt="페이지 목록의 공개 범위·발행 상태 필터와 취소·적용하기 버튼"><figcaption></figcaption></figure>
+
 | 표시 | 뜻 | 함께 확인할 것 |
 | --- | --- | --- |
 | 공개·비공개 | 페이지를 방문자에게 제공할지 정한 설정 | 커스텀 페이지는 발행본도 있어야 합니다 |
@@ -47,6 +51,8 @@
 | 연결된 메뉴·연결 없음 | 페이지로 이동하는 메뉴 연결 정보 | 메뉴 공개와 실제 노출도 따로 확인합니다 |
 
 **기본 페이지와 커스텀 페이지는 같은 편집 절차를 쓰지 않습니다.** 기본 기능 페이지의 웹빌더 편집은 현재 상세에서 준비 중으로 표시됩니다. 기본 페이지의 상태 표시나 이동 경로를 커스텀 페이지의 발행 절차로 대신 사용하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-page-detail-and-states-pc-01.png" alt="기본 FAQ 페이지 상세의 공개·발행·게시 상태와 연결된 메뉴 정보"><figcaption></figcaption></figure>
 
 ## 2. 새 페이지의 이름·주소 준비하기 <a href="#step-2" id="step-2"></a>
 
@@ -112,6 +118,10 @@
 5. 상위 메뉴도 공개 상태인지 확인합니다. 공개 가능한 하위 메뉴가 없으면 상위 메뉴가 표시되지 않을 수 있습니다.
 
 메뉴가 공개여도 연결 페이지가 없거나 비공개·미발행이면 보이지 않을 수 있습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-menu-tree-and-page-picker-pc-01.png" alt="하위 메뉴를 추가하기 전 상위 메뉴의 이름·연결 페이지·공개 상태와 추가 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-menu-tree-and-page-picker-pc-02.png" alt="연결 페이지 선택창의 페이지 이름·URL·공개·발행 상태와 중복 연결 안내"><figcaption></figcaption></figure>
 
 ## 5. 메뉴 순서·노출 변경하기 <a href="#step-5" id="step-5"></a>
 

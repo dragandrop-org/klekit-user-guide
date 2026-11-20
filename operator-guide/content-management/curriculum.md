@@ -27,6 +27,10 @@
 | 섹션 | 수업을 묶는 단위 | 일차방정식 |
 | 수업 | 영상·설명·자료를 제공하는 학습 단위 | 일차방정식 기본 개념 |
 
+<figure><img src="../.gitbook/assets/screenshots/curriculum-sections-and-lessons-pc-01.png" alt="섹션 안에 수업을 구성한 목차와 영상 등록 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/curriculum-sections-and-lessons-pc-02.png" alt="목차 하단의 수업 추가·섹션 추가와 저장·완료 버튼"><figcaption></figcaption></figure>
+
 ## 1. 섹션 만들기 <a href="#step-1" id="step-1"></a>
 
 섹션 추가 버튼을 누르고 제목을 입력합니다. 처음에는 다음처럼 큰 학습 흐름으로 나눠도 됩니다.
@@ -85,13 +89,15 @@
 
 **공개 설정이 모든 방문자의 무료 시청을 뜻하는 것은 아닙니다.** 미리보기와 유료 수강 권한을 구분하고, 관리자 미리보기만으로 접근 제한을 확인했다고 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/curriculum-visibility-and-preview-pc-01.png" alt="공개·미리보기로 설정된 수업의 비공개 전환과 미리보기 해제 메뉴"><figcaption></figcaption></figure>
+
 ## 5. 저장하고 반영 결과 확인하기 <a href="#step-5" id="step-5"></a>
 
 강좌 생성·수정 화면에서 커리큘럼을 계속 작업하려면 **임시 저장**, 내용을 발행하려면 **최종 완료**를 사용합니다. 저장 오류가 표시되면 해당 수업·섹션을 먼저 보완합니다.
 
 커리큘럼 단계의 저장·완료에는 섹션이 1개 이상 필요하고, 모든 섹션에 수업이 1개 이상 있어야 합니다. 아직 비어 있는 섹션은 수업을 채우거나 불필요한 섹션인지 검토합니다.
 
-강좌 상세의 **수업 추가**로 수업을 넣었다면, 강좌 생성·수정 화면에서 수업을 추가했을 때와 작업 완료 후 처리가 다를 수 있습니다. 임시저장본에 추가됐다는 안내가 나오면 수강생에게 반영됐다고 안내하기 전에 발행 여부를 확인합니다.
+강좌 상세의 **수업 추가**에서는 수업이 임시저장본에만 추가될 수 있습니다. 임시저장본에 추가됐다는 안내가 나오면 수강생에게 반영됐다고 안내하기 전에 발행 여부를 확인합니다.
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

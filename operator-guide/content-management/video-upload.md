@@ -40,6 +40,8 @@
 3. 해당 수업에 맞는 영상 파일을 선택합니다.
 4. 업로드가 끝나면 파일명·영상 길이와 수업에 연결된 파일을 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/video-upload-lesson-tab-pc-01.png" alt="수업 영상 관리의 현재 연결 영상·기존 영상 목록과 새 영상 업로드 버튼"><figcaption></figcaption></figure>
+
 새 영상 업로드에는 파일 저장과 수업 연결이 포함될 수 있습니다. 팝업을 닫거나 취소했다고 업로드한 파일·연결이 모두 되돌아갔다고 판단하지 말고 다시 조회해 결과를 확인합니다.
 
 ## 2. 이미 업로드한 영상 연결하기 <a href="#step-2" id="step-2"></a>

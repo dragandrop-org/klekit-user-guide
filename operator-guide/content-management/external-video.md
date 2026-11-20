@@ -29,6 +29,10 @@ YouTube·Vimeo에 올린 영상을 수업에 연결합니다. 파일을 클킷�
 
 강좌 생성·수정 화면의 **영상 업로드 및 섹션 구성**에서 수업을 열고 **영상 관리**로 들어갑니다. **영상 연결 방식**에서 **YouTube** 또는 **Vimeo**를 선택합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/external-video-link-settings-youtube-pc-01.png" alt="YouTube 연결 방식 선택 후 URL을 입력하기 전의 입력란과 링크 확인 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/external-video-link-settings-vimeo-pc-01.png" alt="Vimeo URL 입력란과 전체 공유 URL·도메인 제한 안내"><figcaption></figcaption></figure>
+
 ## 1. 공유 URL과 재생 설정 확인하기 <a href="#step-1" id="step-1"></a>
 
 ### YouTube <a href="#youtube" id="youtube"></a>
@@ -96,7 +100,7 @@ YouTube·Vimeo에 올린 영상을 수업에 연결합니다. 파일을 클킷�
 | --- | --- |
 | 선택한 공급자와 URL이 일치하지 않는다고 나와요 | YouTube·Vimeo 선택과 입력한 URL의 서비스를 맞춥니다 |
 | 지원하지 않는 영상 URL이라고 나와요 | 공식 HTTPS 영상 공유 URL인지 확인합니다. 채널·재생목록·다른 서비스 주소는 제외합니다 |
-| 영상 길이를 확인한 후 저장하라고 나와요 | 링크 확인을 다시 진행하고 외부 플레이어의 오류와 정보 확인 결과를 확인합니다 |
+| 영상 길이를 확인한 후 저장하라고 나와요 | **링크 확인**을 다시 누른 뒤, 영상 정보 조회 결과와 외부 플레이어의 오류 문구를 살펴봅니다 |
 | YouTube 원본은 되는데 수업에서는 안 돼요 | 비공개 전환·삭제·외부 재생 제한과 소유자 로그인 여부를 확인합니다 |
 | Vimeo 영상이 없다고 나와요 | 공유 키가 포함된 전체 URL과 실제 수강생 사이트의 도메인 허용 여부를 확인합니다 |
 | 관리자는 되는데 수강생은 안 돼요 | 외부 서비스 설정과 클킷의 발행·공개·미리보기·수강 권한을 각각 확인합니다 |
