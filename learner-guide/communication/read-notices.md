@@ -22,6 +22,8 @@
 
 공지사항이 재원생에게만 공개된다고 가정하지 않습니다. 공개 공지에 학생 정보나 개인 자료를 올려 달라고 요청하지 않으며, 예상하지 못한 민감한 내용이 보이면 복사·공유하지 말고 학원에 알립니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-notice-entry.png" alt="수강생 사이트의 공지사항 메뉴와 제목·작성일·조회수·검색·페이지 이동이 있는 공개 목록"><figcaption></figcaption></figure>
+
 ## 2. 중요 공지와 목록 정보 읽기 <a href="#step-2" id="step-2"></a>
 
 | 표시 | 읽는 방법 |
