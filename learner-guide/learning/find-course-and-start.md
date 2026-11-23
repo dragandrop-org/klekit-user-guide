@@ -38,6 +38,8 @@
 
 로그인이 풀려 로그인 화면으로 이동했다면 로그인 후 다시 **내 학습 → 수강중 강좌**를 엽니다. 로그인 후에도 이전에 선택한 수업으로 자동으로 돌아가지 않을 수 있습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-my-courses-entry.png" alt="좌측 마이페이지 메뉴와 내 학습의 수강 강좌 목록·상태 필터·예시 강좌 카드"><figcaption></figcaption></figure>
+
 ## 2. 필터와 페이지로 강좌 찾기 <a href="#step-2" id="step-2"></a>
 
 1. 먼저 **전체**를 선택해 대상 강좌가 있는지 확인합니다.
