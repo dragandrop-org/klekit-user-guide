@@ -56,6 +56,8 @@
 | 수강 중인 강좌를 불러오지 못했습니다. | 조회 오류입니다. 다시 불러오기를 이용하고, 계속 실패하면 학원에 문의합니다 |
 | 강좌명은 맞는데 기간/상태가 예상과 달라요 | 표시된 강좌의 기간·상태를 학원의 지급 안내와 기존 주문에 대조합니다. 확인하려고 다시 구매하지 않습니다. |
 
+<figure><img src="../.gitbook/assets/screenshots/learner-course-filters-empty-and-error.png" alt="완료 필터를 선택했을 때 해당 상태의 강좌가 없다고 표시된 수강 강좌 목록"><figcaption></figcaption></figure>
+
 ## 3. 강좌 카드 확인하고 강의실 열기 <a href="#step-3" id="step-3"></a>
 
 1. 강좌 카드의 **강좌명·이용 기간/종료일·학습 현황** 중 표시된 항목을 읽습니다.
@@ -84,6 +86,10 @@
 강의실은 **아직 완료하지 않았고 재생 위치가 남아 있는 수업**을 찾아 자동으로 선택합니다. 그런 수업이 여러 개면 **목차에서 가장 뒤에 있는 수업**을 선택하고, 해당하는 수업이 없으면 첫 수업을 선택합니다. 가장 최근에 본 수업이 선택된다고 보장하지 않습니다.
 
 목차의 **자료**는 수업 선택 버튼이 아닙니다. 다운로드 동작으로 이어질 수 있으므로 강의실 이동 확인용으로 누르지 않습니다. 목차가 비어 있거나 화면이 계속 준비 중이면 수업이 없다고 단정하지 말고 학원에 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-selected-course-and-lecture.png" alt="영상이 0초에서 일시정지된 강의실과 오른쪽 커리큘럼의 강좌명·선택된 함수의 극한 3 수업·전체 목차"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/learner-curriculum-desktop-and-mobile.png" alt="360px 모바일 너비에서 강의실을 덮어 표시되는 커리큘럼과 현재 선택된 수업" width="360"><figcaption></figcaption></figure>
 
 ## 5. 재생 시작하고 다음 수업으로 이동하기 <a href="#step-5" id="step-5"></a>
 

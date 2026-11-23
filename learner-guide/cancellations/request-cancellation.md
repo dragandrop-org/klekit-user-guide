@@ -124,6 +124,8 @@
 
 연락처·추가 증빙이 필요하면 학원이 안내한 본인 확인이 가능한 개별 창구로 전달합니다. 공개 Q&A·공지 댓글에는 주문/연락처를 올리지 않습니다. 결제 키·영수증/다운로드 URL·전체 카드/계좌 정보·타인 정보를 보내지 않으며, 이번 취소 신청 화면에 첨부 파일 기능이 있다고 가정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-cancellation-inquiry.png" alt="실제 신청·접수 없이 원 주문과 교재·수령 사실을 정리하는 문의 작성 예시"><figcaption></figcaption></figure>
+
 ## 완료 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 취소할 구성품·수량과 기존 신청, 이번 구매의 이용·발송 사실을 정리했다.

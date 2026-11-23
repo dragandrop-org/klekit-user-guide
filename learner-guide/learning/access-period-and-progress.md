@@ -68,6 +68,8 @@
 
 **100%만으로 모든 수업 완료를 단정하지 말고 완료 수업 수와 목차 표시를 함께 확인**합니다. 진도율이 100%라고 해서 곧바로 완료 필터로 이동하거나 수료증이 발급되는 것은 아닙니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-course-completion-count.png" alt="내 학습의 예시 강좌 카드에 표시된 완료 수업 수 2강/8강과 진도율 25%"><figcaption></figcaption></figure>
+
 ## 5. 목차에서 수업별 완료 여부 확인하기 <a href="#step-5" id="step-5"></a>
 
 1. 수강 가능한 강좌를 열어 강좌·수업 제목이 맞는지 확인합니다. 진입 방법은 [내 강의 찾고 수강 시작하기](find-course-and-start.md), 패널 조작은 [PC·모바일에서 영상 보기](watch-on-desktop-and-mobile.md)를 참고합니다.
@@ -77,6 +79,8 @@
 5. **패널 닫기**로 돌아갑니다. 현황만 살펴볼 때는 **자료**를 누르거나 수업을 반복 재생하지 않습니다.
 
 수업별 시청 퍼센트의 별도 숫자 표시 여부는 아직 확인이 필요합니다. 완료 체크가 없다고 한 번도 시청하지 않았다는 뜻은 아닙니다. 화면 아래 **수강완료**도 직접 누르는 버튼이 아니라 해당 수업의 상태 표시입니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="커리큘럼에 함께 표시되는 현재 선택 수업과 완료 체크·전체 진도율"><figcaption></figcaption></figure>
 
 ## 6. 재생 위치·학습 완료·외부 영상 구분하기 <a href="#step-6" id="step-6"></a>
 

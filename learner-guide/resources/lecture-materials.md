@@ -30,6 +30,8 @@
 
 목차 패널을 열었다고 영상이 자동 일시정지되는 것은 아닙니다. 재생 중이라면 필요에 따라 재생기에서 먼저 일시정지합니다. 패널 닫기는 [PC·모바일 영상 보기](../learning/watch-on-desktop-and-mobile.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="영상은 재생하지 않고 연 PC 커리큘럼의 수업 목록과 강의 자료 ZIP 버튼 위치"><figcaption></figcaption></figure>
+
 ## 2. 자료 버튼과 이용 가능 여부 확인하기 <a href="#step-2" id="step-2"></a>
 
 | 보이는 상태 | 확인할 것·다음 행동 |

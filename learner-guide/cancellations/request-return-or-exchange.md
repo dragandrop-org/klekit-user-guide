@@ -136,6 +136,8 @@
 
 주소·연락처는 담당자가 필요하다고 안내한 개별 창구로만 전달합니다. 공개 Q&A·공지 댓글에는 주문/배송 정보를 올리지 않습니다. 사진에는 타인 정보·송장 바코드/주소·연락처를 가리고, 비밀번호·인증번호·결제 처리에 쓰이는 정보(결제 키)·전체 카드/계좌·배송 조회/파일 URL을 보내지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-cancellation-inquiry.png" alt="교재·수령 사실과 필요한 조건을 정리하는 미접수 취소·교환 문의 작성 예시"><figcaption></figcaption></figure>
+
 ## 완료 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 대상 교재·수량·기존 신청과 처음 교재를 받은 날짜를 정리했다.

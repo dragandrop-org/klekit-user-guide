@@ -95,6 +95,8 @@
 
 전체 주소·연락처가 필요하면 학원이 안내한 **본인 확인이 가능한 개별 창구**로 전달합니다. 공개 Q&A·공지 댓글에는 올리지 않습니다. 비밀번호·인증번호·결제 처리에 쓰이는 정보(결제 키)·공동현관 비밀번호·타인의 주문/배송 정보는 보내지 않습니다. 송장 라벨 사진은 수령인·주소·연락처·바코드 등 개인 배송 정보를 가립니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-cancellation-inquiry.png" alt="원 주문·교재·현재 상태·실제 수령 사실을 정리하는 미접수 배송 문의 작성 예시"><figcaption></figcaption></figure>
+
 ## 완료 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 해당 주문의 교재·수량과 배송 정보를 살펴봤다.

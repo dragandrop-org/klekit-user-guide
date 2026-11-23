@@ -128,6 +128,8 @@
 
 **비밀번호·인증번호·로그인·접속에 쓰이는 인증정보(토큰·세션 정보)·자료 다운로드 주소·다른 학생 정보는 보내지 않습니다.** 문의 화면/사진은 필요한 오류·교재 상태만 남기고 주소창·송장 라벨의 이름/주소/전화번호 등을 가립니다. 문의 접수가 즉시 파일 재지급·권리 복구·배송지 변경·재배송·환불을 보장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-resource-shipping-troubleshooting-inquiry.png" alt="자료 종류·조회 경로·현재 표시를 정리한 미등록 자료 이용 문의 예시"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 자료 문제라면 파일명·오류 문구와 저장·열기 결과를 정리했습니다.

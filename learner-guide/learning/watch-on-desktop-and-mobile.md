@@ -39,6 +39,8 @@
 
 외부 영상 위로 포인터를 옮겨도 강의실 도구가 나타나지 않을 수 있습니다. 도구가 안 보이면 영상 바깥 강의실 영역을 확인하고, 외부 재생기를 일시정지한 뒤 도구 표시를 확인합니다. 이 방법으로 모든 기기에서 도구가 표시되는 것은 아닙니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="PC 강의실의 영상 영역과 열린 커리큘럼·Q&A·노트 도구 배치이며 영상은 정지 상태"><figcaption></figcaption></figure>
+
 ## 2. 소리·재생 위치·배속·전체화면 조절하기 <a href="#step-2" id="step-2"></a>
 
 일반 영상은 **브라우저 기본 재생기**, 외부 영상은 **YouTube/Vimeo 재생기**를 사용합니다. 재생 설정과 버튼 위치가 모든 영상에서 같지는 않습니다.
@@ -62,6 +64,8 @@
 
 모바일 화면에 PC 측면 도구가 없는 것은 배치 차이일 수 있습니다. 가로 회전·자동 전체화면·화면을 끈 상태나 다른 앱에서의 계속 재생은 지원 여부가 아직 확인되지 않았습니다. 화면 잠금·앱 전환 전에 재생기를 일시정지하고, 돌아온 뒤 수업과 위치를 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-player-mobile-layout.png" alt="360px 모바일 너비에서 영상이 정지된 강의실과 하단 커리큘럼·Q&A·노트 탭 배치" width="360"><figcaption></figcaption></figure>
+
 ## 4. 목차를 열고 영상 화면으로 돌아오기 <a href="#step-4" id="step-4"></a>
 
 1. PC **커리큘럼** 또는 모바일 **목차**를 엽니다.
@@ -71,6 +75,8 @@
 
 목차의 **자료**를 누르면 다운로드를 요청합니다. 자료 다운로드 주소가 발급되면 취소 조건에 영향을 줄 수 있으므로 화면 확인만을 위해 **자료** 버튼을 누르지 않습니다. Q&A·노트의 새 글 작성은 수강 상태에 따라 제한될 수 있습니다. 특히 외부 영상·만료 상태의 실제 버튼 표시와 이용 조건은 아직 확인이 필요하므로, 이용이 제한되면 학원에 문의합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="영상이 정지된 PC 강의실의 열린 커리큘럼 패널과 상단 닫기 버튼"><figcaption></figcaption></figure>
+
 ## 5. 이전·다음 수업으로 이동하기 <a href="#step-5" id="step-5"></a>
 
 1. 영상을 멈출 필요가 있으면 먼저 일시정지합니다.
@@ -79,6 +85,8 @@
 4. 상단 뒤로 화살표는 **강좌 소개**로 이동합니다. 내 강좌 목록은 사이트의 **마이페이지 → 내 학습 → 수강중 강좌**에서 다시 엽니다.
 
 강의실 화면의 **수강완료**는 상태 표시이며 직접 누르는 완료 처리 버튼이 아닙니다. 외부 영상의 **시청 완료**와도 구분합니다. 표시가 바로 바뀌지 않더라도 끝 구간으로 반복 이동하거나 재생기를 새로 여는 방법으로 완료를 만들지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-player-lesson-navigation.png" alt="첫 수업을 선택한 PC 강의실의 선택 표시와 비활성 이전 버튼·다음 수업 이동 버튼 위치이며 영상은 정지 상태"><figcaption></figcaption></figure>
 
 ## 6. 일반 영상과 외부 영상의 기록 차이 확인하기 <a href="#step-6" id="step-6"></a>
 

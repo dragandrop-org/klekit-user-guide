@@ -67,6 +67,8 @@
 
 **표시 금액이 맞지 않거나 필요한 정보가 누락됐다면 출력본도 그대로 제출하지 않습니다.** 취소 신청·환불 요청이 접수된 것과 확정 취소가 문서에 반영된 것, 카드/은행의 실제 환불 반영은 각각 다릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-invoice-cancel-and-missing-data.png" alt="거래명세서의 확인 필요 상태·원거래 금액 기록 없음·품목별 세금 근거 없음 안내"><figcaption></figcaption></figure>
+
 ## 5. 필요한 경우 브라우저에서 인쇄하거나 저장하기 <a href="#step-5" id="step-5"></a>
 
 1. 거래명세서 불러오기가 끝났고 필요한 내용이 맞는지 먼저 확인합니다. 불러오는 중이거나 정보가 불명확하면 출력하지 않습니다.

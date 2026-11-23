@@ -36,6 +36,8 @@
 
 상단의 이름·사진·이니셜이나 **회원** 표시만으로 구매 계정을 확정하지 않습니다. 로그인 화면으로 이동했다면 기존 계정으로 로그인한 뒤 다시 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-profile-entry.png" alt="계정 설정의 이름·이메일·휴대폰 정보를 가린 내 프로필과 비밀번호·간편로그인 연결 상태"><figcaption></figcaption></figure>
+
 ## 2. 이름·이메일·휴대폰 확인하기 <a href="#step-2" id="step-2"></a>
 
 1. **이름**과 **이메일**을 함께 기존 가입 정보와 비교합니다.

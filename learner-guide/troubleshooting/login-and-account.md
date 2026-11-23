@@ -13,6 +13,8 @@
 | 현재 로그인 상태 | 이미 로그인되어 있다면 계정 설정의 내 프로필에서 본인 이메일을 확인합니다 | 화면 상단의 이름·사진만으로 계정을 확정하지 않습니다. 프로필 조회 오류와 값 없음을 구분합니다 |
 | 막힌 단계 | 로그인 입력, 인증 발송, 인증 확인, 아이디 결과, 비밀번호 저장, 카카오·구글 같은 소셜 로그인 후 학원 사이트로 돌아오기 중 어디인지 확인합니다 | 여러 단계를 한 번에 반복하지 말고 현재 오류 문구와 발생 시각을 기록합니다 |
 
+<figure><img src="../.gitbook/assets/screenshots/learner-signup-login-entry.png" alt="비밀번호와 아이디를 입력하지 않은 학원 로그인 화면과 기존 로그인 방식·계정 찾기 위치"><figcaption></figcaption></figure>
+
 ## 내 상황에 맞는 안내 선택하기 <a href="#section-2" id="section-2"></a>
 
 | 지금 상황 | 먼저 볼 내용 | 연결 안내 |
@@ -83,6 +85,8 @@
 4. 탈퇴 대기/철회나 약관 재동의 안내가 나오면 일반 로그인 실패와 구분합니다. 상태를 모르는 채 복구·탈퇴 철회·재동의를 시험하지 말고 학원에 확인합니다. 계정 복구 가능 기간과 이용 권한 복원 여부는 아직 확인이 필요하며, 복구를 보장하지 않습니다.
 
 본인 계정으로 로그인했지만 강좌·자료가 없다면 로그인 문제와 분리합니다. [내 강의 찾기](../learning/find-course-and-start.md)·[내 자료 이용](../resources/my-digital-resources.md)·[주문 내역](../orders/order-and-payment-history.md)을 확인하되, 학원이 직접 지급한 수강권은 주문이 없을 수 있습니다. 재가입·재결제·확인용 재생/다운로드를 해결책으로 실행하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-login-troubleshooting-profile-and-inquiry.png" alt="실제 접수하지 않은 계정·로그인 문제 문의 작성 예시"><figcaption></figcaption></figure>
 
 ## 해결되지 않으면 학원에 문의하기 <a href="#section-8" id="section-8"></a>
 

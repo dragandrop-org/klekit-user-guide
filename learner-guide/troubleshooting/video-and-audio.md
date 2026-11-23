@@ -114,6 +114,8 @@ PC의 **커리큘럼**, 모바일의 **목차**가 영상을 가리면 **패널 
 
 **비밀번호·인증번호·로그인·접속에 쓰이는 인증정보(토큰·세션 정보)·영상/자료 URL·Vimeo 접근키·외부 계정 정보·다른 학생 정보는 보내지 않습니다.** 스크린샷은 필요한 오류 영역만 남기고 이름·전화번호 등 개인정보가 보이지 않게 가립니다. 문의 접수가 즉시 권리 복구·영상 교체·진도 복원을 보장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-video-troubleshooting-inquiry.png" alt="강좌·수업·기기와 화면 문구를 정리한 미등록 영상 이용 문의 예시"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 강좌·수업명과 오류 문구, 알고 있는 발생 구간을 기록했습니다.
