@@ -44,6 +44,8 @@
 
 정상 업무는 [신청 확인·승인·거절](../cancellations-and-returns/request-review-approve-and-reject.md)을 참고합니다. 처리 내역 조회 권한과 심사/승인·단계 저장 권한은 다릅니다. 필요한 원 주문·권리·배송 정보를 조회할 수 없으면 해당 담당자에게 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/cancellation-request-list-and-filters.png" alt="취소·반품·교환 신청이 없는 목록과 검색·필터 진입 위치. 환불 완료나 조회 오류를 뜻하지 않음"><figcaption></figcaption></figure>
+
 ## 2. 대상·수량과 제한 사유 확인하기 <a href="#step-2" id="step-2"></a>
 
 | 제한·차이가 있는 항목 | 점검할 것 | 피할 대응 |

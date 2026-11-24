@@ -25,6 +25,8 @@
 
 강좌가 안 보이거나 구매/직접 지급 여부부터 확인해야 한다면 [내 강의 찾고 수강 시작하기](find-course-and-start.md)를 먼저 참고합니다. 이 목록에 모든 취소·삭제 이력이 남는 것은 아닙니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-period-progress-entry-mobile.png" alt="모바일 폭 390px의 수강 강좌 목록에서 상태 필터·완료 수업 수 2강/8강·진도율 25%와 페이지 이동 위치를 보여 주는 화면" width="390"><figcaption></figcaption></figure>
+
 ## 2. 수강 기간과 종료일 읽기 <a href="#step-2" id="step-2"></a>
 
 <figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>
@@ -110,6 +112,8 @@
 | 만료·권한/시청 한도 안내가 보여요 | 학습 현황과 별개인 이용 제한입니다. 새로고침·재생 반복·다른 계정/주소로 우회하지 않습니다 |
 
 진도를 복구하려고 브라우저 저장정보를 삭제하거나 계정 재가입·수강권 재구매를 시도하지 않습니다. 화면을 옮기거나 영상을 일시정지하거나 강의실에 다시 들어가는 것도 학습 기록이 전송·저장되는 데 영향을 줄 수 있습니다. 학습 현황을 확인하려고 재생 상태를 반복해서 바꾸지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-progress-refresh-and-errors.png" alt="만료 필터를 선택했을 때 해당 상태의 강좌가 없습니다가 표시된 화면. 조회 오류나 전체 수강권 없음 화면은 아님"><figcaption></figcaption></figure>
 
 ## 학원에 문의할 때 <a href="#contact-academy" id="contact-academy"></a>
 

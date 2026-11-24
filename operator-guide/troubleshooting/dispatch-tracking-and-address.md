@@ -43,6 +43,8 @@
 
 배송 업무 기준은 [구매 후 콘텐츠 지급 확인](../orders-and-shipping/content-fulfillment-check.md)과 [출고 준비·송장 등록](../orders-and-shipping/dispatch-and-tracking.md)을 참고합니다. 실제 서비스에서의 표시와 역할별 조회·처리 결과는 아직 확인이 필요합니다. 학생 주문에서 배송 정보를 찾을 수 없으면 담당자에게 문의합니다. 배송 정보가 안 보인다는 이유만으로 배송 기능이나 배송 대상이 없다고 단정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/shipment-list-and-order-date.png" alt="배송 목록의 상태·검색·필터와 조건에 맞는 배송이 없다는 안내. 배송 조회 오류와는 다른 상태"><figcaption></figcaption></figure>
+
 ## 2. 출고 제한과 유효 수량 확인하기 <a href="#step-2" id="step-2"></a>
 
 목록/상세를 읽을 수 있는 권한과 송장·상태·주소를 변경할 권한은 다릅니다. 결제 상세 접근도 별도이므로 배송 화면에서 주문/환불을 충분히 확인할 수 없다면 담당 권한이 있는 운영자에게 전달합니다.

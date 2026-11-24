@@ -27,6 +27,8 @@
 
 **현재 확인한 정산 상세에는 명세서·PDF·CSV 다운로드 버튼이 없습니다.** 필요한 회차·버전과 제공 여부를 담당자에게 확인합니다. 다른 파일 주소·브라우저 인쇄·과거 CSV를 정식 명세서 발급으로 대신하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-statement-entry-and-version.png" alt="기존 확정 회차에서 금융 근거 부족으로 명세서 발급 버튼이 비활성인 화면. 정상 PDF 발급 완료 예시가 아님"><figcaption></figcaption></figure>
+
 ## 1. 같은 회차의 확정본 확인하기 <a href="#step-1" id="step-1"></a>
 
 1. 의도한 사이트·판매자의 정산 회차인지 확인합니다.

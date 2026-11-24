@@ -113,6 +113,8 @@
 
 CSV에는 수강생 이름·이메일 등 개인정보가 포함됩니다. 승인된 업무 용도로만 보관·공유하고 공개 문서에 실제 파일을 첨부하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/coupon-issued-history-export.png" alt="예시 쿠폰의 발급일·만료일·사용일·사용 가능 상태와 정렬 메뉴의 CSV 다운로드 위치. 실제 다운로드는 실행하지 않은 화면"><figcaption></figcaption></figure>
+
 ## 6. 수정·발급 중지·삭제 구분하기 <a href="#step-6" id="step-6"></a>
 
 | 작업 | 기준·영향 |

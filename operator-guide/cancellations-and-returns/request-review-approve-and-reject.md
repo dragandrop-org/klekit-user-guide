@@ -43,6 +43,10 @@
 
 검색 결과가 없으면 현재 사이트·기간·유형·상태와 주문번호를 먼저 확인합니다. 조회 오류를 신청 없음으로 판단하거나 같은 신청을 새로 만들도록 안내하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/cancellation-request-list-and-filters.png" alt="취소·반품·교환 내역의 유형 탭·검색·필터와 신청 없음 안내. 신청·심사·승인·환불을 실행하지 않은 초기 목록"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/cancellation-request-list-and-filters-filter.png" alt="취소·반품·교환 상세 필터의 교환 접수 상태·처리 상태·신청 유형·콘텐츠 유형·처리 방식·신청 기간. 필터 변경이나 업무 처리는 실행하지 않음"><figcaption></figcaption></figure>
+
 ## 2. 신청 대상·사유·현재 상태 확인하기 <a href="#step-2" id="step-2"></a>
 
 | 항목 | 확인 기준 |

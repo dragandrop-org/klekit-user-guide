@@ -128,6 +128,8 @@
 
 조회/작업 실패·좌석 제한·결과 불명확이면 대상·선택 역할·강좌·시도 시각·오류를 정리합니다. 좌석을 비우려고 다른 운영자를 삭제하거나 조교 답변 권한을 만들려고 매니저로 임의 승격하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/operator-result-logs-and-restrictions.png" alt="운영자 활동 로그의 기능·활동·시각·결과와 검색·유형 필터. 운영자 이름과 상세 활동 내용은 가렸으며 권한 변경·로그 상세 열람은 하지 않음"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 같은 사이트의 대상 회원을 식별하고 기존 운영자·동명이인을 구분했습니다.

@@ -66,6 +66,10 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 
 등록·파일 연결·상태 변경은 단계별로 처리됩니다. 마지막 단계에서 오류가 나도 앞 단계가 이미 저장됐을 수 있으므로, **콘텐츠 목록과 상세를 먼저 재조회**합니다. 저장된 자료가 있으면 해당 자료에서 이어서 작업하고 바로 같은 자료를 새로 만들지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-upload-and-save.png" alt="직접 작성한 예시 PDF 한 파일의 업로드 완료·파일 검사 완료·자료 교체와 정가 입력 위치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-upload-and-save-completion.png" alt="업로드한 예시 PDF의 소개·정가와 임시 저장·최종 완료 버튼 위치"><figcaption></figcaption></figure>
+
 ## 3. 현재 파일과 등록 결과 확인하기 <a href="#step-3" id="step-3"></a>
 
 자료 상세의 **자료 개요 → 자료 파일**에서 현재 파일명·용량을 확인합니다. 주소 발급 실패·만료나 결과를 확인할 수 없는 상황에서는 기존 파일·이용 권한과 마지막 처리 결과부터 확인하고 다운로드를 반복하지 않습니다.
@@ -73,6 +77,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 실제 구매자의 계정으로 자료 다운로드를 대신 실행하지 않습니다. 다운로드 주소 발급은 이용 기록과 취소 조건에 영향을 줄 수 있습니다.
 
 **게시 완료는 자료 콘텐츠의 상태**입니다. 실제 판매를 하려면 상품 구성에서 이 자료를 연결하고 판매 설정·구매 가능 여부를 확인합니다. 관리자의 다운로드 성공만으로 수강생의 자료 이용 권한이나 다운로드 성공까지 확인된 것은 아니므로, 각각 별도로 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-current-file.png" alt="게시 완료된 예시 디지털 자료의 PDF 형식·용량·정가·현재 파일명과 자료 다운로드 버튼"><figcaption></figcaption></figure>
 
 ## 4. 기존 자료 수정·파일 교체하기 <a href="#step-4" id="step-4"></a>
 
@@ -104,6 +110,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 **URL 발급은 파일 전송 완료나 자료 열람 완료가 아닙니다.** 발급 건수만으로 학생이 자료를 끝까지 다운로드하거나 공부했다고 판단하지 않습니다.
 
 **운영 설정**의 중지·삭제는 파일 교체와 다릅니다. 게시 완료 자료는 활성 상태 그대로 삭제할 수 없습니다. 연결 상품과 구매자가 있는 자료는 영향 범위를 확인한 후 담당자가 처리합니다. **자료 삭제를 기존 권한 회수나 모든 원본 파일의 즉시 영구 삭제와 동일하게 해석하지 않습니다.**
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-usage-history.png" alt="예시 자료의 파일 버전 1개·유효 이용 권한 0건·다운로드 URL 발급 0건과 이용 내역 표"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

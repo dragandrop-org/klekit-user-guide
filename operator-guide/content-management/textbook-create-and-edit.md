@@ -36,6 +36,8 @@ ISBN이 없는 자체 제작 교재도 ISBN을 비워 두고 등록할 수 있�
 
 표지는 화면의 **3:4 비율·900×1200px 이상 권장 안내**를 참고합니다. **최종 완료**로 등록하려면 표지가 필요합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/textbook-basic-and-optional-fields.png" alt="가이드 촬영용 교재의 저자·출판사·선택 ISBN·페이지 수와 정가·최초 재고 입력 예시"><figcaption></figcaption></figure>
+
 ## 2. 교재 정보·정가·최초 재고 입력하기 <a href="#step-2" id="step-2"></a>
 
 <figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>
@@ -67,6 +69,8 @@ ISBN이 없는 자체 제작 교재도 ISBN을 비워 두고 등록할 수 있�
 저장 후 교재 상세를 다시 열어 교재명·표지·소개·정가·상태를 확인합니다. 최초 재고를 입력했다면 재고 정보와 **재고 이력**도 확인합니다.
 
 **연결 상품**에서 이 교재를 사용하는 상품의 구성·판매가·배송 설정·판매 가능 여부를 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/textbook-saved-detail.png" alt="게시 완료된 예시 교재의 기본 정보·현재 재고 30권·연결 상품 수와 재고 이력 탭"><figcaption></figcaption></figure>
 
 ## 4. 기존 교재 수정하기 <a href="#step-4" id="step-4"></a>
 

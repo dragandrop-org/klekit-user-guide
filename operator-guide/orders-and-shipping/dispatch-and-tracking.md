@@ -46,6 +46,8 @@
 
 기간 검색과 최신순 정렬의 기준은 **주문 생성 시각**이며 배송 생성일·발송일이 아닙니다. 다만 실제 화면의 날짜 입력 방식·시간대와 검색 조건·건수 표시는 아직 확인되지 않았습니다. 기간으로 검색한 뒤에는 대상 주문의 생성 시각과 결과를 대조하고, 맞지 않으면 조건을 임의로 해석하지 말고 담당자에게 확인하세요.
 
+<figure><img src="../.gitbook/assets/screenshots/shipment-list-and-order-date.png" alt="배송 관리의 현재 상태 필터와 조건에 맞는 배송이 없습니다 안내. 배송·송장·발송을 생성하지 않은 목록 화면"><figcaption></figcaption></figure>
+
 ## 2. 교재·수량·수령 정보 대조하기 <a href="#step-2" id="step-2"></a>
 
 <figure><img src="../.gitbook/assets/branding/textbook-shipping-illustration-v1.png" alt="교재와 포장 상자"><figcaption></figcaption></figure>

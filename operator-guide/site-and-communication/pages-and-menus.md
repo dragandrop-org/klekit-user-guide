@@ -74,6 +74,8 @@
 
 페이지별 공유 이미지의 용량 안내와 실제 저장 시 허용 기준에 차이가 있으므로, 사용할 파일 기준은 담당자에게 먼저 확인합니다. 생성 중 이미지 업로드 오류가 나면 페이지까지 생성됐다고 가정하지 말고 목록을 먼저 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-page-create-name-and-url.png" alt="페이지명과 고정 슬래시 뒤의 영문 경로 입력 예시·생성 후 비공개 미발행 안내. 페이지 생성·빌더 진입은 하지 않은 화면"><figcaption></figcaption></figure>
+
 ## 3. 작업본·발행·페이지 공개 구분하기 <a href="#step-3" id="step-3"></a>
 
 **커스텀 페이지의 편집·저장·게시 실행은 보류합니다.** 선택한 페이지가 아닌 메인 페이지를 바꿀 위험이 있으며, 안전한 편집 대상 구분은 아직 확인되지 않았습니다. 생성된 페이지에서 웹빌더로 바로 이동하지 마세요. 실행은 담당자가 안전한 처리 방법을 확인한 뒤에만 진행합니다.
@@ -139,6 +141,10 @@
 PC·모바일에서 메뉴 이름·상하위 구조·순서와 링크 결과를 확인합니다. 메뉴를 눌러 이동한 주소가 설정한 페이지 URL인지, 내용이 의도한 발행본인지 대조합니다. 로그인 회원과 비회원의 결과도 필요한 범위에서 각각 확인합니다.
 
 **메뉴를 숨겨도 연결 페이지가 비공개가 되는 것은 아닙니다.** 공개된 페이지는 메뉴가 없어도 직접 주소로 접근할 수 있습니다. 메뉴 노출, 페이지 공개, 사이트 운영 중지, 강좌·자료의 회원/구매 권한을 같은 설정으로 취급하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-menu-visitor-desktop-mobile.png" alt="공개 사이트 PC 공지사항의 로고·상단 메뉴·공지 목록과 현재 메뉴 표시"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-menu-visitor-desktop-mobile-mobile.png" alt="390px 모바일 사이트 메뉴에서 마이페이지와 사이트 메뉴·관리자 진입을 확인하는 화면. 프로필 이름·이메일·이미지는 가림" width="390"><figcaption></figcaption></figure>
 
 ## 기존 페이지 수정·정리할 때 <a href="#section-11" id="section-11"></a>
 

@@ -85,6 +85,8 @@
 
 판매 시작 후 상품 목록·상세의 상태와 판매 준비 안내, 사이트의 상품 표시·구매 가능 여부를 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-created-and-sales-choice.png" alt="예시 디지털 자료 상품의 생성 완료 안내와 비공개로 저장·판매 시작 선택 화면"><figcaption></figcaption></figure>
+
 ## 5. 기존 상품 수정하기 <a href="#step-5" id="step-5"></a>
 
 상품 상세의 **상품 설정**에서 제목·소개·구성과 판매 조건을 수정하고 **수정 완료**를 누릅니다. 판매 중인 상품은 수정 뒤에도 판매 준비 조건을 충족해야 합니다.

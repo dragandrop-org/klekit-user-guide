@@ -34,6 +34,8 @@
 
 아래는 개별 회원의 수강권 관리 절차입니다. 강좌 상세의 일괄 지급, 상품 단위 지정·주문 기반 재등록, 일괄 연장·회수는 포함하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/member-enrollment-progress-and-status-pc-04.png" alt="회원 상세의 강좌·학습 진도·수강 상태·종료일과 수강권 관리 진입 위치. 회원 개인정보는 가림"><figcaption></figcaption></figure>
+
 ## 1. 회원에게 강좌 수강권 지급하기 <a href="#step-1" id="step-1"></a>
 
 1. [회원 목록](member-information-and-history.md)에서 회원을 찾고 상세의 **수강 내역**을 확인합니다. 이미 있는 강좌의 기간을 늘릴 목적이면 신규 지급 대신 아래 기간 연장을 검토합니다.

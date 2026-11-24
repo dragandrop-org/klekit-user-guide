@@ -35,6 +35,8 @@
 
 상품 목록·상세에서 판매 상태와 판매 준비 안내를 함께 확인합니다. 포함된 교재 하나라도 필요한 수량을 충족하지 못하면 교재 포함 패키지 전체의 구매가 제한될 수 있습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-sales-status-and-readiness.png" alt="예시 디지털 상품의 판매 중지 상태와 판매자 자격·정산 정보 확인이 필요한 판매 준비 안내"><figcaption></figcaption></figure>
+
 ### 판매할 수 있는 수량 이해하기 <a href="#section-4" id="section-4"></a>
 
 판매 가능 수량은 보유 수량만으로 판단하지 않습니다. 재고를 관리하는 교재는 **보유 수량 − 예약 수량**을 기준으로 해당 상품의 제공 수량을 충족해야 합니다. 예를 들어 보유 10권·예약 3권이면 추가 판매에 사용할 수 있는 수량은 7권입니다.
@@ -60,6 +62,8 @@
 
 주문 처리에서 이미 재고가 반영됐다면 같은 출고를 다시 수동 차감하지 않습니다. 재고 오류를 해결하려고 임의 입고·차감을 반복하지 마세요. 성공 여부가 불확실하면 이력을 먼저 확인한 뒤 필요한 조정만 진행합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/textbook-stock-history-and-adjustment.png" alt="예시 교재의 초기 입고 이력과 입고·변동 수량·상세 사유를 입력한 재고 조정 창이며 조정은 실행하지 않은 화면"><figcaption></figcaption></figure>
+
 ## 3. 판매 시작·중지 적용하기 <a href="#step-3" id="step-3"></a>
 
 상품 상세의 **운영 설정**에서 **판매 상태 변경**을 엽니다.
@@ -70,6 +74,8 @@
 | 판매 시작·재개 | 필요한 조건 해결 → **판매 중 → 변경 적용** → 상태·판매 준비 안내·구매 결과 확인 |
 
 상품 생성 직후에는 완료 화면의 **판매 시작**으로도 시작할 수 있습니다. 판매 시작이 거절되면 대표 이미지·연결 콘텐츠·자료 파일·재고·유료 강좌 기간·판매자 안내 중 해당 원인을 해결합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/product-sales-status-change-result.png" alt="예시 상품의 판매 상태 변경 창. 판매 중지가 선택되어 있으며 변경 적용·삭제·되돌릴 수 없음 경고의 위치를 보여 주고 실제 변경은 하지 않은 화면"><figcaption></figcaption></figure>
 
 ## 4. 재입고·콘텐츠 복구 후 다시 확인하기 <a href="#step-4" id="step-4"></a>
 

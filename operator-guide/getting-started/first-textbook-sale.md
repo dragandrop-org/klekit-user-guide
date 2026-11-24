@@ -43,6 +43,10 @@
 
 이름과 표지에서 판본을 구분합니다. 표지는 **3:4 비율·900×1200px 이상 권장 안내**를 참고합니다. 최종 완료에는 표지가 필요합니다. 자체 제작 교재에 ISBN이 없다면 임의 번호를 만들지 않으며, **ISBN 입력·미입력은 면세 설정을 대신하지 않습니다.** 자세한 입력은 [교재 등록·수정하기](../content-management/textbook-create-and-edit.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/textbook-create-entry.png" alt="교재 콘텐츠 등록 유형 선택 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/textbook-basic-and-optional-fields.png" alt="예시 교재의 저자·출판사·선택 ISBN·페이지 수 입력 예시"><figcaption></figcaption></figure>
+
 ## 2. 최초 재고와 공유 재고 확인하기 <a href="#step-2" id="step-2"></a>
 
 **새 교재**의 **가격 및 재고**에서 정가·재고·재고 부족 알림 기준을 구분합니다. 예제에서는 실제 보유량이 10권인 상황을 가정하고 알림 기준 3권을 사용합니다. 두 재고 항목을 모두 비우면 최초 재고 설정 없이 등록됩니다. 빈칸을 재고 0권이나 무제한 판매로 해석하지 않습니다.
@@ -59,6 +63,10 @@
 
 재고 조정의 **변동 수량**은 최종 총량이 아니라 증감분입니다. 주문 처리에서 이미 반영된 재고를 출고 시 다시 수동 차감하지 않습니다. 재고 부족에 따른 제한을 피하려고 가상으로 입고를 기록하거나, 예약을 해제하거나, 같은 교재를 중복 생성하지 않습니다. 결과가 불명확하면 같은 조정을 반복하기 전에 이력을 확인합니다. 자세한 기준은 [재고·판매 상태](../products-and-coupons/stock-and-sales-status.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/textbook-price-and-initial-stock-pc-01.png" alt="교재 최초 재고와 재고 부족 알림 기준의 입력 위치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/textbook-saved-detail.png" alt="예시 교재의 저장 후 재고 30권과 게시 완료 상태. 예약·출고·재고 조정 결과는 아님"><figcaption></figcaption></figure>
+
 ## 3. 교재 상품 만들고 금액·과세 조건 정하기 <a href="#step-3" id="step-3"></a>
 
 1. **상품 목록 → 상품 생성 → 상품 종류 선택**에서 **교재**를 선택합니다.
@@ -73,6 +81,12 @@
 이 예제는 교재만 포함하므로 강좌 수강 기간을 입력하지 않습니다. 강좌가 없는 상품에 기록된 0을 무제한 강좌 기간으로 해석하지 않습니다. 상품 생성 화면의 제공 수량은 콘텐츠당 1이며 여러 권으로 바꾸는 입력은 확인되지 않았습니다. 같은 콘텐츠를 중복 선택하거나 강좌·패키지 유형으로 바꿔 수량 제한을 우회하지 않습니다.
 
 상세 절차는 [상품·콘텐츠 연결](../products-and-coupons/create-products-and-connect-content.md), [금액·할인·기간](../products-and-coupons/price-discount-and-valid-days.md), [과세·면세](../products-and-coupons/tax-settings.md)를 참고합니다. 이 문서는 판매자의 법률·세무 판단을 대신하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/first-textbook-product-price-tax.png" alt="상품 생성에서 교재를 선택한 화면. 교재 콘텐츠 등록과 별도인 판매 상품 구성 단계"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/first-textbook-product-price-tax-selection.png" alt="상품에 포함할 예시 교재 한 개와 정가를 확인하는 선택 창. 등록은 구성 선택이며 주문·출고가 아님"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/first-textbook-product-price-tax-settings.png" alt="예시 교재 한 개를 연결한 상품의 구성 금액 1만원·할인 없음·과세 설정. 자동 면세나 수량 편집 예시가 아님"><figcaption></figcaption></figure>
 
 ## 4. 배송 기준 준비하고 실제 반영 여부 확인하기 <a href="#step-4" id="step-4"></a>
 
@@ -106,6 +120,8 @@
 판매 중이어도 가용 재고 등 다른 조건 때문에 구매가 제한될 수 있습니다. 품절은 별도 상품 유형이나 선택할 판매 상태가 아닙니다. 교재가 포함된 패키지도 해당 교재 재고를 충족해야 합니다. 자세한 기준은 [재고·판매 상태 관리하기](../products-and-coupons/stock-and-sales-status.md), 학생 구성·표시는 수강생 가이드의 [상품 구성·가격·이용 기간](https://klekit.gitbook.io/learner-guide/purchase/product-and-access-period)을 참고합니다.
 
 상품 메뉴·공개 페이지 연결은 상품 판매 상태와 별도입니다. 커스텀 빌더에서 선택한 페이지 대신 메인 페이지를 바꿀 위험이 있으므로, [페이지·메뉴](../site-and-communication/pages-and-menus.md) 안내에 따라 **안전한 편집 대상 구분이 확인되기 전에는 빌더 진입·편집·저장·게시를 진행하지 않습니다.** 상품 노출을 시험하려고 운영 중인 메인 페이지를 편집하거나 반복 게시하지 않습니다. 신규 판매를 멈추는 판매 중지는 기존 주문 취소·배송 취소·재고 복원과 같은 작업이 아닙니다.
+
+<figure><img src="../.gitbook/assets/screenshots/first-textbook-sales-status-student-product.png" alt="교재 예시 상품의 생성 완료·1만원과 비공개 저장·판매 시작 선택. 구매·재고 차감·배송이 실행된 상태가 아님"><figcaption></figcaption></figure>
 
 ## 6. 주문·배송 대상 확인하기 <a href="#step-6" id="step-6"></a>
 

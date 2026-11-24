@@ -27,6 +27,8 @@
 
 메뉴가 보이지 않으면 로그인한 사이트와 계정 권한을 담당자에게 확인합니다. 다른 계정의 로그인 정보나 금융 문서 링크를 공유받아 접근하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-list-and-period.png" alt="기존 테스트 정산 회차 목록의 상태·총매출·취소금액·수수료·정산금액과 페이지당 개수·관리 진입 위치. 새 정산 예상 조회·확정·지급은 실행하지 않음"><figcaption></figcaption></figure>
+
 ## 1. 대상 정산 회차 찾기 <a href="#step-1" id="step-1"></a>
 
 1. 목록의 정산월/표시 기간으로 회차를 찾습니다.
@@ -60,6 +62,8 @@
 
 합계와 거래 근거가 다르거나 예상/보류 여부를 확인할 수 없으면 해당 회차의 확인을 요청합니다. 정산 금액을 맞추려고 주문·환불·재고·계좌 정보를 수정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-financial-breakdown.png" alt="기존 0원 정산 회차의 총매출·취소·수수료·이월·정산금액과 근거 확인 필요 표시. 누락된 세금 값을 임의로 채우지 않은 사례"><figcaption></figcaption></figure>
+
 ## 3. 포함 거래 확인하기 <a href="#step-3" id="step-3"></a>
 
 상세의 **거래요약**에서 페이지별 거래 종류·금액·일자를 확인합니다. 관련 주문은 [주문·결제 상태 확인하기](../orders-and-shipping/order-and-payment-status.md)의 내역과 대조합니다.
@@ -69,6 +73,8 @@
 현재 열 제목은 `강좌 명`, `수강생 명`이지만 교재·자료·묶음상품 거래도 같은 정산 근거로 확인해야 합니다. 이름이 비어 있거나 `-`로 보인다고 거래 금액을 제외하지 않습니다. 주문별로 통합된 거래 표가 제공되는지는 아직 확인이 필요합니다.
 
 확정된 회차 이후에 완료된 환불은 후속 회차에서 별도로 반영될 수 있습니다. 과거 확정 금액을 수정하거나 이미 반영된 원 결제액을 다음 회차에 다시 더하지 않습니다. 취소 조건은 [구성품별 취소·환불](../cancellations-and-returns/component-cancellation-and-refund.md), 반품 비용과 실제 환불은 [교재 반품](../cancellations-and-returns/textbook-return.md)을 따릅니다.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-transactions-and-csv.png" alt="주문별 집계 근거를 확인할 수 없음 안내와 비어 있는 결제·취소 거래 원장·정산 원장. 빈 목록을 정상 대사 완료로 해석하지 않는 사례"><figcaption></figcaption></figure>
 
 ## 4. 정산 확정과 지급 상태 구분하기 <a href="#step-4" id="step-4"></a>
 
@@ -104,6 +110,8 @@
 현재 화면의 단일 계좌 영역만으로 위 세 상태를 모두 확인할 수 있는 것은 아닙니다. 계좌가 없거나 이전 계좌가 표시되면 외부 반영·해당 지급 시도를 함께 확인합니다. 저장·인증 성공만으로 다음 지급이 새 계좌로 입금된다고 확답하지 않습니다.
 
 지급 진행 또는 결과 확인 중에는 새 계좌의 외부 반영이 보류될 수 있습니다. 계좌 변경이나 인증·신청을 반복하지 말고, 해당 지급 결과와 계좌 변경이 반영됐는지 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-payout-status-and-account.png" alt="기존 회차의 지급 대기·예정일 미정과 현재 입력 계좌·반영 계좌 안내. 계좌번호와 운영 확인 코드는 가렸으며 지급 요청은 하지 않음"><figcaption></figcaption></figure>
 
 ## 5. 파일로 확인할 때 <a href="#step-5" id="step-5"></a>
 

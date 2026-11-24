@@ -44,6 +44,10 @@
 
 허용 형식·파일 구성은 [디지털 자료·파일 관리하기](../content-management/digital-resource-and-files.md)를 참고합니다. **영상의 5GB 기준을 디지털 자료의 확정 업로드 한도로 사용하지 않습니다.** 자료 화면의 안내와 운영 담당자에게 확인한 파일 형식·MIME(파일 종류를 나타내는 정보)·용량 기준을 따릅니다. 확장자 검증 통과를 파일 내용·압축 내부·악성 코드 검사 완료로 안내하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-create-type-pc-01.png" alt="다운로드 자료용 콘텐츠를 만들 때 디지털 자료 유형을 선택하는 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-create-information-pc-01.png" alt="디지털 자료의 자료명·썸네일·카테고리 입력 위치"><figcaption></figcaption></figure>
+
 ## 2. 파일 업로드 뒤 자료 저장·현재 파일 확인하기 <a href="#step-2" id="step-2"></a>
 
 1. **자료 업로드**에서 최종 파일 하나를 선택하거나 끌어 놓습니다.
@@ -55,6 +59,10 @@
 **업로드 완료는 자료에 파일이 연결·저장됐다는 뜻이 아닙니다.** 최종 완료에는 연결할 파일이 필요합니다. 파일 없이 정보만 임시 저장한 상태를 다운로드용 자료 준비 완료로 처리하지 않습니다. 마지막 단계에서 오류가 나도 일부 정보·파일 연결이 이미 저장됐을 수 있으므로 기존 목록/상세부터 확인하고 같은 자료를 중복 생성하지 않습니다.
 
 자료의 **게시 완료**는 콘텐츠 상태이며 상품 생성/판매 시작이 아닙니다. 관리자 현재 파일 다운로드는 구매자의 자료 권한·구매 버전·실제 수신 성공을 대신하지 않습니다. 상세 단계는 [디지털 자료·파일 관리하기](../content-management/digital-resource-and-files.md)를 따릅니다.
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-upload-and-save.png" alt="직접 작성한 예시 PDF의 업로드·검사 완료와 정가 입력 위치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/digital-resource-current-file.png" alt="저장된 예시 PDF의 현재 파일명·형식·용량과 게시 완료 상태. 다운로드는 실행하지 않음"><figcaption></figcaption></figure>
 
 ## 3. 디지털 자료 상품 연결하고 가격·과세 조건 정하기 <a href="#step-3" id="step-3"></a>
 
@@ -71,6 +79,10 @@
 
 자세한 구성은 [상품·콘텐츠 연결](../products-and-coupons/create-products-and-connect-content.md), 금액은 [가격·할인·수강 기간 설정하기](../products-and-coupons/price-discount-and-valid-days.md), 과세 입력은 [과세·면세 정보 설정하기](../products-and-coupons/tax-settings.md)를 참고합니다. 법률·세무 판단은 이 문서로 대신하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-saved-tax-settings-details.png" alt="예시 디지털 자료 상품의 5천원 구성 금액과 과세 유형 설정"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/product-created-and-sales-choice.png" alt="예시 디지털 자료 상품의 생성 완료와 비공개 저장·판매 시작 선택"><figcaption></figcaption></figure>
+
 ## 4. 판매 상태와 학생 상품 표시 확인하기 <a href="#step-4" id="step-4"></a>
 
 | 상황 | 할 일 | 확인할 결과 |
@@ -82,6 +94,8 @@
 자료 게시 완료·상품 판매 중과 실제 구매 가능은 별개입니다. 준비 안내가 남거나 판매 조건을 확인하지 못했다면 완료로 처리하지 않습니다. 파일/콘텐츠 문제를 해결했다고 중지 상품이 자동 재판매된다고 안내하지 않습니다. 자세한 기준은 [재고·판매 상태](../products-and-coupons/stock-and-sales-status.md)를 참고합니다.
 
 학생 PC/모바일에서 실제 상품 진입 경로·자료 구성·판본·가격/할인·파일 제공 안내를 대조합니다. 관리자 미리보기를 구매자 화면으로 대신하지 않습니다. 메뉴·페이지 공개와 상품 상태는 별개입니다. [페이지·메뉴 구성하기](../site-and-communication/pages-and-menus.md)의 안내에 따라 **편집 대상이 안전하게 구분되는지 확인하기 전에는 커스텀 빌더 진입·편집·저장·게시를 중단합니다.** 학생 화면에서 아직 확인되지 않은 항목은 수강생 가이드의 [상품 구성·가격·이용 기간](https://klekit.gitbook.io/learner-guide/purchase/product-and-access-period)과 함께 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/product-sales-status-and-readiness.png" alt="예시 디지털 자료 상품의 판매 중지와 판매자·정산 정보 보완 안내. 판매·구매 성공 예시가 아님"><figcaption></figcaption></figure>
 
 ## 5. 주문과 자료 권한 확인하기 <a href="#step-5" id="step-5"></a>
 

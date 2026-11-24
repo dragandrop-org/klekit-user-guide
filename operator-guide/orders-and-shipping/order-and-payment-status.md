@@ -25,6 +25,8 @@
 
 관리자 화면의 **결제/정산관리 → 결제 내역**으로 이동합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/order-payment-history-filters.png" alt="가상 학생 이름으로 검색한 기존 결제 내역의 전체·결제 완료·결제 취소 탭과 수단·금액·상태·결제일. 회원명은 가림"><figcaption></figcaption></figure>
+
 ## 1. 주문 찾기 <a href="#step-1" id="step-1"></a>
 
 1. 검색란에 **수강생 이름 또는 주문명**을 입력합니다.
@@ -55,6 +57,8 @@
 목록의 주문 행을 누르거나 관리 메뉴의 **상세 보기**를 선택합니다. 상세 상단에서 주문명·주문번호·주문자명과 필요한 연락처 정보를 확인합니다.
 
 동명이인이나 같은 상품의 반복 주문이 있을 수 있으므로 이름·상품명만으로 주문을 확정하지 않습니다. 주문번호·결제 금액·결제 시점을 함께 대조하세요.
+
+<figure><img src="../.gitbook/assets/screenshots/order-payment-detail-status.png" alt="기존 0원 주문 상세의 결제 완료·결제 없음·결제 일시. 주문번호·주문자명·연락처·이메일은 가림"><figcaption></figcaption></figure>
 
 ## 3. 결제 상태 확인하기 <a href="#step-3" id="step-3"></a>
 

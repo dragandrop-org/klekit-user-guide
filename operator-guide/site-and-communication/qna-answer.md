@@ -70,6 +70,8 @@
 
 등록 전 화면을 벗어나거나 새로고침하면 입력 내용을 다시 불러오지 못할 수 있습니다. 임시저장·자동저장에 의존하지 말고, 긴 답변은 개인정보 없는 작업본을 별도로 준비합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/qna-reply-editor-and-image.png" alt="답글 등록 전 예시 답변을 작성한 편집기와 답글 등록 버튼"><figcaption></figcaption></figure>
+
 ## 4. 답글 등록 시 적용할 상태 선택하고 결과 확인하기 <a href="#step-4" id="step-4"></a>
 
 1. **답글 등록 후 상태** 창에서 **답변 중 / 답변 완료** 중 하나를 선택합니다. 창을 열면 기본 선택은 **답변 중**입니다.

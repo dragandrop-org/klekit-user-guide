@@ -78,6 +78,8 @@
 
 운영 중지 화면의 안내만으로 실제 비공개 보호나 구독 취소를 보장하지 않습니다. 기존 학생·주문/수강권·금융/응답 기록에 영향이 있을 수 있는 변경은 소유자와 담당자가 별도 범위·조건을 확인합니다. 사이트 중지·재개·삭제를 검토할 때는 [사이트 중지·삭제](../members-and-operations/site-stop-and-delete.md)의 조건과 실행 보류 안내를 확인하세요.
 
+<figure><img src="../.gitbook/assets/screenshots/site-delete-empty-password-dialog.png" alt="사이트 삭제의 복구 불가 경고·빈 비밀번호·미선택 동의와 비활성 확인 버튼. 삭제는 실행하지 않음"><figcaption></figcaption></figure>
+
 ## 4. 현재 플랜·체험·변경 예약·진행 작업 확인하기 <a href="#step-4" id="step-4"></a>
 
 **플랜 관리**에서 현재 플랜·체험/이용 기간·예약·결제 실패/진행 안내를 나눠 확인합니다. 소유자의 변경 동작과 위임 운영자의 조회 범위는 다를 수 있습니다. 버튼이 없다는 이유만으로 구독 없음·기능 미지원으로 판단하지 않습니다.
@@ -116,6 +118,8 @@
 
 정상 기준은 [구독 결제수단·청구 내역](../subscription-and-usage/billing-method-and-payment-history.md)을 따릅니다. 판매자 계좌/정산 문제는 [판매자·계좌·정산 점검](seller-bank-and-settlement.md)으로 구분합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/billing-cards-and-current-plan.png" alt="현재 구독과 등록 카드의 사용 중 표시·보기 위치. 카드 번호는 가렸고 결제수단 변경은 하지 않음"><figcaption></figcaption></figure>
+
 ## 6. 사용량·예약량·현재 팩·다음 갱신 확인하기 <a href="#step-6" id="step-6"></a>
 
 **사용량 및 팩**에서 저장공간과 시청시간을 따로 확인합니다. 측정 시점/기간·단위, 실제 사용/예약·이용 가능량, 기본 플랜/체험·팩의 유효 한도와 다음 갱신 설정을 구분합니다. 조회 오류·값 누락을 사용량 0이나 무제한으로 보지 않습니다.
@@ -137,6 +141,8 @@
 저장공간 누적과 시청시간 집계 주기는 같은 기준이 아닙니다. 월 표시만으로 초기화 날짜를 정하거나 현재 플랜 기본 제공량에 선택 팩을 더해 실제 유효 한도를 확정하지 않습니다. 화면에 없는 예약량/시점·구매 단위 근거는 담당자가 확인하며, 파일 삭제·팩 구매/환불·플랜 변경을 시험 삼아 실행하지 않습니다.
 
 자세한 기준은 [사용량·추가 팩](../subscription-and-usage/usage-and-additional-packs.md)을 따릅니다. 업로드/영상 이용 자체의 문제는 [영상·자료·수강권 점검](video-resource-and-access.md)으로 구분합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/usage-history-and-period-basis.png" alt="저장·시청 사용량과 지난달·구독 주기의 기준 및 이력 부족 안내. 사용량 오류를 인위적으로 만들지 않은 화면"><figcaption></figcaption></figure>
 
 ## 7. 기다릴 조건과 문의할 조건 정리하기 <a href="#step-7" id="step-7"></a>
 

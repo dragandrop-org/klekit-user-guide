@@ -26,6 +26,8 @@
 
 관리자 화면의 **결제/정산관리 → 정산 설정**으로 이동합니다. 사업자 정보는 **운영 → 사이트 운영 정보 → 사업자 정보**에서 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-bank-account-verified.png" alt="계좌 인증 완료와 별도로 정산 활성화 신청이 필요한 기존 정산 설정. 계좌·예금주 정보는 가림"><figcaption></figcaption></figure>
+
 ## 1. 사업자 정보 준비하기 <a href="#step-1" id="step-1"></a>
 
 1. **사이트 운영 정보**의 **사업자 정보** 탭을 엽니다.

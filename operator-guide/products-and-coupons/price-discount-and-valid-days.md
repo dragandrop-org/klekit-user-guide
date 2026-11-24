@@ -79,6 +79,8 @@
 
 상품의 가격·기간을 바꿔도 기존 주문 금액이 자동으로 다시 계산되거나 이미 지급된 수강권이 연장됐다고 판단하지 마세요. 기존 구매자의 기간을 바꾸려면 필요한 권한과 별도의 처리 절차를 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/product-saved-price-and-duration.png" alt="생성한 예시 디지털 자료 상품을 다시 연 수정 화면에서 5천원·할인 없음·최종 가격을 확인한 상태. 저장·가격 변경은 하지 않음"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 콘텐츠별 구성 금액에 제공 수량을 적용해 합산한 결과가 상품 할인 전 합계와 일치합니다.

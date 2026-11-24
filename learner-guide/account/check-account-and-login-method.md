@@ -84,6 +84,8 @@
 
 보호자 명의 결제·같은 휴대폰·같은 자녀 이름만으로 다른 학생 계정에 강좌·자료 이용 권한이 자동으로 연결되지는 않습니다. 구매 내역 목록에 구매자 이메일이나 계정 통합 버튼이 제공된다고 가정하지 않습니다. 주문 상세는 [주문·결제 내역 확인하기](../orders/order-and-payment-history.md), 수강 시작 방법은 [내 강의 찾고 수강 시작하기](../learning/find-course-and-start.md)에서 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-account-purchase-course-check.png" alt="본인 계정의 내 학습에서 예시 강좌·수강 상태 필터·완료 수업 수와 진도율을 확인하는 화면"><figcaption></figcaption></figure>
+
 ## 6. 다른 계정이라면 변경 전에 멈추기 <a href="#step-6" id="step-6"></a>
 
 1. 사이트 주소와 프로필을 다시 확인합니다. 다른 사람의 계정이라면 수정·구매·수강을 중단합니다.

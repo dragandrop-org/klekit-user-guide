@@ -45,6 +45,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/site-forms-list-and-create-entry-pc-01.png" alt="사이트 폼의 빈 목록·검색·필터와 폼 만들기 진입 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/site-form-basic-information.png" alt="가이드 촬영용 설문의 관리자용 이름·사용자 노출 제목·설명 입력 예시"><figcaption></figcaption></figure>
+
 ## 2. 문항 추가하고 순서 정하기 <a href="#step-2" id="step-2"></a>
 
 1. **문항 추가**에서 필요한 종류를 선택합니다.
@@ -65,6 +67,10 @@
 
 현재 문항 목록에는 일반 파일 업로드 유형이 없습니다. 영상·PDF 첨부를 받을 수 있다고 가정하지 않습니다. 개별 문항 확인 화면과 상단 **폼 미리보기**는 다르며, 전체 폼 미리보기 버튼은 현재 비활성입니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-form-question-editor.png" alt="단답·질문형·선택형·숫자·척도 등 문항 타입 선택 창"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-question-editor-configured.png" alt="예시 복습 설문에 단일 선택·질문형 문항과 필수 여부·선택지·문항 순서 도구를 구성한 화면"><figcaption></figcaption></figure>
+
 ## 3. 응답 대상·기간·완료 화면 정하기 <a href="#step-3" id="step-3"></a>
 
 **폼 설정**에서 아래 항목을 정합니다. 게시 후 문항 편집이 잠기므로 접수 조건도 게시 전에 충분히 확인합니다.
@@ -81,6 +87,10 @@
 
 기간은 작업 중인 기기에 설정된 시간대를 기준으로 입력합니다. 한국 시간 기준으로 운영한다면 기기의 시간대가 `Asia/Seoul`인지 확인합니다. 저장 후 표시되는 날짜·시각과 실제로 접수가 시작·종료되는 시점을 다시 확인합니다. 화면이 항상 한국 시간으로 고정된다고 가정하지 않습니다. [프로모션](boards-and-notices.md)의 한국 시간 기준과는 입력 방식이 다릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-form-response-settings.png" alt="예시 설문에서 로그인 회원·1회 제출 권한과 응답 기간·수량을 설정하는 영역"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-response-settings-completion.png" alt="예시 설문의 제출 버튼 문구·완료 제목·설명과 기타 설정"><figcaption></figcaption></figure>
+
 ## 4. 최신 저장을 확인한 뒤 게시하기 <a href="#step-4" id="step-4"></a>
 
 1. 입력을 마친 뒤 `저장 중…`이 끝나고 **저장됨**이 표시되는지 확인합니다. 초안은 자동저장됩니다.
@@ -93,6 +103,10 @@
 저장 오류가 나면 안내 메시지와 입력 오류를 확인하고, 문제가 있는 입력 내용을 수정한 뒤 저장 결과를 다시 확인합니다. **저장됨**이 없다고 무조건 저장 실패인 것도 아니므로, 표시가 불명확하면 게시를 보류하고 재조회합니다. 충돌로 **새로고침**이 필요할 때는 미저장 문항·설정을 먼저 보존합니다. 화면을 닫거나 새로고침하기 전의 입력 내용이 자동으로 복원되거나 최신 저장본과 합쳐진다고 보장하지 않습니다.
 
 저장에 실패했거나 저장 중인 상태에서도 게시 요청이 이어질 위험이 남아 있으므로 최신 저장본·오류·동의 내용을 확인하기 전에는 게시하지 않습니다. 오류를 피하려고 새로고침·복제하거나 필요한 동의 문항을 삭제하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-save-publish-and-status.png" alt="자동 저장됨 표시와 별도로 게시 버튼이 있는 예시 폼 편집 화면"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-save-publish-and-status-published.png" alt="게시 후 응답 중 상태와 로그인 회원·1회 제출 정책이 표시된 예시 설문의 운영 정보"><figcaption></figcaption></figure>
 
 ## 5. 페이지 연결과 실제 접수 확인하기 <a href="#step-5" id="step-5"></a>
 
@@ -119,6 +133,8 @@
 **총 노출 / 제출 완료 / 제출 전환율**은 응답자 개인의 읽음·예약·결제 완료 지표가 아닙니다. 통계는 기간·유입 페이지를 기준으로 계산하며, 응답 목록의 검색어·회원/비회원 탭까지 같은 방식으로 적용되는 것은 아닙니다. 통계와 목록 건수가 다르면 먼저 조건 차이를 확인합니다.
 
 목록으로 돌아왔을 때 검색·필터가 그대로 유지된다고 보장하지 않습니다. 필요한 조건을 다시 확인합니다. 조회 오류를 응답 0건으로 해석하거나 권한 없는 다른 계정으로 원문을 열지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-response-list-and-filters.png" alt="예시 폼의 응답 데이터 탭에서 검색·필터·정렬과 아직 응답이 없는 초기 목록"><figcaption></figcaption></figure>
 
 ## 7. 접수 종료·내용 변경·응답 정리하기 <a href="#step-7" id="step-7"></a>
 

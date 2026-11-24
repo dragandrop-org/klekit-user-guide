@@ -113,6 +113,8 @@
 > **결제 내역 없음과 권한 제한을 구분합니다.**
 > 결제 내역을 볼 수 있는 범위는 소유자·매니저와 강사·스태프가 서로 다릅니다. 강사·스태프 계정에서는 실제 주문이 있어도 빈 내역이 표시될 수 있습니다. 탭이 보이거나 `결제 내역이 없습니다.`가 나온다는 이유만으로 미결제라고 안내하지 말고, 조회 권한이 있는 담당자가 해당 주문을 확인해야 합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/member-payment-history-and-access.png" alt="촬영용 가상 회원의 기존 결제 내역에서 주문명·금액·결제일·수단·상태를 확인하는 화면. 이메일·전화번호·주문번호는 가림"><figcaption></figcaption></figure>
+
 ## 6. 회원 메모 확인하고 저장하기 <a href="#step-6" id="step-6"></a>
 
 학습 질문 답변은 [Q&A](../site-and-communication/qna-answer.md)에 등록하세요.

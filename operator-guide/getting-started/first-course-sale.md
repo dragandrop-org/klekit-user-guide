@@ -45,6 +45,10 @@
 
 예제 요약은 `일차방정식의 개념을 익히고 기본 예제를 풉니다.`처럼 준비합니다. 수강생 이름·연락처·인증정보는 소개에 넣지 않습니다. 이미 같은 강좌를 만들었다면 목록에서 기존 대상을 확인하고 이어서 수정합니다. 상세 입력은 [강좌 등록·수정하기](../content-management/course-create-and-edit.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/course-basic-information-pc-01.png" alt="예시 강좌 콘텐츠의 썸네일·제목·요약·카테고리 입력 위치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/course-basic-information-pc-02.png" alt="예시 강좌 상세 소개와 다음 버튼. 판매 상품 생성과는 별도 단계"><figcaption></figcaption></figure>
+
 ## 2. 섹션·수업을 만들고 영상 연결하기 <a href="#step-2" id="step-2"></a>
 
 1. **섹션 및 수업 관리**에서 `일차방정식 기초` 섹션을 만듭니다.
@@ -56,6 +60,10 @@
  처리 중·실패 상태가 남으면 판매 준비가 끝난 것으로 판단하지 않습니다. 관리자 재생 확인도 구매자 권한의 재생 확인을 대신하지 않습니다.
 
 휴대폰 영상은 [업로드 파일 기준](../content-management/video-upload.md)을 먼저 확인하고, 필요하면 원본을 보관한 채 [영상 용량 줄이기](../content-management/video-optimization.md)로 별도 변환본을 준비합니다. 지원하는 확장자의 파일이라도 영상 압축 방식(코덱)에 따라 변환에 실패할 수 있습니다. 확장자 이름만 바꾸지 않습니다. 자세한 순서·공개 설정은 [커리큘럼 구성하기](../content-management/curriculum.md)를 참고합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/curriculum-sections-and-lessons-pc-01.png" alt="예시 강좌의 섹션·수업 제목과 영상 등록 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/curriculum-sections-and-lessons-pc-02.png" alt="커리큘럼 하단의 수업 추가·섹션 추가와 저장·완료 위치"><figcaption></figcaption></figure>
 
 ## 3. 강좌 저장·발행 결과 확인하기 <a href="#step-3" id="step-3"></a>
 
@@ -69,6 +77,8 @@
 
 강좌 상세의 **수업 추가**로 들어가면 작업본만 저장되는 경우가 있습니다. 모든 `완료` 버튼을 강좌 생성·수정 화면의 **최종 완료**와 같은 발행 동작으로 해석하지 않습니다. 공개 수업 설정도 모든 방문자 무료 시청을 뜻하지 않으며, 미리보기·구매자 수강 권한은 따로 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/course-published-detail-and-basic-information-pc-01.png" alt="기존 예시 강좌 콘텐츠의 게시 완료 상태와 기본 정보. 학생 재생 성공을 뜻하지 않음"><figcaption></figcaption></figure>
+
 ## 4. 판매 상품에 강좌 연결하기 <a href="#step-4" id="step-4"></a>
 
 1. 관리자 **상품 목록 → 상품 생성 → 상품 종류 선택**으로 이동합니다.
@@ -78,6 +88,10 @@
 5. 상품 입력 화면에서 연결한 강좌와 상품 제목·이미지·소개를 대조합니다.
 
 상품 제목이 강좌 제목과 비슷해도 **실제 연결된 강좌**를 확인합니다. 상품 생성 화면의 제공 수량은 콘텐츠당 1이며, 수량을 바꾸는 입력란이 있다고 가정하지 않습니다. 자세한 구성은 [상품 만들고 콘텐츠 연결하기](../products-and-coupons/create-products-and-connect-content.md)를 참고합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/first-course-product-content-link.png" alt="상품 생성에서 강좌 유형을 선택하는 화면. 강좌 콘텐츠 생성과 별도인 상품 생성 단계"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/first-course-product-content-link-selection.png" alt="상품에 포함할 예시 강좌 한 개를 선택한 콘텐츠 선택 창. 등록은 구성 선택이며 상품 생성 완료와는 별도"><figcaption></figcaption></figure>
 
 ## 5. 가격·수강 기간·과세 조건 정하고 생성하기 <a href="#step-5" id="step-5"></a>
 
@@ -96,6 +110,8 @@
 
 세부 입력은 [가격·할인·수강 기간](../products-and-coupons/price-discount-and-valid-days.md)과 [과세·면세 정보](../products-and-coupons/tax-settings.md)를 참고합니다. 이 문서는 과세 여부의 법률 판단을 대신하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/first-course-product-price-period-tax.png" alt="예시 강좌 상품의 유료 5만원·할인 없음·과세와 직접 입력 30일 수강 기간. 설명용 예시이며 판매는 시작하지 않음"><figcaption></figcaption></figure>
+
 ## 6. 판매 상태와 학생이 보는 상품 확인하기 <a href="#step-6" id="step-6"></a>
 
 | 상황 | 다음 작업 | 확인할 결과 |
@@ -109,6 +125,8 @@
 사이트에서 상품을 찾을 수 있는 경로와 상품 상세의 제목·포함 강좌·가격·기간을 PC/모바일에서 대조합니다. 공개 페이지·메뉴 연결과 상품 판매 상태는 별개입니다. 상품이 보이지 않으면 [페이지·메뉴](../site-and-communication/pages-and-menus.md)에서 기능 제공 범위와 실제 연결 상태를 확인합니다. 커스텀 빌더에서 선택한 페이지 대신 메인 페이지를 바꿀 위험이 있으므로, **담당자가 안전한 편집 방법을 확인하기 전에는 빌더 진입·편집·저장·게시를 중단하세요.** 관리자 미리보기를 학생 구매 화면으로 대신하지 않습니다.
 
 학생 상품 화면의 옵션·기간 표시와 실제 구성은 아직 확인이 필요합니다. 메뉴가 보이지 않거나 모바일에서 수강기한을 확인할 수 없다면 해당 기능이 제공된다고 가정하지 않습니다. 수강생 가이드의 [상품 구성·가격·이용 기간](https://klekit.gitbook.io/learner-guide/purchase/product-and-access-period)과 대조해 확인되지 않은 내용은 판매 안내 완료로 처리하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/first-course-sales-status-student-product.png" alt="예시 강좌 상품이 생성된 뒤 30일 수강 기한·5만원과 비공개로 저장·판매 시작을 구분하는 화면. 판매 시작은 하지 않음"><figcaption></figcaption></figure>
 
 ## 7. 결제와 실제 수강 확인하기 <a href="#step-7" id="step-7"></a>
 

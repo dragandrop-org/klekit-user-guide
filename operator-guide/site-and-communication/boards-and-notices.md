@@ -46,6 +46,8 @@
 
 > 공지사항에서 글을 찾고 공개 상태와 고정 여부를 확인합니다. 목록 제외만으로 상세 접근 보호를 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/notice-write-and-attachments.png" alt="예시 공지 제목·본문과 직접 작성한 PDF 첨부 44.1KB가 표시된 작성 전 화면. 비공개 스위치는 바꾸지 않았고 공지 작성은 실행하지 않음"><figcaption></figcaption></figure>
+
 ## 2. 공지 수정·상단 고정·정리하기 <a href="#step-2" id="step-2"></a>
 
 | 작업 | 순서·확인할 결과 |

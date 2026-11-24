@@ -83,6 +83,8 @@
 
 정상 확인 기준은 [정산 금액·지급 상태](../sellers-and-settlements/settlement-amount-and-payout-status.md)를 따릅니다. 필요한 정보가 보이지 않으면 같은 회차를 특정해 문의하고, 임의 주소 입력이나 다른 사이트의 회차를 열어 비교하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-list-and-period.png" alt="정산 회차 목록에서 상태·금액과 상세 진입을 확인하는 위치"><figcaption></figcaption></figure>
+
 ## 4. 매출·환불·수수료·세금·전체/페이지 금액 대조하기 <a href="#step-4" id="step-4"></a>
 
 **총 매출·순매출·정산 잔액·지급대상액은 같은 금액이 아닙니다.** 같은 회차의 원 금액 근거와 환불·수수료·이월·보류를 나누어 확인합니다. 현재 상품가나 수수료율로 과거 정산을 다시 계산하지 않습니다.
@@ -102,6 +104,8 @@
 화면의 **강좌 명/거래요약** 같은 제목만으로 모든 행을 강좌 하나·주문 하나라고 판단하지 않습니다. 교재·자료·혼합 주문의 원 거래와 구성품 근거를 구분합니다. 상세에 없는 주문별 표·보류/세금 근거가 필요하면 담당자가 같은 회차의 제공 가능한 범위를 확인합니다.
 
 금액 불일치나 근거 부족을 조회만으로 해결됐다고 표시하지 않습니다. 환불 진행 자체의 문제는 [취소·반품·교환 점검](cancellation-return-and-exchange.md)을 참고해 별도로 전달합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-financial-breakdown.png" alt="기존 0원 정산 회차의 금액과 세금 근거 확인 필요 안내. 누락값을 임의로 계산하지 않은 사례"><figcaption></figcaption></figure>
 
 ## 5. 정산 확정과 지급 접수·예약·완료 구분하기 <a href="#step-5" id="step-5"></a>
 
@@ -125,6 +129,8 @@
 상세의 **지급 계좌 정보** 한 영역만으로 세 계좌와 모든 지급 시도를 확인할 수 있는 것은 아닙니다. `계좌 정보 수정하기`로 이동할 수 있어도 신청 이후 편집·변경 반영·과거 지급 변경을 보장하지 않습니다. 지급 진행 또는 외부 결과 확인 중에는 계좌 반영이 보류될 수 있으므로 원 결과부터 확인합니다.
 
 ‘승인 완료’, ‘정산 가능’, ‘연동 정상’ 안내도 해당 회차의 지급 거래 성공 증거가 아닙니다. 지급 결과가 불명확하면 같은 회차·최신 지급 건을 담당자가 확인하고, 중복 지급·계좌 재제출·외부 지급 직접 요청을 해결책으로 쓰지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-payout-status-and-account.png" alt="금융 확정과 별도로 지급 대기·예정일 미정·계좌 반영 안내를 확인하는 화면. 실제 지급은 실행하지 않음"><figcaption></figcaption></figure>
 
 ## 6. 정산명세서·PDF·다른 금융 문서 구분하기 <a href="#step-6" id="step-6"></a>
 

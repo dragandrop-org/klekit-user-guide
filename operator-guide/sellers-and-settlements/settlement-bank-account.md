@@ -44,6 +44,8 @@
 
 인증이 실패하면 오류 안내와 입력 정보를 확인합니다. 계좌 정보가 화면에 남아 있어도 인증 완료로 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-bank-account-verified.png" alt="기존 계좌 인증 완료 상태와 현재 입력 계좌·PG 반영 계좌를 구분하는 정산 설정. 계좌번호·예금주는 가렸고 수정·인증·정산 활성화 신청은 하지 않음"><figcaption></figcaption></figure>
+
 ### 통장 사본은 필수인가요? <a href="#section-5" id="section-5"></a>
 
 **통장 사본 첨부는 클킷에서 선택 사항입니다.** 추가 보완을 요청받았거나 필요한 경우에만 해당 안내에 따라 준비합니다.

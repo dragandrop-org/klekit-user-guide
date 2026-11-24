@@ -58,6 +58,8 @@
 
 확인 후 필요한 연결·수업 생성·교체는 [강의 영상 업로드](../content-management/video-upload.md)의 정상 절차로 진행합니다. **연결 변경·연결 해제·파일 삭제는 서로 다르며**, 파일을 지웠다가 다시 올리는 방식을 기본 복구로 사용하지 않습니다. 진행 중인 전송이 화면을 닫아도 계속되거나 안전하게 취소된다고 보장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/video-upload-lesson-tab-pc-01.png" alt="수업에 연결된 현재 영상과 기존 영상 목록을 확인하는 위치. 새 업로드·연결은 실행하지 않음"><figcaption></figcaption></figure>
+
 ## 3. 저장·발행·공개 범위 확인하기 <a href="#step-3" id="step-3"></a>
 
 작업본에 있는 영상과 학생에게 발행된 영상은 다를 수 있습니다. 같은 수업명인지, 마지막 저장/발행 후 어떤 파일·영상 종류가 연결됐는지 확인합니다.
@@ -71,6 +73,8 @@
 | 계정별 결과 | 관리자/강사 미리보기와 구매/지급받은 학생의 실제 이용 권리 | 아래 4번 |
 
 관리자 미리보기에 성공해도 학생의 수강권·이용 기간 조건, 취소 관련 보류 여부, 시청 제한 여부까지 확인된 것은 아닙니다. 학생 문제를 재현하려고 강의실에 들어가거나 재생을 시작하면 진도·재생 세션/이용 근거가 생길 수 있습니다. 우선 기존 오류/안내와 저장·권리 상태를 대조합니다. 추가 재생 확인이 필요하다면 운영 책임자에게 별도로 요청하고, 실제 학생 계정으로 대신 접속하거나 확인용 이용 기록을 만들지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/curriculum-visibility-and-preview-pc-01.png" alt="영상이 보이지 않을 때 확인할 수업 공개·미리보기 메뉴 위치. 설정은 바꾸지 않은 화면"><figcaption></figcaption></figure>
 
 ## 4. 결제하거나 지급받았는데 강좌·자료가 없을 때 <a href="#step-4" id="step-4"></a>
 
@@ -91,6 +95,8 @@
 | 주문이 콘텐츠 준비 중 또는 결과 확인 필요 | 같은 주문의 현재 처리 상태와 유효 구성 확인. 자동 복구 시간이나 즉시 지급을 약속하지 않음 |
 
 수강권·자료 권리는 [구매 후 콘텐츠 지급](../orders-and-shipping/content-fulfillment-check.md)에서 확인하고, 수강권 변경 기준은 [수강권·기간 관리](../members-and-operations/enrollment-and-access-period.md)를 참고합니다. **문제 확인용 지급·기간 연장·회수·무료 재신청·재결제를 하지 않습니다.** 변경이 필요하다면 원인·기존 권리·영향 범위를 담당자가 먼저 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/member-enrollment-progress-and-status-pc-04.png" alt="이용 권한 문제를 확인할 때 보는 회원별 수강 상태·종료일·진도. 구매나 권리 복구를 완료한 예시는 아님"><figcaption></figcaption></figure>
 
 ## 5. 영상 준비 중·재생 오류·끊김을 구분하기 <a href="#step-5" id="step-5"></a>
 

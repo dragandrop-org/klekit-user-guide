@@ -116,6 +116,10 @@ SEO 설정은 소유자 여부와 이용 플랜에 따라 저장이 제한될 �
 
 검색 엔진이 내용을 수집해 검색 결과에 표시하는 과정과 외부 서비스가 저장해 둔 공유 정보를 갱신하는 과정은 클킷에 설정을 저장하는 것과 별개입니다. 저장 직후 검색 노출·순위·공유 이미지 갱신을 보장하지 않습니다. 약관을 메이저 버전으로 변경했다면 기존 회원의 실제 재동의 결과도 별도로 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-branding-visitor-result-mobile-terms.png" alt="모바일 사이트 하단의 서비스 이용약관 링크를 눌러 열린 실제 약관 화면과 사이트 로고. 약관 내용의 적정성이나 동의 완료를 뜻하지 않음" width="390"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-menu-visitor-desktop-mobile.png" alt="PC 사이트의 로고·상단 메뉴와 공지 목록에 적용된 실제 모습"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 다시 연 홈페이지 정보 설정에 사이트 이름·로고·파비콘이 각각 유지됩니다.
