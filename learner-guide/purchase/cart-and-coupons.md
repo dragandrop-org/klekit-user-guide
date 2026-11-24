@@ -55,6 +55,8 @@
 
 필요한 교재가 포함되었는지, 원치 않는 옵션이 담겼는지 확인할 수 없다면 **합계나 장바구니의 상품 개수만 보고 원하는 구성이 담겼다고 판단하지 않습니다**. 장바구니에서 옵션 선택·수량 변경이 항상 가능하다고 가정하지 말고 학원에 확인합니다. 목록/상세·PC/모바일·로그인 전후의 옵션 차이 때문에 삭제·재담기를 반복하는 방식도 해결책으로 단정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-cart-unavailable-item-selection-pc.png" alt="구매 불가 상품의 비활성 선택 상자·제거 버튼과 합계 제외 안내"><figcaption></figcaption></figure>
+
 ## 3. 보유 쿠폰과 조건 확인하기 <a href="#step-3" id="step-3"></a>
 
 1. **마이페이지 → 구매 내역 → 쿠폰**을 엽니다. PC와 모바일에서 쿠폰 메뉴 위치가 다를 수 있습니다.
@@ -140,6 +142,10 @@
 주문서 진입 또는 배송지 선택 뒤 주문 생성과 쿠폰/재고 예약 절차가 시작될 수 있고, 0원 주문도 신청 처리로 이어질 수 있습니다. 결제 버튼을 누르지 않았다는 이유로 아무 변경이 없다고 판단하지 않습니다. 이미 주문을 진행 중이라면 장바구니 왕복·새로고침·재주문으로 쿠폰을 풀려 하지 말고 기존 주문과 학원 안내를 먼저 확인합니다.
 
 구매조건 안내 문구와 결제 단계의 필수 동의는 구분합니다. 장바구니에 없는 동의 체크박스를 찾거나 문구가 보인다는 이유로 결제 단계 동의까지 끝났다고 보지 않습니다. 결제/무료 신청과 주문 결과 확인은 [결제 안내](payment-and-free-order.md)에서 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-cart-purchase-terms-readonly-pc.png" alt="장바구니에서 구매조건을 열어 읽는 창과 닫기 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/learner-cart-privacy-policy-readonly-pc.png" alt="장바구니에서 개인정보처리방침을 열어 읽는 창과 닫기 버튼"><figcaption></figcaption></figure>
 
 ## 문의할 때 준비할 정보 <a href="#contact-checklist" id="contact-checklist"></a>
 

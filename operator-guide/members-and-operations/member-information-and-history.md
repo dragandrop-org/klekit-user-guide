@@ -143,6 +143,8 @@
 
 CSV는 회원 데이터 파일입니다. 수강권 지급·연장·회수용 일괄 가져오기 파일이나 결제·환불 처리 파일, 모든 활동을 담은 백업 파일은 아닙니다. 실제 파일에 포함되는 회원 범위, 개인정보 원문·가림 처리와 유형 필터 적용 결과는 아직 확인이 필요합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/member-csv-entry-virtual-student-1080.png" alt="가상 회원 검색 결과와 CSV 다운로드 버튼 위치"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 조회할 사이트와 회원이 맞고 동명이인을 구분했습니다.

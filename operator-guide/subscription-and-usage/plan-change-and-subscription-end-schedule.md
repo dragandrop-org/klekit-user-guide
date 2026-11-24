@@ -85,6 +85,8 @@
 
 기능이나 한도를 맞추려고 파일·상품·운영자를 임의로 삭제하거나 팩 구매/환불을 실행하지 않습니다. 플랜 변경을 학생 수강권 회수·주문 환불로 처리하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/usage-current-plan-and-capacity-pc-01.png" alt="현재 플랜의 저장공간·시청시간 사용량과 유효 한도를 확인하는 위치"><figcaption></figcaption></figure>
+
 ## 4. 유지할 관리자 확인하기 <a href="#step-4" id="step-4"></a>
 
 대상 플랜의 관리자 수보다 현재 관리자가 많으면 **유지할 관리자 선택**이 나타날 수 있습니다.

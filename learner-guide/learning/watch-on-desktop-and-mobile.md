@@ -102,6 +102,8 @@
 
 같은 계정으로 재생했더라도 외부 서비스 자체의 기록·로그인 상태를 클킷의 기록으로 보지 않습니다. 학습 진도와 구매한 수강권의 환불 여부를 판단하는 데 쓰는 이용 근거는 서로 다릅니다. 상세한 기간/진도 확인은 [수강 기간과 학습 현황 확인하기](access-period-and-progress.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-selected-course-and-lecture.png" alt="일반 영상의 현재 위치 표시와 수업별 완료 표시가 함께 보이는 정지 화면"><figcaption></figcaption></figure>
+
 ## 재생이나 조작이 안 될 때 <a href="#section-9" id="section-9"></a>
 
 | 상황 | 확인할 것·다음 행동 |

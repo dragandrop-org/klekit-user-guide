@@ -140,6 +140,10 @@
 
 학생에게는 수강생 가이드의 [강의 첨부 자료 받기](https://klekit.gitbook.io/learner-guide/resources/lecture-materials)와 [구매하거나 지급받은 디지털 자료 이용하기](https://klekit.gitbook.io/learner-guide/resources/my-digital-resources)를 안내합니다. 실패한 단계는 수강생 가이드의 [자료 다운로드나 교재 배송에 문제가 있어요](https://klekit.gitbook.io/learner-guide/troubleshooting/resources-and-shipping)를 참고해 확인합니다. 강사의 수업 첨부파일 등록·교체는 [수업 첨부자료 등록 안내](../content-management/curriculum.md#lesson-attachment), 별도 구매·지급 자료의 파일 관리는 [디지털 자료·파일 관리](../content-management/digital-resource-and-files.md)에서 각각 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/reference-learner-digital-resource-entry.png" alt="수강생 내 학습에서 별도 디지털 자료 목록을 찾는 위치 예시"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/reference-learner-lecture-material-entry.png" alt="강의실 커리큘럼에서 수업 첨부 자료를 찾는 위치 예시"><figcaption></figcaption></figure>
+
 ## 7. 기다릴 조건과 문의할 조건 정리하기 <a href="#step-7" id="step-7"></a>
 
 같은 대상이 실제 처리 중이라고 확인되고 상태 갱신이 안내된 경우에만 그 결과를 기다립니다. 전송 대기·연결 누락·발행 미반영·이용 제한·조회 오류·확인 필요를 모두 기다리면 해결되는 상태로 묶지 않습니다. 고정 대기 시간·자동 복구를 약속하지 않습니다.
@@ -161,6 +165,8 @@
 > 학생의 원 주문은 완료로 보이고 강좌는 전체 목록에 있지만 별도 자료 C는 발급 오류가 납니다. 자료의 파일명·지급일과 기기/오류 시각을 정리했으며 반복 발급·재결제·권리 변경은 하지 않았습니다. 해당 권리와 제공 파일의 현재 이용 조건을 확인해 주세요.
 
 **비밀번호·인증번호·토큰·원본 영상/유료 자료·학생 명단·전체 연락처/주소·결제키·영상/다운로드/인증 URL·외부 공유 키·개발자 도구·네트워크 요청 기록 원문은 보내지 않습니다.** 승인되지 않은 파일 전송이나 보안 해제는 하지 않습니다. 저장 기록을 직접 고치거나 내부 처리 작업을 다시 실행하는 것도 이 안내의 해결 절차가 아니므로 담당자에게 확인을 요청하세요.
+
+<figure><img src="../.gitbook/assets/screenshots/video-resource-contact-example-document.png" alt="강좌·수업과 영상·자료 문제를 담당자에게 전달하는 가상 작성 예시"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

@@ -158,6 +158,8 @@
 
 문의 식별정보·금액·사유는 확인된 비공개 지원 경로에 필요한 최소한으로 제공합니다. **비밀번호·인증번호·토큰·학생 명단·전체 연락처/주소·전체 카드/계좌번호·결제키·서명된 자료 URL·배송 조회 URL·개발자 도구·네트워크 요청 기록 원문은 일반 문의에 보내지 않습니다.** 직접 저장 기록을 고치거나 내부 처리 작업을 다시 실행하지 않습니다. 별도 결제 취소·수동 이용 권한/재고 보정·중복 회수/배송도 이 안내의 해결 절차가 아니므로 담당자에게 확인을 요청하세요.
 
+<figure><img src="../.gitbook/assets/screenshots/cancellation-contact-example-document.png" alt="신청 단계와 실제 환불·회수 결과를 구분해 전달하는 가상 작성 예시"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 같은 사이트·구매 계정·원 주문의 신청 하나를 찾고 담당 권한을 확인했습니다.

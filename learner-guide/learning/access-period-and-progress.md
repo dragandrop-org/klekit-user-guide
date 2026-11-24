@@ -42,6 +42,8 @@
 
 상품의 수강기한, 수강권 지급 시점, 첫 재생 시점이 모두 같다고 가정하지 않습니다. 연장·재지급 안내를 받았는데 종료일이 다르면 강좌명과 현재 표시를 학원에 전달합니다. 학생 화면에서 기간을 직접 수정하거나 **다시 구매하기**로 연장을 시험하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-my-courses-entry.png" alt="내 학습 강좌 카드의 무제한 표시 예시"><figcaption></figcaption></figure>
+
 ## 3. 목록 필터와 실제 이용 권한 구분하기 <a href="#step-3" id="step-3"></a>
 
 **수강중·완료·만료는 목록을 찾기 위한 필터**입니다. 필터 결과만으로 현재 재생·자료 다운로드·질문 작성이 모두 가능한 것으로 판단하지 않습니다.
@@ -98,6 +100,8 @@
 
 학습 진도는 구매 상품의 **환불용 이용률·이용 근거**와 별도입니다. 진도가 0%이거나 완료 체크가 없더라도 이용하지 않았거나 전액 환불받을 수 있다고 단정하지 않습니다. 진도가 100%라는 표시만으로 환불 불가가 확정되지도 않습니다. 환불은 학원의 확인된 정책과 해당 주문의 판정을 따릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-selected-course-and-lecture.png" alt="일반 영상 재생기의 현재 시각 표시와 커리큘럼을 확인하는 정지 화면"><figcaption></figcaption></figure>
+
 ## 7. 현황이 예상과 다를 때 <a href="#step-7" id="step-7"></a>
 
 | 상황 | 확인할 것·다음 행동 |
@@ -120,6 +124,8 @@
 문의할 때는 학원 사이트 주소와 본인 계정 확인에 필요한 최소 정보, 강좌·수업 제목을 적습니다. 기간 문제라면 표시된 종료일을, 진도 문제라면 완료 수업 수·전체 수업 수·퍼센트를 알려 주세요. 확인 시각과 화면 문구, 선택한 필터도 적고, 사용한 기기와 브라우저, 일반 영상인지 YouTube·Vimeo 영상인지 함께 설명합니다. 목록과 목차가 다르면 두 화면을 구분하고 개인정보를 가립니다.
 
 **비밀번호·인증번호·로그인·접속에 쓰이는 인증정보(세션 정보·토큰)·영상/자료 URL·Vimeo 접근키는 보내지 않습니다.** 로그인할 수 없을 때는 로그인 후에만 이용할 수 있는 1:1 문의 대신 학원이 별도로 안내한 연락처로 문의합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learning-period-progress-contact-example-document.png" alt="기존 강좌 화면을 참고해 수강 기간·진도 문의를 정리하는 가상 작성 예시"><figcaption></figcaption></figure>
 
 ## 완료 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

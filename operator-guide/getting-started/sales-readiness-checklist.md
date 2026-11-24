@@ -20,6 +20,8 @@
 
 **적용 항목에 보완·확인 대기가 남아 있으면 판매 준비 완료로 판정하지 않습니다.**
 
+<figure><img src="../.gitbook/assets/screenshots/sales-readiness-status-example-document.png" alt="판매 준비 항목의 완료·보완·확인 대기·해당 없음 작성 예시"><figcaption></figcaption></figure>
+
 ## 1. 무엇을 판매할지 정하기 <a href="#step-1" id="step-1"></a>
 
 | 상품 구성 | 추가로 점검할 준비 | 해당 없음으로 둘 수 있는 항목 |
@@ -32,6 +34,8 @@
 강좌와 교재를 함께 구성한 상품은 **패키지**입니다. 패키지는 대표 구성 하나만 정상이어도 전체 준비 완료가 아닙니다.
 
 무료 상품과 할인·쿠폰 적용 후 결제할 금액이 0원인 유료 상품도 구분합니다. **0원이라는 결과만으로 플랜·판매자·주문 생성·제공 조건이 같다고 판단하지 않습니다.** 쿠폰은 사용할 때만 점검하며 판매 시작의 공통 필수 조건으로 두지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/sales-content-types-example-document.png" alt="강좌·교재·자료·패키지별 준비 범위의 가상 비교 예시"><figcaption></figcaption></figure>
 
 ## 2. 사이트·플랜·담당 권한 확인하기 <a href="#step-2" id="step-2"></a>
 
@@ -105,6 +109,8 @@
 
 배송비 정책 비활성화나 최초 배송비 0원은 배송 업무가 없다는 뜻이 아닙니다. 재고 부족에 따른 제한을 피하려고 가상의 입고를 기록하거나 예약 수량을 임의로 줄이지 않습니다. 재고·콘텐츠를 보완했다고 중지된 상품이 자동으로 판매 재개된다고 안내하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/textbook-shipping-readiness-example-document.png" alt="재고·예약·출고지·배송 조건을 따로 적는 가상 준비표"><figcaption></figcaption></figure>
+
 ## 6. 공개 화면·약관·문의 경로 준비하기 <a href="#step-6" id="step-6"></a>
 
 | 점검 항목 | 확인할 결과 | 관련 가이드 |
@@ -119,6 +125,8 @@
 메뉴 숨김이나 검색 로봇 차단은 페이지·회원 전용 자료의 접근 보호를 대신하지 않습니다. **커스텀 빌더는 선택한 페이지가 아닌 메인 페이지를 바꿀 위험이 있으므로 안전한 대상 구분이 확인되기 전에는 실행을 중단**합니다. 새 사이트의 템플릿 자동 발행 가능성도 [계정과 사이트 만들기](account-and-site-create.md)와 함께 확인하며, 판매 준비 중이라는 이유로 사이트가 비공개라고 가정하지 않습니다.
 
 약관의 **임시 저장**도 실제 변경을 등록할 수 있으므로 초안 보관용으로 사용하지 않습니다. 검토 중인 문구는 서비스 밖에서 작성합니다. 버전 변경·기존 회원 동의 영향과 실제 방문자 반영은 별도로 확인하며, 이 문서는 법률 판단이나 정책 승인을 대신하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-exposure-readiness-example-document.png" alt="저장·발행·메뉴·접근·문의 연결을 나누는 가상 준비표"><figcaption></figcaption></figure>
 
 ## 7. 구매 후 제공할 내용 확인하기 <a href="#step-7" id="step-7"></a>
 
@@ -146,6 +154,8 @@
 | 판매 준비 판정 | 적용 항목의 확인 결과와 미해결 여부를 책임 담당자가 검토 | 적용 조건에 보완·확인 대기가 남으면 완료 보류 |
 
 확인 기록에는 **대상 사이트·상품, 확인 날짜, 담당자, 결과와 남은 조건**을 적습니다. 해당 없음 항목에는 이유를 남깁니다. 상품 구성·가격·기간·파일·재고·배송 정책·플랜·권한·공개 설정이 바뀌면 영향을 받는 항목을 다시 확인합니다. 예전 캡처나 다른 상품의 완료 표시를 그대로 재사용하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/sales-start-decision-example-document.png" alt="설정 입력과 실제 이용 확인을 구분한 가상 판매 준비 판단표"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

@@ -100,6 +100,8 @@
 
 일반 영상과 YouTube/Vimeo 같은 외부 영상은 재생 화면·기록 방식이 다릅니다. 모든 영상의 자동 재생·동일 위치 이어보기·진도 저장을 보장하지 않습니다. 기기별 재생 조작은 [PC·모바일에서 영상 보기](watch-on-desktop-and-mobile.md)를 참고합니다. 수강 기간·학습 현황은 [수강 기간과 학습 현황 확인하기](access-period-and-progress.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-player-lesson-navigation.png" alt="기존 일반 영상의 정지 화면과 강좌 소개 복귀·이전·다음 수업 버튼 위치"><figcaption></figcaption></figure>
+
 ## 강좌가 없거나 수강을 시작할 수 없을 때 <a href="#section-8" id="section-8"></a>
 
 | 상황 | 확인할 내용·다음 행동 |

@@ -80,6 +80,8 @@
 
 강의 자료와 다운로드 주소는 다른 사람에게 공유하지 않습니다. 자료를 받았다고 재배포·공개 업로드가 허용되는 것은 아니며 학원이 안내한 사용 범위를 따릅니다. 받은 파일이 이후 교체/수정될 때 기기에 자동 갱신되는 것으로 보지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/lecture-material-content-comparison-example-document.png" alt="직접 제작한 함수의 극한 예시 자료의 제목·수업·내용을 확인하는 비교 예시"><figcaption></figcaption></figure>
+
 ## 자료를 받지 못했을 때 <a href="#section-8" id="section-8"></a>
 
 | 상황 | 확인할 것·다음 행동 |

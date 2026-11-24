@@ -140,6 +140,8 @@ PC·iPhone·Android·앱 내 브라우저는 저장 메뉴·위치가 같지 않
 
 기존 구매자에게 수정본을 제공해야 하면 대상·제공 방법을 별도로 확인합니다. 전체 버전 선택·복원·일괄 재지급 화면이 제공된다고 가정하지 않습니다. **파일명만으로 같은 버전인지 판단하지 않으며** 원 주문·권리 연결과 실제 내용으로 대조합니다. 파일 교체·자료 중지/삭제·상품 판매 중지·기존 권리 회수는 서로 다른 작업입니다.
 
+<figure><img src="../.gitbook/assets/screenshots/digital-file-version-comparison-example-document.png" alt="기존 구매자·결제 대기·새 주문과 관리자 현재 파일을 나누어 대조하는 가상 예시"><figcaption></figcaption></figure>
+
 ## 자주 막히는 부분 <a href="#troubleshooting" id="troubleshooting"></a>
 
 | 상황 | 먼저 확인할 것 |

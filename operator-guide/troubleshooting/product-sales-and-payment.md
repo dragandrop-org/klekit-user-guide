@@ -22,6 +22,8 @@
 
 사이트·계정이 다르거나 타인의 주문/개인정보가 보이면 열람·변경을 중단합니다. 강사·질답조교에게 조회 권한이 없다면 학생 비밀번호를 받거나 다른 계정으로 우회하지 말고 학원의 지정 운영자에게 전달합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/reference-visitor-product-catalog-empty-pc.png" alt="방문자 상품 목록의 전체 유형과 등록된 상품 없음 안내 예시"><figcaption></figcaption></figure>
+
 ## 1. 상품이 보이지 않을 때 <a href="#step-1" id="step-1"></a>
 
 1. 학생이 이용 중인 학원 사이트와 관리 중인 사이트가 같은지 확인합니다. 상품명과 실제 연결한 콘텐츠명도 대조합니다.
@@ -74,6 +76,8 @@
 쿠폰이 만들어졌거나 회원에게 발급됐다는 안내만으로 이번 주문에 적용된 것은 아닙니다. 쿠폰의 유효기간·최소 금액·적용/예약·사용 상태를 확인하고, 일부 발급이나 적용 결과가 불명확하면 같은 쿠폰·대상 내역을 먼저 확인합니다. 반복 발급이나 다른 쿠폰 생성으로 기존 주문 문제를 해결하지 않습니다.
 
 가격·할인·쿠폰 조건은 [가격·할인·기간](../products-and-coupons/price-discount-and-valid-days.md), [과세·면세 설정](../products-and-coupons/tax-settings.md), [쿠폰 만들고 발급하기](../products-and-coupons/create-and-issue-coupons.md)에서 확인합니다. 학생에게는 수강생 가이드의 [장바구니와 쿠폰 이용하기](https://klekit.gitbook.io/learner-guide/purchase/cart-and-coupons)를 안내합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/reference-cart-unavailable-item-selection-pc.png" alt="구매 불가 상품이 장바구니 선택과 합계에서 제외되는 화면 예시"><figcaption></figcaption></figure>
 
 ### 조건 변경 안내가 나오면 <a href="#section-5" id="section-5"></a>
 
@@ -150,6 +154,8 @@
 > 기존 주문은 결제 결과 확인 중으로 보이고 학생은 같은 금액의 승인 안내를 받았습니다. 원 주문번호·시각·수단 종류를 정리했으며 재결제·무료 재신청·수동 지급은 하지 않았습니다. 해당 주문의 승인 결과와 후속 제공 상태를 확인해 주세요.
 
 상품명·원 주문번호 등 문의 대상을 구분하는 정보는 확인된 비공개 지원 경로에 필요한 최소한으로 제공합니다. **비밀번호·인증번호·토큰·결제키·전체 카드/계좌번호·전체 주소·학생 명단·인증/결제 결과/다운로드 URL·개발자 도구·네트워크 요청 기록 원문은 보내지 않습니다.** 저장 기록을 직접 고치거나 내부 복구·재처리 작업을 실행하지 말고 담당자에게 확인을 요청하세요.
+
+<figure><img src="../.gitbook/assets/screenshots/sales-payment-contact-example-document.png" alt="가상 상품의 판매 준비 문제를 담당자에게 전달하는 작성 예시"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

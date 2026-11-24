@@ -150,6 +150,8 @@
 
 **비밀번호·인증번호·토큰·학생 명단·전체 수령인 연락처/주소·송장/배송 조회 URL·결제키·전체 카드/계좌번호·CSV 원문·개발자 도구·네트워크 요청 기록 원문은 일반 문의에 보내지 않습니다.** 저장 기록을 직접 고치거나 내부 처리 작업을 다시 실행하지 않습니다. 임의 배송 복원·중복 출고·무단 반송/재배송도 이 안내의 해결 절차가 아니므로 담당자에게 확인을 요청하세요.
 
+<figure><img src="../.gitbook/assets/screenshots/shipping-contact-example-document.png" alt="주문·배송지 문제와 실행하지 않은 처리를 구분한 가상 전달 예시"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 같은 사이트의 원 주문·배송 건을 찾고 담당 조회/변경 권한을 확인했습니다.

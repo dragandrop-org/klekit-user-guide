@@ -42,6 +42,8 @@
 
 정상 확인은 [운영자 지정·역할 관리](../members-and-operations/operator-assignment-and-roles.md)를 따릅니다. **학생의 로그인 문제**는 수강생 가이드의 [로그인이나 계정 확인이 안 돼요](https://klekit.gitbook.io/learner-guide/troubleshooting/login-and-account)로 연결합니다. 운영자·플랫폼 계정의 로그인에는 학생용 복구 절차를 그대로 적용하지 않고 해당 계정/로그인 방식과 공식 안내를 담당자가 확인합니다. 구매 후 접근 문제는 [영상·자료·수강권 점검](video-resource-and-access.md)에서 별도로 확인합니다. 학생에게 관리자 권한을 주거나 수강권을 재지급해 해결하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/operator-list-search-and-actions-pc-01.png" alt="운영자 목록에서 현재 역할을 확인하는 위치와 소유자 표시 예시"><figcaption></figcaption></figure>
+
 ## 2. 저장·게시·공개·메뉴·방문자 결과 나누기 <a href="#step-2" id="step-2"></a>
 
 최신 저장 상태와 노출 대상·기기를 비교합니다. 보이지 않는다는 이유로 공개 범위를 넓히거나 재게시하지 않습니다.
@@ -169,6 +171,8 @@
 > 카드 등록 결과 화면에는 실패 안내가 있지만 원 등록/외부 처리 결과는 확인되지 않았습니다. 현재 카드/플랜 상태와 원 요청 시각을 정리했고 카드 등록 결과 화면 재진입·재인증·새 구독/팩 결제는 하지 않았습니다. 원 카드 등록과 실제 청구 결과를 나누어 확인해 주세요.
 
 식별정보·금액·카드 끝자리는 확인된 비공개 지원 경로에 필요한 최소한으로 제공합니다. **비밀번호·인증번호·토큰·쿠키·학생 명단·비밀 질문/첨부·폼 응답 원문·전체 카드/계좌번호·인증·결제 연결 정보·PG/영수증/다운로드 URL·개발자 도구·네트워크 요청 기록 원문은 일반 문의에 보내지 않습니다.** 문제 해결을 위해 권한 확대·강좌 이관·빌더 저장/게시·사이트 삭제·중복 결제/팩 환불을 실행하지 않습니다. 화면에 표시된 금액을 읽고 비교하는 점검과 달리, 저장 기록을 직접 고치거나 시스템 내부의 재처리·금액 대조 작업을 실행하는 것은 이 안내의 해결 절차가 아닙니다. 이런 작업이 필요하다고 생각되면 직접 실행하지 말고 담당자에게 확인을 요청하세요.
+
+<figure><img src="../.gitbook/assets/screenshots/site-subscription-contact-example-document.png" alt="사이트·구독·사용량의 확인 범위를 전달하는 가상 작성 예시"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

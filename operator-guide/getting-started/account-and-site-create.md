@@ -31,6 +31,10 @@
 
 이메일 가입에서는 계정 생성 후 로그인도 이어서 처리됩니다. 중간에 오류가 나도 **계정이 전혀 생성되지 않았다고 단정해 다시 가입하지 않습니다.** 기존 가입 여부와 정상 로그인 경로를 먼저 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/platform-signup-method-selection-1080.png" alt="클킷 플랫폼 회원가입의 이메일·카카오·구글 가입 방식 선택"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/platform-signup-email-verification-before-request.png" alt="플랫폼 이메일 회원가입의 비어 있는 이메일 입력란과 인증·취소 버튼"><figcaption></figcaption></figure>
+
 ## 2. 새 사이트와 중단한 설정 구분하기 <a href="#step-2" id="step-2"></a>
 
 플랫폼의 **운영중인 홈페이지** 목록에서 같은 이름·주소의 사이트가 이미 있는지 확인합니다.
@@ -43,6 +47,8 @@
 | 목록 조회 오류·대상이 불명확함 | 계정·조회 결과부터 확인합니다 | 빈 목록이나 오류를 근거로 중복 생성하지 않습니다 |
 
 모바일에서는 해당 사이트의 **더보기** 안에 **설정 계속하기 / 관리페이지 / 홈페이지**가 표시될 수 있습니다. **사이트 삭제**는 설정 재개나 진입 오류를 해결하는 버튼이 아닙니다.
+
+<figure><img src="../.gitbook/assets/screenshots/platform-site-list-and-create-entry-pc.png" alt="운영 중인 촬영용 사이트의 관리페이지·홈페이지 버튼과 새 페이지 만들기 위치"><figcaption></figcaption></figure>
 
 ## 3. 사이트 이름·주소 확인하고 생성하기 <a href="#step-3" id="step-3"></a>
 
@@ -62,6 +68,10 @@
 5. 생성된 사이트의 이름·주소를 확인하고 운영정보 설정으로 이동합니다.
 
 생성 요청이 끊기거나 오류가 나면 기존 사이트 목록·설정 계속하기를 먼저 확인합니다. 이름/주소를 바꿔 반복 생성하거나 기존 사이트를 삭제해 다시 시작하지 않습니다. 앞 단계가 저장된 사이트에서는 이름·주소 입력이 잠길 수 있습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/platform-site-name-address-before-create-pc.png" alt="예시교육 이름·example-academy 주소와 전체 주소 미리보기"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/platform-site-address-confirmation-before-create-pc.png" alt="사이트 주소는 생성 이후 변경할 수 없다는 확인창과 취소·사이트 생성하고 계속하기 버튼"><figcaption></figcaption></figure>
 
 ## 4. 대표 과목·사이트 설명 저장하기 <a href="#step-4" id="step-4"></a>
 
@@ -93,6 +103,8 @@
 4. 관리자 진입과 방문자 홈페이지의 실제 표시·공개 결과를 따로 확인합니다. 진입 성공은 판매자 승인·상품 판매·학생 이용 준비의 증거가 아닙니다.
 
 관리페이지 이동은 별도 인증과 새 탭 이동을 포함합니다. 인증에 쓰이는 주소나 관리페이지 로그인용 인증정보(SSO 토큰)를 공유하지 않습니다. 로그인 후 관리페이지로 돌아갈 때 사용한 주소를 저장해 다시 사용하지 않습니다. 탭이 열리지 않거나 권한 오류가 나면 대상 사이트·로그인 계정·브라우저 안내와 기존 결과를 먼저 확인하고, 사이트 재생성·타인 계정 사용·브라우저 보안 전체 해제로 우회하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/platform-site-mobile-more-management-entry.png" alt="모바일 폭에서 촬영용 사이트 더보기를 열었을 때의 홈페이지·관리페이지 메뉴" width="390"><figcaption></figcaption></figure>
 
 ## 자주 막히는 부분 <a href="#troubleshooting" id="troubleshooting"></a>
 
