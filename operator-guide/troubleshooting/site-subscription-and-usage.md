@@ -62,6 +62,8 @@
 
 관련 기준은 [기본 정보](../site-and-communication/site-basic-information.md)·[페이지/메뉴](../site-and-communication/pages-and-menus.md)·[게시판/공지](../site-and-communication/boards-and-notices.md)·[Q&A 답변](../site-and-communication/qna-answer.md)·[폼/응답](../site-and-communication/site-form-create-and-responses.md)·[상담 채널](../site-and-communication/connect-inquiry-channel.md)을 따릅니다. 기존에 실행을 보류한 기능은 이 안내만으로 실행하지 않습니다. 접근 보호가 확인되지 않은 기능도 보호가 완료됐다고 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/custom-board-unlinked-pages.png" alt="사용자 정의 게시판에 연결된 페이지가 없는 상태의 연결 페이지 목록"><figcaption></figcaption></figure>
+
 ## 3. 운영 중지·구독 종료 예약·삭제 구분하기 <a href="#step-3" id="step-3"></a>
 
 **사이트 운영 상태, 유료 구독 종료 예약, 사이트 삭제는 서로 다른 업무**입니다. 접근이 안 된다는 이유로 상태를 중지/재개하거나 삭제·재생성하지 않습니다.
@@ -98,6 +100,8 @@
 **변경 예약 취소·재결제**는 현재 결과를 읽는 버튼이 아니라 실제 변경·청구 요청입니다. 예약을 취소해 원인을 확인하거나 실패/유예 안내만 보고 재결제하지 않습니다. 체험 만료·유료 기간·다음 결제일·변경 예약 시각도 같은 날짜로 보더라도 각각의 의미를 확인합니다.
 
 플랜·구독 기준은 [플랜/무료체험·구독 시작](../subscription-and-usage/plan-trial-and-subscription-start.md)과 [플랜 변경·구독 종료 예약](../subscription-and-usage/plan-change-and-subscription-end-schedule.md)을 따릅니다. 현재 가격·제공량·허용된 작업은 해당 사이트의 최신 확인 결과를 기준으로 판단합니다. 확인하지 못했다면 담당자에게 문의하고, 확인 전에는 임의 수치로 판단하거나 안내하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/plan-catalog-current-and-trial-labels-pc-01.png" alt="플랜 관리에서 현재 플랜과 선택 가능한 플랜·체험 안내를 확인하는 위치"><figcaption></figcaption></figure>
 
 ## 5. 카드 등록·현재 선택·구독 청구 결과 구분하기 <a href="#step-5" id="step-5"></a>
 

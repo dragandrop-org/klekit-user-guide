@@ -136,6 +136,8 @@
 
 하위 메뉴를 다른 상위 메뉴로 끌어 옮길 수 있다고 가정하지 않습니다. 저장 전 다른 메뉴를 선택하면 입력 중인 값이 바뀔 수 있으므로 한 메뉴씩 저장하고 이동합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-menu-reorder-mode-before-change.png" alt="상위 메뉴 순서 변경 모드와 순서 변경 완료 버튼"><figcaption></figcaption></figure>
+
 ## 6. 방문자 화면과 직접 URL 확인하기 <a href="#step-6" id="step-6"></a>
 
 PC·모바일에서 메뉴 이름·상하위 구조·순서와 링크 결과를 확인합니다. 메뉴를 눌러 이동한 주소가 설정한 페이지 URL인지, 내용이 의도한 발행본인지 대조합니다. 로그인 회원과 비회원의 결과도 필요한 범위에서 각각 확인합니다.

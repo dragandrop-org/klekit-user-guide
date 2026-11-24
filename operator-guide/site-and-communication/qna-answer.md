@@ -85,6 +85,8 @@
 
 **답변 완료는 학생에게 알림이 도착했거나 학생이 읽었다는 뜻이 아닙니다.** 이메일·앱 알림·문자 등의 자동 발송이나 읽음 확인은 이 절차의 완료 결과로 보장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/qna-reply-status-dialog-options.png" alt="답글 등록 후 상태 창의 기본 답변 중과 답변 완료 선택지"><figcaption></figcaption></figure>
+
 ## 5. 상태만 변경하거나 추가 답글 달기 <a href="#step-5" id="step-5"></a>
 
 답글 없이 상태만 바꾸려면 상세의 **답변 상태 변경**을 사용합니다. 상태 변경 권한이 있는 계정에 표시됩니다.

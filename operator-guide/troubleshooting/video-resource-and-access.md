@@ -40,6 +40,8 @@
 
 용량을 줄일 필요가 있으면 [영상 용량 줄이기](../content-management/video-optimization.md)를 참고해 원본과 별도의 변환본을 준비합니다. 권장 설정이 서비스의 필수 규격이나 모든 영상의 처리 성공을 보장하는 것은 아닙니다. 실제 재업로드·교체는 기존 파일/연결 결과를 확인한 뒤 담당자가 필요한 범위에서 진행합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/video-bulk-upload-empty-unlinked-library-pc-01.png" alt="영상 업로드 창의 파일 형식·파일당 5GB 안내와 비어 있는 미연결 영상 목록"><figcaption></figcaption></figure>
+
 ## 2. 업로드 완료와 수업 연결을 나누기 <a href="#step-2" id="step-2"></a>
 
 같은 강좌의 업로드 목록과 대상 수업의 연결 파일을 먼저 대조합니다. 파일명만 같아도 다른 파일일 수 있으므로 보이는 크기·날짜·길이와 업로드 시점을 함께 확인합니다.

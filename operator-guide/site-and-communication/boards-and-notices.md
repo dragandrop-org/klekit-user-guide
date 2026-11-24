@@ -175,6 +175,12 @@ PC·모바일 **메인 화면**에서 이미지·본문·닫기·자세히 보�
 
 성과 요약의 **노출 수 / CTA 클릭 수 / 클릭률**은 노출·클릭 기록을 모은 수치입니다. **CTA 클릭 수**는 **자세히 보기** 같은 이동 버튼을 누른 횟수입니다. 실제 학생 수·읽음 완료·구매 건수와 같지 않습니다. 성과를 비교할 때는 집계 시점을 구분합니다. 중복 기록이나 브라우저의 집계 정보 전송 실패가 수치에 영향을 주었는지는 담당자에게 확인을 요청합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-visitor-layer-pc-1080.png" alt="PC 메인에 표시된 예시 프로모션의 우측 레이어 팝업과 닫기·자세히 보기"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-visitor-bottom-sheet-mobile.png" alt="모바일 메인에 표시된 예시 프로모션의 하단 바텀시트와 닫기·자세히 보기" width="390"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-promotion-stopped-after-filming.png" alt="PC·모바일 확인 후 게시 중지한 예시 프로모션의 상세 상태와 성과 요약"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 공개 공지의 내용·상태·첨부를 다시 확인했고 비공개를 접근 보호·임시저장으로 사용하지 않았습니다.

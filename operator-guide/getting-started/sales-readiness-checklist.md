@@ -56,6 +56,10 @@
 
 사업자등록증·통장 사본은 클킷에서 선택 제출하는 증빙입니다. 추가 보완 요청과 현재 화면의 저장 조건 차이는 각 가이드에 따라 확인하고, 항목을 완료로 표시하려고 불필요한 서류를 올리지 않습니다. 무료 상품이나 쿠폰 후 0원 주문의 판매자 조건이 불명확하면 `해당 없음`으로 넘기지 말고 적용 여부를 확인합니다. 법적 자격·신고 의무는 이 문서만으로 판단하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/seller-activation-prerequisites-before-submission-pc-01.png" alt="판매자 신청 전 필수 준비 항목과 미완료·계좌 인증 완료 표시"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-bank-account-verified.png" alt="계좌 인증 완료와 PG 반영 전 상태를 구분하는 정산 계좌 화면"><figcaption></figcaption></figure>
+
 ## 4. 콘텐츠와 판매 상품 준비하기 <a href="#step-4" id="step-4"></a>
 
 ### 포함 콘텐츠 점검 <a href="#section-6" id="section-6"></a>

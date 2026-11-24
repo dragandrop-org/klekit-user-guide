@@ -44,6 +44,8 @@
 
 정상 준비 기준은 [판매자 등록·심사](../sellers-and-settlements/seller-registration-and-review.md)를 따릅니다. 승인 이후 상품의 판매 준비 문제는 [상품 판매·결제 점검](product-sales-and-payment.md)에서 별도로 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/seller-activation-prerequisites-before-submission-pc-01.png" alt="판매자 신청 전 사업자 정보·계좌 인증 등 필수 준비 상태 확인 위치"><figcaption></figcaption></figure>
+
 ## 2. 계좌 입력·인증·외부 반영 따로 확인하기 <a href="#step-2" id="step-2"></a>
 
 **화면에 계좌 값이 남아 있는 것, 저장된 것, 실명 인증된 것, 외부 정산에 반영된 것은 다릅니다.** 계좌 인증 요청에서도 먼저 입력이 저장될 수 있어, 인증 실패 안내가 나와도 이전 계좌가 그대로 유지됐다고 단정하지 않습니다.
@@ -62,6 +64,8 @@
 화면의 **인증 초기화**나 편집 취소도 외부 계좌 반영 취소·이전 계좌 복원의 증거가 아닙니다. 저장/인증/변경 결과가 서로 다르면 최신 조회와 원 요청을 담당자가 대조합니다. 외부 반영 여부를 확인하기 위해 내부 기록을 대조하거나 재처리를 요청하는 일은 단순 조회와 다릅니다. 이를 사용자가 직접 누를 수 있는 복구 버튼처럼 안내하지 않습니다.
 
 현재 입력 계좌·적용된 계좌·지급 요청 당시 계좌는 아래 5번처럼 구분합니다. 계좌 등록·변경 절차는 [정산 계좌 등록·변경](../sellers-and-settlements/settlement-bank-account.md)에서 확인합니다. 화면에 없는 계좌 상태/버전 표시를 있다고 가정하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-bank-account-verified.png" alt="계좌 인증 완료와 외부 계좌 반영 전 표시를 비교하는 위치"><figcaption></figcaption></figure>
 
 ## 3. 같은 정산월·회차 찾기 <a href="#step-3" id="step-3"></a>
 

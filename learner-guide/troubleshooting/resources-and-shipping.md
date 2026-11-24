@@ -17,6 +17,8 @@
 
 같은 이름의 자료라도 제공 위치가 다를 수 있습니다. **교재 상품을 구매했다고 파일이 생기거나, 강좌를 구매했다고 모든 별도 자료가 지급되는 것은 아닙니다.** 상품 구성과 학원 안내를 먼저 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-notice-attachment-example-pc.png" alt="예시 공지 본문 아래에 표시된 첨부파일 이름과 다운로드·미리보기 위치"><figcaption></figcaption></figure>
+
 ## 1. 사이트·계정과 제공 범위 확인하기 <a href="#step-1" id="step-1"></a>
 
 구매하거나 지급받은 학원 사이트와 기존 본인 계정인지 확인합니다. 로그인이 안 되면 [로그인·계정 문제 해결 안내](login-and-account.md)를, 강좌나 자료 자체가 목록에 없으면 [구매한 강의·자료 확인 안내](missing-purchased-content.md)를 먼저 봅니다.
@@ -59,6 +61,8 @@
 실제로 자료가 필요할 때만 정상 다운로드 절차를 진행합니다. **자료를 다운로드하시겠어요?** 확인창은 주소 발급 후 단순 취소가 제한될 수 있고, 발급된 주소가 **10분** 동안 유효하다고 안내합니다. 확인창을 열기만 한 것과 최종 다운로드 실행은 다릅니다. 강의 첨부·공지 파일도 같은 유효시간이라고 가정하지 않습니다.
 
 최종 실행 뒤 파일이 저장되지 않거나 응답을 받지 못했어도 발급 이력이 남았을 수 있습니다. **파일을 못 받았다는 사실만으로 미사용·취소 가능을 확정하지 않습니다.** 취소 관련 확인은 [상품 취소·환불 안내](../cancellations/request-cancellation.md)를 참고해 학원에 요청합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/learner-digital-resource-entry.png" alt="내 학습의 디지털 자료 목록에서 확인하는 상태 필터와 지급된 자료 없음 안내"><figcaption></figcaption></figure>
 
 ## 4. 창은 열렸는데 파일이 없거나 안 열릴 때 <a href="#step-4" id="step-4"></a>
 

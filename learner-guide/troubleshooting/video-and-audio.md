@@ -16,6 +16,8 @@
 
 PC의 **커리큘럼**, 모바일의 **목차**가 영상을 가리면 **패널 닫기**를 누릅니다. 영상 재생·일시정지는 재생기에서 조절합니다. 자세한 조작은 [PC·모바일에서 영상 보기](../learning/watch-on-desktop-and-mobile.md)를 참고합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-curriculum-desktop-and-mobile.png" alt="강의실 커리큘럼 패널의 강좌·수업 제목과 닫기 위치" width="360"><figcaption></figcaption></figure>
+
 ## 1. 로그인과 이용 제한부터 구분하기 <a href="#step-1" id="step-1"></a>
 
 | 표시·상황 | 먼저 할 일 | 하지 않을 일 |

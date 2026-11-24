@@ -104,6 +104,8 @@
 | 결제/주문 완료 | 승인 금액과 구매 구성·실제 제공 결과 | 아래 5번에서 권리·배송과 별도로 확인 |
 | 목록/상세 조회 오류·주문을 찾을 수 없음 | 사이트·구매 계정·조회 조건·알고 있는 원 주문번호 | 빈 목록과 조회 실패를 구분. 찾지 못했다는 이유로 재결제하지 않음 |
 
+<figure><img src="../.gitbook/assets/screenshots/order-payment-history-filters.png" alt="결제 내역에서 주문 검색과 상태·기간 조건을 확인하는 위치"><figcaption></figcaption></figure>
+
 ### 언제 기다리고 언제 멈추나요 <a href="#section-7" id="section-7"></a>
 
 원 주문이 처리 중이고 같은 주문의 상태 갱신이 안내될 때만 해당 결과를 기다립니다. 처리 중·조회 오류·추가 확인 필요는 서로 다릅니다. 고정 대기 시간을 안내하거나, 기다린 뒤 같은 결제를 다시 누르면 해결된다고 설명하지 않습니다.
@@ -125,6 +127,8 @@
 | 학원 직접 지급 | 유료/0원 주문과 별개로 지급 안내·대상 계정·권리를 확인 | [수강권·기간 관리](../members-and-operations/enrollment-and-access-period.md) |
 
 결제 상태를 확인하려고 영상을 재생하거나 자료 다운로드를 누르지 않습니다. 학습 기록·자료 발급 이력이 생길 수 있습니다. 지급이 보이지 않는 문제를 재결제·중복 수강권 지급·임의 기간 연장·취소 후 재구매로 맞추지 않습니다. 구성품 누락·재생/자료 이용은 [영상·자료·수강권 점검](video-resource-and-access.md), 사이트/플랜·사용량 제한은 [사이트·구독·사용량 점검](site-subscription-and-usage.md)으로 구분해 넘깁니다.
+
+<figure><img src="../.gitbook/assets/screenshots/order-payment-detail-status.png" alt="결제수단 없음·최종 결제 금액 0원으로 표시된 주문 상세 예시"><figcaption></figcaption></figure>
 
 ## 6. 해결되지 않으면 운영 담당자에게 전달하기 <a href="#step-6" id="step-6"></a>
 
