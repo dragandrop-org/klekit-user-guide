@@ -62,6 +62,12 @@
 
 비공개 전환 후 목록에서 사라진 것만으로 직접 주소 접근까지 차단됐다고 안내하지 않습니다. 접근 보호 여부가 아직 확인되지 않았다면 민감한 내용을 올리지 말고 담당자에게 확인합니다. 운영 비공개 글을 시험 삼아 열거나 공유하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/notice-pinned-example-admin-list.png" alt="가상 복습 자료 공지가 목록 상단에 고정된 관리자 공지 목록"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/notice-pinned-example-visitor-pc.png" alt="방문자 공지 목록에서 중요 표시로 상단 고정된 예시 복습 자료 공지"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/notice-pinned-example-visitor-mobile.png" alt="모바일 방문자 공지 목록의 중요 표시와 상단 고정 예시 공지" width="390"><figcaption></figcaption></figure>
+
 ## 3. 사용자 정의 게시판 만들고 정책 정하기 <a href="#step-3" id="step-3"></a>
 
 이 절은 **사용자 정의 게시판이 제공되는 환경에서만** 진행합니다.
@@ -99,6 +105,10 @@
 
 첨부·비밀글 기능을 끈 뒤에도 기존 첨부를 임의로 제거하거나 비밀글을 공개로 바꾸지 않습니다. 변경 전후 목록·파일·비밀글 상태를 다시 확인합니다. 첨부 개수·형식·용량은 공지사항이나 영상 업로드 기준을 그대로 적용하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/custom-board-example-post-action-menu.png" alt="예시 게시글 상세의 수정·숨김 처리·상단 고정·삭제 메뉴와 댓글 입력 영역"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/custom-board-example-post-list.png" alt="예시 게시판의 게시글 상태 탭·검색·게시됨 목록과 연결 페이지 0개 안내"><figcaption></figcaption></figure>
+
 ## 5. 게시판 연결 페이지와 방문자 결과 확인하기 <a href="#step-5" id="step-5"></a>
 
 게시판을 만들거나 글을 게시해도 새 페이지·메뉴가 자동으로 생기지 않습니다. **연결 페이지** 탭은 연결 현황을 확인하는 곳이며, 게시판을 직접 연결·해제하는 편집 화면이 아닙니다.
@@ -116,6 +126,8 @@
 담당자가 안전한 연결 방법을 확인한 뒤에도 페이지의 발행본·공개, 게시판 정책, 글 상태는 각각 확인해야 합니다. 페이지 공개와 게시판의 회원 전용 설정은 다릅니다. PC·모바일의 표시와 접근 보호가 확인되지 않았다면 회원 전용·비공개 보호가 완료됐다고 안내하지 않습니다.
 
 게시판 삭제는 페이지 자체를 삭제하는 작업과 다릅니다. 삭제 확인 창의 연결 페이지·글/댓글 영향과 보관 안내를 확인합니다. 보관 기간이 표시된다고 운영자가 화면에서 복구할 수 있는 것은 아닙니다. 필요한 글·댓글이 있는지 확인하지 않은 채 삭제하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/custom-board-unlinked-pages.png" alt="연결 페이지가 0개인 예시 게시판의 미연결 상태와 연결 페이지 안내"><figcaption></figcaption></figure>
 
 ## 6. 공지·프로모션 설정하기 <a href="#step-6" id="step-6"></a>
 
