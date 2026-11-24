@@ -96,6 +96,8 @@
 
 **영수증 보기**는 결과 화면에 표시된 경우에만 이용합니다. 0원 주문이나 영수증 정보가 없는 결제에서는 버튼이 제공되지 않을 수 있습니다. 필요한 증빙이 보이지 않으면 학원에 확인하세요. 영수증과 거래명세서, 콘텐츠 지급·배송 결과는 서로 다릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-my-courses-entry.png" alt="내 학습에서 구매하거나 지급받은 강좌를 찾는 수강 강좌 목록 예시"><figcaption></figcaption></figure>
+
 ## 6. 결제 실패·입금대기·결과 불명확에 대응하기 <a href="#step-6" id="step-6"></a>
 
 | 상황 | 먼저 할 일 | 하지 않을 일 |

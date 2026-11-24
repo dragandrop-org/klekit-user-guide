@@ -37,6 +37,10 @@
 
 추천·분류 탭은 등록된 분류가 있는 사이트에서 표시됩니다. 원하는 상품이 없으면 **강좌 / 교재 / 디지털 자료 / 패키지 중 해당 유형을 직접 선택**해 확인합니다. **검색 결과가 없습니다 / 등록된 상품이 없습니다**만으로 실제 미등록이나 판매 종료를 확정하지 않습니다. 검색 조건·조회 상태를 확인하고 계속 찾을 수 없으면 학원에 문의합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-product-catalog-empty-pc.png" alt="PC 전체 상품 목록의 카테고리·검색·상품 유형·정렬과 등록된 상품 없음 안내"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/learner-product-catalog-empty-mobile.png" alt="모바일 전체 상품 목록의 카테고리·검색·유형·정렬과 등록된 상품 없음 안내" width="390"><figcaption></figcaption></figure>
+
 ## 2. 상품과 포함 콘텐츠 구분하기 <a href="#step-2" id="step-2"></a>
 
 같은 콘텐츠가 다른 구성·조건의 상품에 포함될 수 있으므로 상품명과 포함 목록을 함께 봅니다.

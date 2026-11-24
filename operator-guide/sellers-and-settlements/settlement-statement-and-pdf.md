@@ -104,6 +104,8 @@
 
 문의할 때는 사이트·정산월·대상 회차·발생 시각·오류 문구와 마스킹한 화면을 정리합니다. 로그인 토큰·문서 다운로드 주소·전체 계좌번호·학생 개인정보·금융 문서 전문을 일반 문의에 붙이지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/settlement-statement-blocked-source-evidence.png" alt="명세서 발급 버튼의 비활성 상태와 세금·수수료 근거 확인 필요 안내"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 의도한 사이트·판매자·정산 회차를 확인했습니다.

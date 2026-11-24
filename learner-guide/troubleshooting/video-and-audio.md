@@ -62,6 +62,10 @@ PC의 **커리큘럼**, 모바일의 **목차**가 영상을 가리면 **패널 
 
 기본 상태를 확인해도 무음이 계속되면 수업명과 발생 구간을 문의합니다. 소리를 확인하려고 같은 구간을 계속 재생하거나 별도 플레이어·확장 프로그램을 설치하지 않습니다. 전체화면·화면 회전·배속이나 다른 앱을 사용하는 동안의 재생도 모든 기기에서 동일하게 지원된다고 보장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/learner-selected-course-and-lecture.png" alt="PC 일반 영상 재생기의 재생·소리·전체화면 버튼과 커리큘럼 배치"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/learner-player-mobile-layout.png" alt="모바일 너비의 일반 영상 재생기와 재생·소리·전체화면·이전·다음 버튼" width="360"><figcaption></figcaption></figure>
+
 ## 4. 영상이 멈추거나 끊길 때 <a href="#step-4" id="step-4"></a>
 
 먼저 **수업 제목·발생 시각·영상의 어느 구간인지·보이는 문구**를 기록합니다. 한 수업의 같은 구간에서 반복되는지, 여러 수업에서 나타나는지도 알고 있는 범위에서 구분합니다. 기억나는 위치가 없으면 억지로 반복 재생해 재현할 필요는 없습니다.

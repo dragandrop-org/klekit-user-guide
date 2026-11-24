@@ -142,3 +142,7 @@
 | 예전 CSV 설명과 현재 화면이 달라요 | 현재 상세에 파일 연결이 있는지부터 확인합니다. 과거 파일의 범위/회차와 현재 조회를 구분하며 다른 페이지 요약을 더해 전체 명세서로 만들지 않습니다 |
 
 문의할 때는 사이트·정산월·해당 회차·발생 시각·마스킹한 오류 화면을 정리합니다. 전체 계좌번호·생년월일·학생 개인정보·로그인 토큰·영수증 주소를 일반 문의에 붙이지 않습니다. 내부 담당자와 승인된 확인 경로로 전달하세요.
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-filter-year-before-apply.png" alt="정산 필터에서 연도를 선택한 뒤 적용하기 전에 확인하는 취소·적용하기 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/settlement-filter-year-empty-results.png" alt="2025년 연도 필터와 조건에 맞는 정산 내역 없음 안내"><figcaption></figcaption></figure>

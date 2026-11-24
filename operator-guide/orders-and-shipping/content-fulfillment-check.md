@@ -57,6 +57,8 @@
 
 이미 같은 강좌의 수강권이 있었다면 목록 표시·접근 성공만으로 **이번 주문의 권한이 지급됐다고 확정할 수 없습니다.** 주문에 연결된 권한과 실제 적용 기간은 담당자가 대조해야 합니다. 현재 상품의 수강 일수만으로 구매자의 만료일을 다시 계산하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/fulfillment-learner-course-list-reference.png" alt="수강생 내 학습의 수강 강좌 목록·상태 필터와 예시 강좌"><figcaption></figcaption></figure>
+
 ## 3. 디지털 자료 이용 권한 확인하기 <a href="#step-3" id="step-3"></a>
 
 1. 구매자 본인이 **내 학습 → 내 자료**를 엽니다.
