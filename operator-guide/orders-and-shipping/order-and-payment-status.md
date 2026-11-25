@@ -96,6 +96,10 @@
 
 0원 주문은 외부 결제 수단·일시·영수증이 없을 수 있습니다. 표시가 없다는 이유만으로 주문 실패로 판단하지 않고 해당 주문과 후속 결과를 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/order-payment-amounts.png" alt="0원 예시 주문의 상품 총 금액과 최종 결제 금액. 주문번호·계정·연락처·이메일은 가림"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/order-payment-original-amounts-guide-1920.png" alt="같은 주문의 거래명세서에 표시된 원거래 상품금액·상품 할인·쿠폰 할인·배송비·최종 결제금액과 별도의 취소·반품 요약. 모두 0원인 예시"><figcaption></figcaption></figure>
+
 ### 상품 구성·수량 표시가 이상하다면 <a href="#section-8" id="section-8"></a>
 
 교재·자료 단품이나 패키지의 구성 설명이 실제 주문과 다르게 보일 수 있습니다. **`단일 강좌`라는 보조 문구만으로 실제 상품 종류를 확정하거나, 화면에 보이는 항목 수를 교재 출고 수량으로 사용하지 않습니다.**
@@ -107,6 +111,8 @@
 **영수증** 버튼이 활성화되어 있으면 눌러 연결된 영수증을 확인합니다. 영수증 주소가 없으면 버튼은 비활성화됩니다. 해당 상태만으로 결제 실패를 판단하지 않습니다.
 
 **거래 명세서**를 누르면 별도의 확인 화면으로 이동합니다. 문서가 열리면 내용·공급자·금액이 해당 주문과 맞는지 대조한 뒤 안내하세요. PDF 다운로드와 자동 증빙 발행 가능 여부는 아직 확인되지 않았으므로 필요하면 담당자에게 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/order-payment-invoice-overview-guide-1920.png" alt="관리자 거래명세서의 구매자·공급자·거래 요약과 PDF 다운로드·인쇄 버튼. 구매자 정보는 가렸으며 공급자 정보가 비어 있는 예시"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
