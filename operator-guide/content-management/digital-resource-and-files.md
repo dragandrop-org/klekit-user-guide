@@ -80,6 +80,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 
 <figure><img src="../.gitbook/assets/screenshots/digital-resource-current-file.png" alt="게시 완료된 예시 디지털 자료의 PDF 형식·용량·정가·현재 파일명과 자료 다운로드 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/admin-digital-resource-navigation.gif" alt="디지털 자료 목록에서 예시 자료 상세를 열고 목록으로 돌아가는 과정"><figcaption></figcaption></figure>
+
 ## 4. 기존 자료 수정·파일 교체하기 <a href="#step-4" id="step-4"></a>
 
 | 작업 | 진행 방법 |

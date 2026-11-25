@@ -68,6 +68,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/su02-plan-upgrade-quote-guide-1920.png" alt="Start에서 Growth로 변경할 때의 기능·제공량과 결제 견적"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/plan-change-quote-review-and-cancel.gif" alt="Start에서 Basic으로 변경하는 견적을 확인하고 동의나 변경 적용 없이 취소하는 과정"><figcaption></figcaption></figure>
+
 ## 3. 기능·제공량과 팩 영향 확인하기 <a href="#step-3" id="step-3"></a>
 
 <figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
