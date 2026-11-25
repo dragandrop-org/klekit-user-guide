@@ -144,6 +144,12 @@
 
 <figure><img src="../.gitbook/assets/screenshots/site-form-response-list-and-filters.png" alt="예시 폼의 응답 데이터 탭에서 검색·필터·정렬과 아직 응답이 없는 초기 목록"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/site-form-existing-response-list-pc-01.png" alt="예시 응답 1건이 접수된 폼의 통계·응답자 유형·검색과 응답 목록"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-response-period-options-pc-01.png" alt="폼 응답 필터의 전체 기간·오늘·최근 7일·최근 30일·직접 설정 선택지"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-response-sort-options-pc-01.png" alt="폼 응답 목록의 최신순·오래된순 정렬 메뉴"><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/screenshots/si05-survey-submission-detail-guide-1920.png" alt="예시 응답의 선택형·서술형 제출 답변과 제출 당시 문항·유입 페이지 정보"><figcaption></figcaption></figure>
 
 ## 7. 접수 종료·내용 변경·응답 정리하기 <a href="#step-7" id="step-7"></a>
@@ -158,6 +164,8 @@
 | CSV 내보내기 | 원문 조회와 별도 권한입니다. 실제 내보내기 방법·필터 적용·포함 범위는 아직 확인되지 않았으므로 담당자에게 확인합니다. 필요한 대상과 파일 내용을 확인하기 전에는 배포하지 않습니다 |
 
 개별 응답 삭제 화면의 복구 안내만으로 운영자가 복구할 수 있다고 보장하지 않습니다. 개별 응답을 복구하는 기능·방법은 아직 확인이 필요합니다. 폼 자체의 휴지통/복원과 응답 한 건의 복구는 다른 기능입니다. 폼을 정리할 때도 작업본·발행본 연결을 함께 확인하고 연결된 폼을 삭제해 우회하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/site-form-operating-settings-dialog-pc-01.png" alt="게시된 예시 폼의 운영 설정 창에 표시된 관리자용 이름·응답 한도·종료·알림 항목. 값 변경·저장 전 화면"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

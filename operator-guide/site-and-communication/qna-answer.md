@@ -72,6 +72,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/qna-reply-editor-and-image.png" alt="답글 등록 전 예시 답변을 작성한 편집기와 답글 등록 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/qna-inline-image-upload-selection-pc-01.png" alt="답글 이미지 삽입 창에서 복습 예시 파일과 설명을 입력한 화면"><figcaption></figcaption></figure>
+
 ## 4. 답글 등록 시 적용할 상태 선택하고 결과 확인하기 <a href="#step-4" id="step-4"></a>
 
 1. **답글 등록 후 상태** 창에서 **답변 중 / 답변 완료** 중 하나를 선택합니다. 창을 열면 기본 선택은 **답변 중**입니다.

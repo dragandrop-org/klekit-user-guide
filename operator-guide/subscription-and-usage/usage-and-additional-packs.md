@@ -67,6 +67,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/usage-history-and-period-basis.png" alt="저장공간의 현재 측정량·지난달 말·3개월 평균과 최근 사용량 이력 부족 안내. 팩 선택·견적 생성은 하지 않음"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/screenshots/usage-storage-watch-history-pc-01.png" alt="저장공간의 월말·3개월 평균과 시청시간의 지난 주기·3개 주기 평균·현재 주기 표시 비교"><figcaption></figcaption></figure>
+
 ### 남은 양과 바로 사용할 수 있는 양은 다릅니다 <a href="#section-5" id="section-5"></a>
 
 남은 양은 **유효 한도에서 사용량을 뺀 양**, 사용 가능량은 여기에 **진행 중 업로드의 예약량까지 뺀 양**입니다. 각 값이 0보다 작으면 해당 값을 0으로 계산합니다. 사용/총 숫자만으로 다음 업로드가 가능한지 확정하지 않습니다.
@@ -96,6 +98,8 @@
 <figure><img src="../.gitbook/assets/screenshots/usage-watch-time-pack-options-mobile-detail-04.png" alt="시청시간 팩 선택지 일부와 추가 팩 없음 표시 확대" width="416"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/screenshots/usage-pack-change-summary-unchanged-pc-03.png" alt="팩을 변경하지 않은 상태의 변경 요약과 비활성 변경 내용 확인 버튼"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/usage-watch-pack-selected-summary-pc-01.png" alt="100시간 팩을 임시 선택했을 때의 총 시청시간 200시간·월 변경액·정기 결제 예상액. 견적·변경 적용 전 화면"><figcaption></figcaption></figure>
 
 ## 4. 견적의 이번/다음 금액 확인하기 <a href="#step-4" id="step-4"></a>
 
