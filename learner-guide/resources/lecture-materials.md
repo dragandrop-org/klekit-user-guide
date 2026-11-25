@@ -57,6 +57,8 @@
 
 같은 수업에서 여러 파일/창이 열리거나 일부만 받아졌다면 이미 저장된 파일부터 확인합니다. 자료 버튼은 원하는 파일 하나를 선택하는 메뉴가 아니므로, 부족한 파일을 받으려고 반복 누르기 전에 학원에 대상 파일을 확인합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/lg10-lecture-material-request-guide-1920.png" alt="강의실 커리큘럼에서 복습 PDF를 다운로드하는 위치"><figcaption></figcaption></figure>
+
 ## 4. PC에서 파일 저장 확인하기 <a href="#step-4" id="step-4"></a>
 
 1. 새 창/탭에 열린 파일이 해당 수업의 자료인지 살펴봅니다.
@@ -64,6 +66,8 @@
 3. 저장한 위치에서 파일을 찾습니다. 기본 다운로드 폴더나 사용자가 선택한 폴더 등 실제 브라우저 설정에 따릅니다.
 
 모든 파일이 PDF로 열리거나 원래 파일명 그대로 저장된다고 보장하지 않습니다. 저장 위치·버튼 이름은 브라우저/운영체제에 따라 다를 수 있습니다. 파일을 열려고 임의의 프로그램을 설치하거나 보안 설정을 해제하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/lg10-lecture-pdf-preview-guide-1920.png" alt="인앱 브라우저 새 탭에서 열린 2쪽짜리 복습 PDF"><figcaption></figcaption></figure>
 
 ## 5. 모바일에서 파일 저장 확인하기 <a href="#step-5" id="step-5"></a>
 

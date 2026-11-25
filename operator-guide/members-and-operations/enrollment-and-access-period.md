@@ -102,6 +102,8 @@
 
 **회수**가 안 보이면 회수 권한이 없거나 현재 회수 가능한 관리자 권리가 없는 경우일 수 있습니다. 구매 권리만 남았거나 만료 등으로 회수 대상이 없는 상태와 구분합니다. 회수 메뉴를 만들기 위해 추가 지급·연장하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/mb02-enrollment-revoke-warning-guide-1920.png" alt="수강권 회수 전 유의사항과 구매 수강권 유지 안내"><figcaption></figcaption></figure>
+
 ## 5. 변경 결과 다시 확인하기 <a href="#step-5" id="step-5"></a>
 
 성공 안내 후 조회 갱신이 끝난 최신 화면을 확인합니다. 필요하면 같은 회원 상세를 다시 열어 변경 전 기록과 대조하며, 오래 열린 화면만 보고 다시 실행하지 않습니다.
@@ -120,6 +122,8 @@
 수강중·수강완료·기간만료·취소·회수됨은 서로 다른 표시입니다. 학습 완료와 이용 기간 종료를 동일시하지 않으며, **기한 없음**도 모든 콘텐츠의 무료 이용이나 구매 완료를 뜻하지 않습니다.
 
 구매 권리와 관리자 연장 권리가 함께 있으면 회수 후 이용 기간이 짧아지면서 수강은 유지될 수 있습니다. 결과가 예상과 다르면 주문·남은 수강권·종료일을 담당자와 함께 확인합니다. 구매 권리를 없애려고 회수를 반복하거나 결과를 시험하려고 환불하지 않습니다.
+
+<figure><img src="../.gitbook/assets/screenshots/mb02-dummy-enrollment-result-guide-1920.png" alt="가상 학생에게 지급한 예시 강좌의 수강 상태·진도·종료일"><figcaption></figcaption></figure>
 
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 

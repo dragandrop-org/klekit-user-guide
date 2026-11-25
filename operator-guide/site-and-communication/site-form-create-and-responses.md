@@ -122,6 +122,14 @@
 3. 공개 대상에 맞는 문항·대상 제한·기간·필수 응답이 표시되는지 확인합니다. 회원용 폼이 비회원에게도 보이는 등 안내와 다르면 접수를 진행하지 말고 담당자에게 확인합니다.
 4. 실제 응답이 접수됐다면 관리자에서 같은 응답을 찾아 확인합니다. 제출 결과가 불명확하면 응답 조회부터 하고 반복 제출을 요구하지 않습니다. 접수 점검이 필요하다면 담당자에게 별도로 요청합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/si05-linked-survey-page-guide-1920.png" alt="예시 복습 설문이 실제로 연결된 페이지 이름·주소와 웹빌더 편집 경로"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si05-linked-survey-private-guide-1920.png" alt="연결 페이지가 남아 있어도 미공개이면 방문자에게 노출되지 않는 예시 설문 연결 목록"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si05-public-survey-answer-guide-1920.png" alt="공개된 예시 복습 설문의 선택형·서술형 문항과 개인정보 없는 가상 답변"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si05-public-survey-submitted-guide-1920.png" alt="예시 복습 설문의 실제 제출 완료 안내 화면"><figcaption></figcaption></figure>
+
 ## 6. 응답 목록과 제출 답변 확인하기 <a href="#step-6" id="step-6"></a>
 
 1. 폼 상세의 **응답 데이터**를 엽니다. 응답 원문 조회 권한이 필요합니다.
@@ -135,6 +143,8 @@
 목록으로 돌아왔을 때 검색·필터가 그대로 유지된다고 보장하지 않습니다. 필요한 조건을 다시 확인합니다. 조회 오류를 응답 0건으로 해석하거나 권한 없는 다른 계정으로 원문을 열지 않습니다.
 
 <figure><img src="../.gitbook/assets/screenshots/site-form-response-list-and-filters.png" alt="예시 폼의 응답 데이터 탭에서 검색·필터·정렬과 아직 응답이 없는 초기 목록"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si05-survey-submission-detail-guide-1920.png" alt="예시 응답의 선택형·서술형 제출 답변과 제출 당시 문항·유입 페이지 정보"><figcaption></figcaption></figure>
 
 ## 7. 접수 종료·내용 변경·응답 정리하기 <a href="#step-7" id="step-7"></a>
 

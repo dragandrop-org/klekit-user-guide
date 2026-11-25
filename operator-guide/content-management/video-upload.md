@@ -81,6 +81,8 @@
 
 업로드 직후 바로 재생되지 않으면 처리 상태를 확인합니다. 처리 중인 파일을 반복 업로드하지 말고, 실패 안내가 있거나 상태가 갱신되지 않으면 오류 내용과 파일 정보를 정리해 운영자에게 문의합니다. 변환이 끝날 때까지 걸리는 시간은 파일과 환경에 따라 다릅니다.
 
+<figure><img src="../.gitbook/assets/screenshots/ct03-student-dummy-video-playback-guide-1920.png" alt="수강 권한이 있는 가상 학생의 예시 영상 재생과 연결된 복습 PDF"><figcaption></figcaption></figure>
+
 ## 5. 저장·발행하고 수강생 반영 확인하기 <a href="#step-5" id="step-5"></a>
 
 1. 수업에서 영상 선택·연결을 마쳤다면 **변경사항 저장**을 누르고 수업을 다시 열어 연결된 파일을 확인합니다.

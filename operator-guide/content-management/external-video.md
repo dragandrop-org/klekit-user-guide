@@ -58,6 +58,8 @@ YouTube·Vimeo에 올린 영상을 수업에 연결합니다. 파일을 클킷�
 
 링크 형식이 맞아도 외부 재생이 차단될 수 있습니다. 링크를 바꿨다면 다시 **링크 확인**을 진행합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/ct05-youtube-duration-confirmed-guide-1920.png" alt="공식 공개 라이선스 예시 영상의 YouTube URL 확인 후 표시된 09:57 길이·미리보기·변경 사항 저장 위치"><figcaption>예시 영상: <a href="https://www.youtube.com/watch?v=YE7VzlLtp-4">Big Buck Bunny</a> (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>. <a href="https://peach.blender.org/about/">사용 조건</a>.</figcaption></figure>
+
 ## 3. 저장하고 발행 결과 확인하기 <a href="#step-3" id="step-3"></a>
 
 수업 편집의 **변경사항 저장**을 누른 뒤 같은 수업을 다시 열어 연결 방식·영상·길이를 확인합니다. 수강생에게 반영하려면 [강좌 등록·수정하기](course-create-and-edit.md)에 따라 강좌를 발행합니다.

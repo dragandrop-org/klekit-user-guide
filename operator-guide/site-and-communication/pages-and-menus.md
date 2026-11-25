@@ -92,6 +92,12 @@
 
 발행본이 있어도 비공개이면 방문자에게 제공되지 않을 수 있으므로 직접 URL과 페이지 상태를 대조합니다. 메뉴 연결은 이 확인을 마친 페이지를 대상으로 진행합니다.
 
+<figure><img src="../.gitbook/assets/screenshots/si02-custom-page-draft-private-guide-1920.png" alt="예시 복습 설문 페이지의 접속 URL과 비공개·미발행·임시저장 상태"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si02-custom-page-publish-options-guide-1920.png" alt="예시 설문 페이지의 게시 대상·접속 URL·메뉴 없이 공개 설정"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/screenshots/si02-custom-page-published-guide-1920.png" alt="대상이 일치하는 예시 설문 페이지의 공개·발행됨·게시됨 상태와 접속 주소"><figcaption></figcaption></figure>
+
 ## 4. 메뉴 만들고 페이지 연결하기 <a href="#step-4" id="step-4"></a>
 
 **메뉴 관리**에서 상위 메뉴를 선택합니다. 메뉴 이름은 현재 입력 화면에 맞춰 10자 이내의 짧은 이름으로 준비합니다. 최종 이름 길이와 상위·하위 메뉴 개수 제한은 아직 확인되지 않았으므로 화면 카운터와 제한 안내를 함께 확인합니다.

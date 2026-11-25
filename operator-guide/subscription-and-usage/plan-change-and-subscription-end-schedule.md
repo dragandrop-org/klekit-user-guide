@@ -66,6 +66,8 @@
 
 현재 견적 상단의 **다음 결제일**과 예약의 **적용 예정**은 날짜 중심 표시입니다. 상향의 정확한 적용 시각이나 예약 당일 몇 시에 바뀌는지까지 확인한 것으로 보지 않습니다. 필요한 정확한 시각·시간대는 담당자에게 확인하고 실제 적용 결과와 대조하기 전까지 확정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/su02-plan-upgrade-quote-guide-1920.png" alt="Start에서 Growth로 변경할 때의 기능·제공량과 결제 견적"><figcaption></figcaption></figure>
+
 ## 3. 기능·제공량과 팩 영향 확인하기 <a href="#step-3" id="step-3"></a>
 
 <figure><img src="../.gitbook/assets/branding/plan-capacity-illustration-v1.png" alt="서비스 플랜 패널과 저장공간"><figcaption></figcaption></figure>
@@ -121,6 +123,8 @@
 **구독 해지 버튼을 누른 것만으로 종료가 예약되지는 않습니다.** 현재 화면에서는 Free 전환 견적을 여는 동작입니다. 견적 창을 취소하면 기존에 등록된 다른 예약까지 취소되는 것도 아닙니다.
 
 Free 전환 예약은 사이트 중지/삭제·카드 삭제·학생 주문 환불이나 모든 팩 청구의 즉시 중단과 다릅니다. 사이트 중지·삭제는 [사이트 중지·삭제하기](../members-and-operations/site-stop-and-delete.md)의 별도 절차를 확인하세요. 사이트 중지·삭제의 최종 실행은 계속 보류합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/su02-free-plan-quote-guide-1920.png" alt="Free 전환 시 제외되는 기능과 제공량·금액 안내"><figcaption></figcaption></figure>
 
 ## 7. 실제 적용과 예약 결과 확인하기 <a href="#step-7" id="step-7"></a>
 

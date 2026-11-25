@@ -58,6 +58,8 @@
 
 체험 버튼은 조건을 충족한 계정·플랜에서만 나타납니다. 체험 이력, 현재 구독/사이트 상태, 상위 플랜 여부, 변경 예약·진행 작업 등에 따라 신청이 제한될 수 있습니다. 버튼이 없을 때 새 사이트·다른 계정으로 체험 제한을 우회하지 않습니다.
 
+<figure><img src="../.gitbook/assets/screenshots/su02-plan-upgrade-quote-guide-1920.png" alt="정식 구독 변경 견적과 Growth 14일 무료체험 안내"><figcaption></figcaption></figure>
+
 ## 3. 체험 기간과 제한 확인하기 <a href="#step-3" id="step-3"></a>
 
 | 항목 | 안내 |
@@ -72,6 +74,8 @@
 | 체험 플랜 변경 | 시작 후 체험 대상 플랜을 다시 바꾸는 절차는 제공하지 않습니다 |
 
 **안내를 확인하고 체험 시작**은 실제 신청 버튼이며 계정의 체험 1회 기회를 사용합니다. 실제 신청 결과가 아직 확인되지 않았으므로 **체험 신청은 보류**하고 담당자에게 확인하세요. 안내만 읽었다면 **취소**로 닫습니다. 이미 신청했다면 버튼을 반복해서 누르지 말고 기존 결과부터 확인합니다.
+
+<figure><img src="../.gitbook/assets/screenshots/su01-trial-terms-before-start-guide-1920.png" alt="무료체험 시작 전 계정 1회·14일·기능 제한과 자동 결제 안내"><figcaption></figcaption></figure>
 
 ## 4. 체험 시작·종료 결과 확인하기 <a href="#step-4" id="step-4"></a>
 
