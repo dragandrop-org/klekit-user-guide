@@ -58,6 +58,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-course-filters-empty-and-error.png" alt="완료 필터를 선택했을 때 해당 상태의 강좌가 없다고 표시된 수강 강좌 목록"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-my-courses-navigation.gif" alt="수강 강좌의 상태 필터를 펼치고 완료 강좌를 확인한 뒤 전체 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 3. 강좌 카드 확인하고 강의실 열기 <a href="#step-3" id="step-3"></a>
 
 1. 강좌 카드의 **강좌명·이용 기간/종료일·학습 현황** 중 표시된 항목을 읽습니다.

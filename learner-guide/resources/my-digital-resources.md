@@ -27,6 +27,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-digital-resource-entry.png" alt="지급된 자료가 없는 경우의 디지털 자료 목록·다운로드 상태 필터·검색 예시"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-digital-resource-navigation.gif" alt="디지털 자료 목록의 상태를 바꾸고 기존 PDF 정보를 확인한 뒤 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 2. 상세에서 파일 정보 확인하기 <a href="#step-2" id="step-2"></a>
 
 상세에는 **자료명·파일명·상태**, **지급일·최초 다운로드**와 **다운로드**가 표시됩니다. 목록으로 돌아가려면 **디지털 자료 목록**을 이용합니다.

@@ -38,6 +38,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-profile-entry.png" alt="계정 설정의 이름·이메일·휴대폰 정보를 가린 내 프로필과 비밀번호·간편로그인 연결 상태"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-profile-navigation.gif" alt="사용자 메뉴에서 마이페이지·계정 설정으로 이동해 내 프로필과 간편 로그인 연결 상태를 확인하는 과정"><figcaption></figcaption></figure>
+
 ## 2. 이름·이메일·휴대폰 확인하기 <a href="#step-2" id="step-2"></a>
 
 1. **이름**과 **이메일**을 함께 기존 가입 정보와 비교합니다.

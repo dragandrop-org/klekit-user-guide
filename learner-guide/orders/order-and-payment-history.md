@@ -44,6 +44,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-payment-history-list.png" alt="구매 내역 목록의 주문명·결제 상태·결제 금액·결제일과 검색·정렬"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-payment-history-navigation.gif" alt="기존 0원 예시 주문을 검색해 제공·결제 상태를 읽고 목록으로 돌아오는 과정. 계정과 주문번호는 가림"><figcaption></figcaption></figure>
+
 ## 3. 상세에서 주문번호와 상품 확인하기 <a href="#step-3" id="step-3"></a>
 
 1. 상단 **주문번호**를 대조해 찾던 주문이 맞는지 확인합니다.
