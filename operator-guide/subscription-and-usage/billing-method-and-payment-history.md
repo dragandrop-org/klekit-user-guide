@@ -128,6 +128,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/subscription-plan-payment-detail.png" alt="기존 플랜 구독 결제의 거래 정보·상태·금액·공급가액·부가세를 확인하는 화면. 결제 식별자·주문번호·결제수단 정보는 가림"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/subscription-payment-filter-and-detail-review.gif" alt="플랜 구독으로 결제 내역을 걸러 기존 상세를 읽고 목록으로 돌아오는 과정. 계정·주문번호·금액은 가림"><figcaption></figcaption></figure>
+
 ## 7. 팩 상세의 원 승인액·환불 후 금액 대조하기 <a href="#step-7" id="step-7"></a>
 
 **사용량 팩** 결제를 열면 **거래 정보, 이용 기간, 결제 항목, 결제 확인**을 읽습니다.

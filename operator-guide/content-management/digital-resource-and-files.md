@@ -92,6 +92,8 @@ PDF·문서·ZIP 등 다운로드할 자료를 등록하고 파일을 관리합�
 
 게시 완료 자료의 수정 버튼은 **저장**입니다. 임시 상태에서는 **임시 저장** 또는 **최종 완료**로 의도한 상태를 선택합니다. 새 파일을 선택하지 않으면 기존 파일을 유지하고, **새 파일을 업로드한 뒤 저장하면 새 버전이 등록**됩니다.
 
+<figure><img src="../.gitbook/assets/gifs/digital-resource-replace-and-check.gif" alt="촬영용 자료의 PDF를 새 파일로 교체하고 임시 저장한 뒤 현재 파일명을 다시 확인하는 과정"><figcaption></figcaption></figure>
+
 ### 교체 전후 구매자는 어떤 파일을 받나요? <a href="#section-8" id="section-8"></a>
 
 | 대상 | 파일 버전의 기준 |

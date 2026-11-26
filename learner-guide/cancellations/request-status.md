@@ -30,6 +30,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-payment-history-list.png" alt="구매 내역 목록에서 원 주문의 결제 완료·취소완료 표시를 확인하는 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-request-status-read-and-return.gif" alt="기존 0원 예시 주문을 찾아 상세를 읽고 목록으로 돌아오는 과정. 계정과 주문번호는 가림"><figcaption></figcaption></figure>
+
 ## 2. 현재 화면의 상태와 환불 안내 읽기 <a href="#step-2" id="step-2"></a>
 
 상세의 결제 요약에 있는 **상태**와 환불 안내를 함께 확인합니다. 환불 거절 안내에 **사유**가 있으면 읽습니다. 환불 안내가 주문의 결제 상태보다 우선 표시될 수 있으므로 배지 하나만으로 전체 주문의 결과를 판단하지 않습니다.

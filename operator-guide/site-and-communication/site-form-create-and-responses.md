@@ -108,6 +108,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/site-form-save-publish-and-status-published.png" alt="게시 후 응답 중 상태와 로그인 회원·1회 제출 정책이 표시된 예시 설문의 운영 정보"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/site-form-draft-save-and-reopen.gif" alt="새 폼의 예시 문항을 작성하고 자동저장 후 목록에서 같은 초안을 다시 여는 과정"><figcaption></figcaption></figure>
+
 ## 5. 페이지 연결과 실제 접수 확인하기 <a href="#step-5" id="step-5"></a>
 
 상세의 **연결 페이지**는 연결 현황을 보는 목록이며 연결을 추가·삭제하는 편집 화면이 아닙니다. 작업본 연결도 표시될 수 있고 **미공개**이면 방문자에게 노출되는 연결과 구분해야 합니다.

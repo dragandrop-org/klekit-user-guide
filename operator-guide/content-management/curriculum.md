@@ -77,6 +77,8 @@
 
 저장 후 강좌를 다시 열어 섹션·수업 순서를 확인합니다.
 
+<figure><img src="../.gitbook/assets/gifs/curriculum-add-and-reorder.gif" alt="수업 두 개를 추가하고 이동 손잡이로 순서를 바꾼 뒤 임시 저장·재조회하는 과정"><figcaption></figcaption></figure>
+
 ## 4. 공개 범위와 미리보기 정하기 <a href="#step-4" id="step-4"></a>
 
 수업·섹션의 공개 범위와 구매 전 미리보기 수업을 설정합니다.

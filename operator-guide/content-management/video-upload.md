@@ -50,6 +50,8 @@
 
 **영상 파일 삭제는 연결 변경과 다릅니다.** 현재 화면에서는 파일 삭제가 저장과 무관하게 즉시 반영될 수 있습니다. 확인창에 연결된 수업이 나오면 영향 범위를 확인한 뒤 진행하며, 삭제를 취소 버튼으로 되돌릴 수 있다고 가정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/gifs/video-select-and-link.gif" alt="같은 강좌에 업로드한 예시 영상을 선택하고 저장한 뒤 수업을 다시 열어 연결을 확인하는 과정"><figcaption></figcaption></figure>
+
 ## 3. 여러 영상 한꺼번에 업로드하기 <a href="#step-3" id="step-3"></a>
 
 <figure><img src="../.gitbook/assets/screenshots/video-bulk-upload-empty-unlinked-library-pc-01.png" alt="영상 일괄 업로드 창의 파일 선택 영역과 미연결 영상·추가할 섹션"><figcaption></figcaption></figure>
