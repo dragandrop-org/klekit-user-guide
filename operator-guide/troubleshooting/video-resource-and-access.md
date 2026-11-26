@@ -100,6 +100,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/member-enrollment-progress-and-status-pc-04.png" alt="이용 권한 문제를 확인할 때 보는 회원별 수강 상태·종료일·진도. 구매나 권리 복구를 완료한 예시는 아님"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/troubleshooting-existing-learning-lists.gif" alt="수강생 화면에서 강좌의 완료 필터와 지급받은 디지털 자료 상세를 확인하는 과정"><figcaption></figcaption></figure>
+
 ## 5. 영상 준비 중·재생 오류·끊김을 구분하기 <a href="#step-5" id="step-5"></a>
 
 학생에게 이미 나타난 문구·강좌/수업·영상 종류와 기기/브라우저를 확인합니다. **영상 준비 중**이라는 표시만으로 변환이 진행 중이거나 정해진 시간 뒤 재생된다고 안내하지 않습니다.

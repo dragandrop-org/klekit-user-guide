@@ -32,6 +32,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="영상은 재생하지 않고 연 PC 커리큘럼의 수업 목록과 강의 자료 ZIP 버튼 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-lecture-material-navigation.gif" alt="커리큘럼을 열어 수업과 첨부 PDF 버튼의 위치를 확인한 뒤 닫는 과정"><figcaption></figcaption></figure>
+
 ## 2. 자료 버튼과 이용 가능 여부 확인하기 <a href="#step-2" id="step-2"></a>
 
 | 보이는 상태 | 확인할 것·다음 행동 |

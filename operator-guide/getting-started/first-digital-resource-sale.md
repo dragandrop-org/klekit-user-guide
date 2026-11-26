@@ -117,6 +117,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/first-digital-resource-issued-detail-guide-1920.png" alt="같은 예시 자료 상세의 파일명·지급일·기존 최초 다운로드 시각. 받음은 발급 이력이며 실제 저장 완료와는 다름"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/first-digital-resource-my-resources-review.gif" alt="구매자 화면의 디지털 자료 목록에서 기존 예시 PDF 상세를 확인하고 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 6. 파일 저장·열기 확인하기 <a href="#step-6" id="step-6"></a>
 
 아래는 구매자가 자료를 실제로 이용할 때의 확인 방법입니다. 운영자는 학생 대신 다운로드하지 않습니다. 문의 확인이나 취소 가능 여부 시험을 위해 학생에게 다운로드를 요구하지 마세요.

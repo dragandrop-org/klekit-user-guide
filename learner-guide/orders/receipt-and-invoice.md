@@ -64,6 +64,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-invoice-items-totals-mobile.png" alt="모바일 크기 브라우저의 거래명세서 하단. 품목 표는 가로로 이동하며 확인하고 원거래 결제 금액은 별도로 읽는 화면" width="375"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-invoice-navigation.gif" alt="기존 0원 예시 주문에서 거래명세서의 품목·금액을 보고 주문 상세로 돌아오는 과정. 구매자와 주문번호는 가림"><figcaption></figcaption></figure>
+
 ## 4. 취소 주문과 0원·누락 정보를 구분하기 <a href="#step-4" id="step-4"></a>
 
 | 상황 | 읽는 방법·다음 행동 |

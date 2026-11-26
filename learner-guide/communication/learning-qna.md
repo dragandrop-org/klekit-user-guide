@@ -85,6 +85,8 @@ PC 강의실에서는 Q&A 도구, 모바일에서는 하단 Q&A 탭을 엽니다
 
 <figure><img src="../.gitbook/assets/screenshots/learner-qna-privacy-and-image.png" alt="파일을 올리지 않은 질문 편집기의 이미지 삽입 도구·비공개 질문 체크와 비활성 등록 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-qna-write-navigation.gif" alt="질문할 강좌와 강의를 고르고 예시 제목·내용을 입력하는 과정. 등록은 하지 않음"><figcaption></figcaption></figure>
+
 ## 5. 등록하고 내 질문 확인하기 <a href="#step-5" id="step-5"></a>
 
 1. 선택한 강좌·강의, 제목·내용, 비공개 여부와 이미지 표시를 마지막으로 확인합니다.

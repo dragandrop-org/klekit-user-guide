@@ -77,6 +77,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-lecture-material-entry.png" alt="영상이 정지된 PC 강의실의 열린 커리큘럼 패널과 상단 닫기 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-player-panel-navigation.gif" alt="정지된 예시 영상에서 커리큘럼 패널을 닫고 다시 열어 보는 과정"><figcaption></figcaption></figure>
+
 ## 5. 이전·다음 수업으로 이동하기 <a href="#step-5" id="step-5"></a>
 
 1. 영상을 멈출 필요가 있으면 먼저 일시정지합니다.

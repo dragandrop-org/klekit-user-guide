@@ -102,6 +102,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-purchase-digital-resource-destination-guide-1920.png" alt="신청한 예시 PDF가 내 학습의 디지털 자료 목록에 지급된 화면"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-existing-order-navigation.gif" alt="기존 0원 예시 주문을 검색해 결제·제공 상태를 보고 목록으로 돌아오는 과정. 계정과 주문번호는 가림"><figcaption></figcaption></figure>
+
 결과 화면에 **내 강좌 보러가기**가 표시되면 강좌 목록으로 이동하는 버튼입니다. 자료·교재 전용 주문의 공통 완료 화면에 있어도 해당 상품의 이용/배송 경로를 대신하지 않습니다.
 
 **영수증 보기**는 결과 화면에 표시된 경우에만 이용합니다. 0원 주문이나 영수증 정보가 없는 결제에서는 버튼이 제공되지 않을 수 있습니다. 필요한 증빙이 보이지 않으면 학원에 확인하세요. 영수증과 거래명세서, 콘텐츠 지급·배송 결과는 서로 다릅니다.

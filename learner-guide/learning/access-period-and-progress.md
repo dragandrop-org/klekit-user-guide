@@ -27,6 +27,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-period-progress-entry-mobile.png" alt="모바일 폭 390px의 수강 강좌 목록에서 상태 필터·완료 수업 수 2강/8강·진도율 25%와 페이지 이동 위치를 보여 주는 화면" width="390"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-period-progress-list-navigation.gif" alt="수강 강좌의 전체·완료 필터와 표시된 기간·진도를 읽는 과정"><figcaption></figcaption></figure>
+
 ## 2. 수강 기간과 종료일 읽기 <a href="#step-2" id="step-2"></a>
 
 <figure><img src="../.gitbook/assets/branding/learning-period-progress-illustration-v1.png" alt="수강 일정 달력과 학습 체크리스트"><figcaption></figcaption></figure>

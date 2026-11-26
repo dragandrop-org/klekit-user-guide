@@ -64,6 +64,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-digital-resource-entry.png" alt="내 학습의 디지털 자료 목록에서 확인하는 상태 필터와 지급된 자료 없음 안내"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-resource-troubleshooting-list-return.gif" alt="디지털 자료의 상태 필터와 기존 PDF 상세를 확인한 뒤 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 4. 창은 열렸는데 파일이 없거나 안 열릴 때 <a href="#step-4" id="step-4"></a>
 
 | 멈춘 단계 | 확인할 것 | 주의할 점 |

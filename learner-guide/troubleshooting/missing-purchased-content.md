@@ -80,6 +80,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-my-courses-entry.png" alt="수강 강좌 목록의 전체·수강 중·완료·만료 필터와 예시 강좌"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-missing-content-list-navigation.gif" alt="전체·완료 필터를 바꿔 지급받은 예시 강좌를 찾고 전체 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 5. 내 자료의 필터와 이용 상태 확인하기 <a href="#step-5" id="step-5"></a>
 
 1. **내 학습 → 내 자료**에서 **전체**를 선택합니다. 받음·미받음 필터와 다른 페이지도 확인합니다.
