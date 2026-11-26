@@ -77,6 +77,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/su01-trial-terms-before-start-guide-1920.png" alt="무료체험 시작 전 계정 1회·14일·기능 제한과 자동 결제 안내"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/plan-trial-review-and-cancel.gif" alt="현재 플랜에서 무료체험 안내를 열어 기간과 제한을 확인한 뒤 시작하지 않고 취소하는 과정"><figcaption></figcaption></figure>
+
 ## 4. 체험 시작·종료 결과 확인하기 <a href="#step-4" id="step-4"></a>
 
 실제로 체험을 신청한 경우 다음을 함께 확인합니다.

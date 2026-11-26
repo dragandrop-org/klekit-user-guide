@@ -51,6 +51,8 @@ PC에서는 페이지를 바꿔도 중요 공지가 다시 상단에 보일 수 
 
 <figure><img src="../.gitbook/assets/screenshots/learner-notice-search-and-more.png" alt="복습 검색어가 입력된 공지 목록의 검색·정렬·페이지 이동 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-notice-list-navigation.gif" alt="공지 목록에서 복습을 검색하고 공지 내용을 읽은 뒤 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 4. 상세 본문에서 대상과 일정 확인하기 <a href="#step-4" id="step-4"></a>
 
 1. 필요한 공지의 제목·행/카드를 누릅니다.

@@ -37,6 +37,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-signup-login-entry.png" alt="수강생 로그인 화면의 빈 아이디·비밀번호 입력란과 회원가입·계정 찾기·간편 로그인 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-signup-navigation.gif" alt="로그인에서 가입 방식을 선택하고 빈 이메일 인증 화면을 확인한 뒤 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 2. 이메일 인증하기 <a href="#step-2" id="step-2"></a>
 
 이메일로 처음 가입할 때 진행합니다. 소셜 가입 후 이메일 인증 화면이 나온 경우에도 같은 방식으로 확인합니다.

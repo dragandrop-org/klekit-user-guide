@@ -125,6 +125,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/first-textbook-sales-status-student-product.png" alt="교재 예시 상품의 생성 완료·1만원과 비공개 저장·판매 시작 선택. 구매·재고 차감·배송이 실행된 상태가 아님"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/first-textbook-product-list-detail-review.gif" alt="예시 교재 상품의 목록·연결 교재와 관리자 미리보기를 확인한 뒤 상세로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 6. 주문·배송 대상 확인하기 <a href="#step-6" id="step-6"></a>
 
 아래는 구매자가 실제 구매할 때 확인할 내용과 운영자가 구매 후 대조할 결과입니다. 판매 전 구매 흐름 점검이 필요하다면 운영 책임자에게 별도로 요청합니다. **주문서 진입도 주문 생성·쿠폰/재고 예약으로 이어질 수 있고, 최종 0원이면 별도 결제 버튼 전 자동 처리될 수 있으므로** 화면을 보려고 시험 삼아 들어가지 않습니다.

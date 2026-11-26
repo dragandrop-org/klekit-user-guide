@@ -36,6 +36,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-signup-login-entry.png" alt="로그인 화면에서 아이디 찾기·비밀번호 재설정으로 들어가는 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-account-recovery-navigation.gif" alt="아이디 찾기와 비밀번호 재설정의 빈 초기 화면을 확인하고 로그인으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 2. 등록한 휴대폰으로 아이디 찾기 <a href="#step-2" id="step-2"></a>
 
 1. **아이디(이메일) 찾기** 화면에서 **휴대폰 번호**의 국가를 확인합니다. 국내 번호라면 **대한민국 +82**를 선택합니다.

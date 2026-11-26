@@ -60,6 +60,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-product-digital-components-mobile.png" alt="모바일 크기 브라우저에서 무료 PDF 상품의 상품 구성과 구매 영역을 확인하는 화면" width="390"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-product-detail-navigation.gif" alt="예시 무료 자료의 상품 소개와 포함 자료를 확인하고 전체 상품 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ### 패키지 구성 확인하기 <a href="#section-5" id="section-5"></a>
 
 1. **콘텐츠 구성 / 상품 구성**에서 항목별 이름과 **강좌 / 교재 / 디지털 자료**를 확인합니다.

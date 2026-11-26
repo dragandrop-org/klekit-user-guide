@@ -128,6 +128,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/first-course-sales-status-student-product.png" alt="예시 강좌 상품이 생성된 뒤 30일 수강 기한·5만원과 비공개로 저장·판매 시작을 구분하는 화면. 판매 시작은 하지 않음"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/first-course-product-list-detail-review.gif" alt="예시 강좌 상품의 목록·연결 콘텐츠와 관리자 미리보기를 확인한 뒤 상세로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 7. 결제와 실제 수강 확인하기 <a href="#step-7" id="step-7"></a>
 
 아래는 **구매자가 직접 구매할 때와 구매 후 본인 계정에서 확인할 항목**입니다. 이미 결제를 시도했다면 새 구매를 시작하지 말고 기존 주문의 처리 결과부터 확인합니다. 운영자는 본인 권한으로 같은 주문과 연결된 수강권을 대조합니다. 운영자·강사 미리보기로 학생의 이용 성공을 판단하거나 학생 비밀번호를 받아 대신 로그인하지 않습니다. 판매 전 구매 흐름 점검이 필요하다면 직접 결제하지 말고 운영 책임자에게 별도로 요청합니다.

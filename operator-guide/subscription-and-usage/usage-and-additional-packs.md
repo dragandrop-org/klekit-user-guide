@@ -121,6 +121,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/su03-quota-pack-quote-guide-1920.png" alt="추가 팩의 오늘 결제 견적과 다음 달 금액·유효시간"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/quota-pack-quote-review-and-selection-reset.gif" alt="시청시간 팩을 임시 선택해 견적을 읽고 취소한 뒤 화면 선택을 원래대로 돌리는 과정"><figcaption></figcaption></figure>
+
 ## 5. 현재 적용과 다음 갱신 설정 대조하기 <a href="#step-5" id="step-5"></a>
 
 팩 변경을 요청했다면 다음 결과를 대조합니다.

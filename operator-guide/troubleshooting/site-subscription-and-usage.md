@@ -105,6 +105,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/plan-catalog-current-and-trial-labels-pc-01.png" alt="플랜 관리에서 현재 플랜과 선택 가능한 플랜·체험 안내를 확인하는 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/troubleshooting-existing-plan-and-usage-review.gif" alt="기존 플랜과 현재 사용량·팩 설정을 읽고 같은 플랜 화면으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ## 5. 카드 등록·현재 선택·구독 청구 결과 구분하기 <a href="#step-5" id="step-5"></a>
 
 **카드 등록, 사이트에서 사용할 카드 변경, 구독/팩 결제는 별도 결과**입니다. 결제수단을 좌우로 넘겨 본 것·사용 중 표시·변경 성공·실제 청구 당시 카드를 구분합니다. 정산금을 받는 계좌와도 다른 업무입니다.

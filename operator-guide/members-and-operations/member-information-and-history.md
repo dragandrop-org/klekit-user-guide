@@ -145,6 +145,8 @@ CSV는 회원 데이터 파일입니다. 수강권 지급·연장·회수용 일
 
 <figure><img src="../.gitbook/assets/screenshots/member-csv-entry-virtual-student-1080.png" alt="가상 회원 검색 결과와 CSV 다운로드 버튼 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/member-search-filter-and-detail.gif" alt="가상 회원을 검색하고 조회 필터·수강내역·예시 주문을 확인하는 과정. 개인정보와 다른 거래는 가림"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 조회할 사이트와 회원이 맞고 동명이인을 구분했습니다.

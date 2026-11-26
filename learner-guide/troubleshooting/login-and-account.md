@@ -15,6 +15,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/learner-signup-login-entry.png" alt="비밀번호와 아이디를 입력하지 않은 학원 로그인 화면과 기존 로그인 방식·계정 찾기 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/learner-login-troubleshooting-navigation.gif" alt="입력이나 인증 없이 아이디 찾기·비밀번호 재설정의 위치를 확인하는 과정"><figcaption></figcaption></figure>
+
 ## 내 상황에 맞는 안내 선택하기 <a href="#section-2" id="section-2"></a>
 
 | 지금 상황 | 먼저 볼 내용 | 연결 안내 |

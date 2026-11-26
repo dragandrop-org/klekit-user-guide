@@ -110,6 +110,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/order-payment-history-filters.png" alt="결제 내역에서 주문 검색과 상태·기간 조건을 확인하는 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/troubleshooting-existing-order-review.gif" alt="기존 0원 예시 주문을 검색해 상태와 금액을 읽고 목록으로 돌아오는 과정"><figcaption></figcaption></figure>
+
 ### 언제 기다리고 언제 멈추나요 <a href="#section-7" id="section-7"></a>
 
 원 주문이 처리 중이고 같은 주문의 상태 갱신이 안내될 때만 해당 결과를 기다립니다. 처리 중·조회 오류·추가 확인 필요는 서로 다릅니다. 고정 대기 시간을 안내하거나, 기다린 뒤 같은 결제를 다시 누르면 해결된다고 설명하지 않습니다.
