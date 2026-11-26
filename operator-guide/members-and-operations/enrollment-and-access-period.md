@@ -125,6 +125,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/mb02-dummy-enrollment-result-guide-1920.png" alt="가상 학생에게 지급한 예시 강좌의 수강 상태·진도·종료일"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/enrollment-grant-and-result-check.gif" alt="가상 학생에게 새 예시 강좌를 30일 지급하고 수강 내역을 다시 여는 과정. 계정·회원 정보는 가림"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 대상 사이트·회원·강좌와 변경 사유가 맞는지 확인했습니다.

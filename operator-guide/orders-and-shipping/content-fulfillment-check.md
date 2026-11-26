@@ -88,6 +88,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/first-digital-resource-download-save-open.png" alt="예시 PDF의 다운로드 안내와 다운로드 확인 버튼. 링크 발급 시 단순 취소 제한과 10분 유효시간 안내"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/order-test-resource-download-check.gif" alt="기존 예시 PDF의 다운로드 안내를 읽고 파일을 받은 뒤 자료 목록으로 돌아오는 과정. 계정 정보는 가림"><figcaption></figcaption></figure>
+
 ### 새 파일로 바꿨는데 이전 파일을 받는다면 <a href="#section-7" id="section-7"></a>
 
 자료의 권한은 **구매 당시 파일 버전**에 연결됩니다. 관리자가 [자료 파일을 교체](../content-management/digital-resource-and-files.md)해도 기존 구매자의 권한이 최신 파일로 자동 변경된다고 안내하지 않습니다.

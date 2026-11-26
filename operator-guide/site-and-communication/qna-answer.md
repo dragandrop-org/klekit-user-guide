@@ -89,6 +89,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/qna-reply-status-dialog-options.png" alt="답글 등록 후 상태 창의 기본 답변 중과 답변 완료 선택지"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/qna-reply-register-and-recheck.gif" alt="새 예시 질문에 답글을 작성하고 답변 완료를 선택해 등록한 뒤 같은 질문을 다시 확인하는 과정. 계정·회원 정보는 가림"><figcaption></figcaption></figure>
+
 ## 5. 상태만 변경하거나 추가 답글 달기 <a href="#step-5" id="step-5"></a>
 
 답글 없이 상태만 바꾸려면 상세의 **답변 상태 변경**을 사용합니다. 상태 변경 권한이 있는 계정에 표시됩니다.
