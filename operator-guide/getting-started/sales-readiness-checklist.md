@@ -157,6 +157,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/sales-start-decision-example-document.png" alt="설정 입력과 실제 이용 확인을 구분한 가상 판매 준비 판단표"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/sales-checklist-document-walkthrough.gif" alt="판매 준비 가이드에서 점검 기준·상품별 범위·구매 후 제공·남은 조건 위치를 찾아보는 과정. 문서 탐색 예시"><figcaption></figcaption></figure>
+
 ## 완료 후 확인 <a href="#completion-checklist" id="completion-checklist"></a>
 
 - [ ] 대상 사이트·상품·구성과 무료/유료 판매 방식을 정했습니다.

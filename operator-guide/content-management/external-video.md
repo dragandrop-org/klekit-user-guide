@@ -76,6 +76,8 @@ YouTube·Vimeo에 올린 영상을 수업에 연결합니다. 파일을 클킷�
 
 연결 해제는 클킷 수업에서 외부 영상 연결을 끊는 작업입니다. YouTube·Vimeo 원본 삭제와 다릅니다. 기존 직접 업로드 파일로 자동 복원되거나 취소만으로 이미 실행된 업로드 작업이 되돌아간다고 가정하지 않습니다.
 
+<figure><img src="../.gitbook/assets/gifs/external-video-replace.gif" alt="새 초안 강좌의 외부 영상 URL을 교체하고 길이를 확인·저장한 뒤 다시 여는 과정. 계정 정보는 가림"><figcaption>예시 영상 출처: <a href="https://www.youtube.com/watch?v=YE7VzlLtp-4">Big Buck Bunny</a> (Blender Foundation / www.bigbuckbunny.org, <a href="https://peach.blender.org/about/">CC BY 3.0</a>) → <a href="https://www.youtube.com/watch?v=eRsGyueVLvQ">Sintel</a> (Blender Foundation, <a href="https://durian.blender.org/about/">Creative Commons Attribution</a>).</figcaption></figure>
+
 ## 5. 진도와 시청 상태 구분하기 <a href="#step-5" id="step-5"></a>
 
 외부 영상은 직접 업로드 영상과 같은 **진도율·이어보기 저장을 제공하는 방식이 아닙니다**. 수강생 화면의 안내와 표시된 시청 상태를 확인합니다.

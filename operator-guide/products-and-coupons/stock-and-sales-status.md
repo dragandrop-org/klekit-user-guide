@@ -64,6 +64,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/textbook-stock-history-and-adjustment.png" alt="예시 교재의 초기 입고 이력과 입고·변동 수량·상세 사유를 입력한 재고 조정 창이며 조정은 실행하지 않은 화면"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/textbook-test-stock-adjustment.gif" alt="상품에 연결하지 않은 가상 교재에 5권을 추가하고 총 재고 10권 → 15권과 처리 이력을 확인하는 과정. 계정 정보는 가림"><figcaption></figcaption></figure>
+
 ## 3. 판매 시작·중지 적용하기 <a href="#step-3" id="step-3"></a>
 
 상품 상세의 **운영 설정**에서 **판매 상태 변경**을 엽니다.
