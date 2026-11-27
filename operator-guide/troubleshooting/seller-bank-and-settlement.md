@@ -89,6 +89,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/settlement-list-and-period.png" alt="정산 회차 목록에서 상태·금액과 상세 진입을 확인하는 위치"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/troubleshooting-existing-settlement-review.gif" alt="같은 정산 회차의 상세와 지급 대기·거래 없음 안내를 조회하고 목록으로 돌아오는 과정. 정산 생성·확정·지급은 하지 않음"><figcaption></figcaption></figure>
+
 ## 4. 매출·환불·수수료·세금·전체/페이지 금액 대조하기 <a href="#step-4" id="step-4"></a>
 
 **총 매출·순매출·정산 잔액·지급대상액은 같은 금액이 아닙니다.** 같은 회차의 원 금액 근거와 환불·수수료·이월·보류를 나누어 확인합니다. 현재 상품가나 수수료율로 과거 정산을 다시 계산하지 않습니다.

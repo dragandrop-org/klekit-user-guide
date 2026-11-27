@@ -76,6 +76,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/settlement-transactions-and-csv.png" alt="주문별 집계 근거를 확인할 수 없음 안내와 비어 있는 결제·취소 거래 원장·정산 원장. 빈 목록을 정상 대사 완료로 해석하지 않는 사례"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/settlement-detail-and-recheck.gif" alt="기존 정산 회차를 열어 금액·지급 대기·포함 거래 없음 안내를 확인한 뒤 목록으로 돌아오는 과정. 새 정산 생성·확정·지급은 하지 않음"><figcaption></figcaption></figure>
+
 ## 4. 정산 확정과 지급 상태 구분하기 <a href="#step-4" id="step-4"></a>
 
 먼저 금액이 예상인지 확정인지, 이어서 실제 지급이 요청·진행·완료됐는지 확인합니다. **아래는 상태를 구분하기 위한 설명입니다. 실제 화면의 상태명과 표시 위치는 아직 확인이 필요합니다.** 화면에 필요한 정보가 없으면 상태를 추정하지 말고 담당자에게 확인합니다.

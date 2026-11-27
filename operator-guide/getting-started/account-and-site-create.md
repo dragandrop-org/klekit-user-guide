@@ -73,6 +73,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/platform-site-address-confirmation-before-create-pc.png" alt="사이트 주소는 생성 이후 변경할 수 없다는 확인창과 취소·사이트 생성하고 계속하기 버튼"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/site-create-confirm-and-cancel.gif" alt="예시 이름·주소를 입력하고 주소 확인 창에서 취소해 입력 화면으로 돌아오는 과정. 사이트 생성은 하지 않음"><figcaption></figcaption></figure>
+
 ## 4. 대표 과목·사이트 설명 저장하기 <a href="#step-4" id="step-4"></a>
 
 1. **운영정보 설정**에서 필수 **대표 강의과목**을 선택합니다.
