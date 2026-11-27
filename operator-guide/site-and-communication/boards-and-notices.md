@@ -68,6 +68,8 @@
 
 <figure><img src="../.gitbook/assets/screenshots/notice-pinned-example-visitor-mobile.png" alt="모바일 방문자 공지 목록의 중요 표시와 상단 고정 예시 공지" width="390"><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/gifs/notice-edit-pin-and-recheck.gif" alt="예시 공지의 본문 수정·저장 후 상단 고정하고 방문자 목록의 중요 표시를 확인하는 과정. 계정 정보는 가림"><figcaption></figcaption></figure>
+
 ## 3. 사용자 정의 게시판 만들고 정책 정하기 <a href="#step-3" id="step-3"></a>
 
 이 절은 **사용자 정의 게시판이 제공되는 환경에서만** 진행합니다.
